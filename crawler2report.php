@@ -14,7 +14,6 @@ class Crawler {
                 ));
             }
         }
-        echo json_encode($results);
     }
 
     public function getData($page) {
