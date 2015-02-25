@@ -2,10 +2,18 @@
 
 class Crawler {
 
+    public $totalFetched = false;
+    public $totalPages = 10;
+    public $tmpPath = '';
+
     public function main() {
-        $fp = fopen('php://output', 'w');
+        $this->tmpPath = __DIR__ . '/tmp/reports';
+        if (!file_exists($this->tmpPath)) {
+            mkdir($this->tmpPath, 0777, true);
+        }
+        $fp = fopen(__DIR__ . '/reports.csv', 'w');
         $results = array();
-        for ($i = 1; $i <= 647; $i ++) {
+        for ($i = 1; $i <= $this->totalPages; $i ++) {
             foreach ($this->getData($i) as $result) {
                 fputcsv($fp, array(
                     $result->name,
@@ -38,15 +46,21 @@ class Crawler {
         }
         $url = 'http://sunshine.cy.gov.tw/GipOpenWeb/wSite/sp';
         $url .= '?' . implode('&', $terms);
-        $curl = curl_init($url);
-        error_log($url);
+        $cachedFile = $this->tmpPath . '/' . md5($url);
+        if (!file_exists($cachedFile)) {
+            $curl = curl_init($url);
+            error_log($url);
+            curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+            file_put_contents($cachedFile, curl_exec($curl));
+        }
+        $ret = file_get_contents($cachedFile);
 
-        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-        //curl_setopt($curl, CURLOPT_POST, true);
-        //curl_setopt($curl, CURLOPT_POSTFIELDS, implode('&', $terms));
-
-        $ret = curl_exec($curl);
-        //$ret = file_get_contents('tmp');
+        if (false === $this->totalFetched) {
+            $pos = strpos($ret, '<div class="page">');
+            $pos = strpos($ret, '<strong>', $pos) + 8;
+            $this->totalPages = substr($ret, $pos, strpos($ret, '</', $pos) - $pos);
+            $this->totalFetched = true;
+        }
 
         $doc = new DOMDocument;
         @$doc->loadHTML($ret);
@@ -72,7 +86,7 @@ class Crawler {
 
             $results[] = $result;
         }
-        
+
         return $results;
     }
 
