@@ -8,6 +8,7 @@ while($line = fgetcsv($fh, 2048)) {
     $line[1] = str_replace(array('(', ')'), array('_', '_'), $line[1]);
     $tmpFile = $tmpPath . '/' . md5($line[2]) . '.doc';
     $txtFile = "{$txtPath}/{$line[1]}.txt";
+    echo "processing {$txtFile}\n";
     if(!file_exists($tmpFile)) {
         file_put_contents($tmpFile, file_get_contents($line[2]));
     }

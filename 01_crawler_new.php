@@ -5,7 +5,7 @@ class Crawler {
     public function main() {
         $fp = fopen('php://output', 'w');
         // 103/4/24
-        $baseTime = strtotime('2014-04-24');
+        $baseTime = strtotime('2014-12-01');
         for ($i = 1; $i <= 1000; $i ++) {
             foreach ($this->getData($i) as $result) {
                 $date = explode('/', $result->allow);
