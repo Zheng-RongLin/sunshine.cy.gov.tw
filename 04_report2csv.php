@@ -87,25 +87,80 @@ foreach (glob($txtPath . '/*.txt') AS $file) {
             $data['公共關係費用支出'] = 93947;
             break;
         default:
-            $fh = fopen($file, 'r');
-            $currentToken = false;
-            while ($line = fgets($fh, 1024)) {
-                $line = trim($line);
-                if (false === $currentToken) {
-                    if (isset($tokens[$line])) {
-                        $currentToken = $line;
+            if (false !== strpos($account, '03年')) {
+                $fh = fopen($file, 'r');
+                $num = array();
+                while ($line = fgets($fh, 1024)) {
+                    $line = trim($line);
+                    $line = str_replace(',', '', $line);
+                    if (preg_match('/[0-9\\-]/', substr($line, 0, 1))) {
+                        $spacePos = strpos($line, ' ');
+                        if (false === $spacePos) {
+                            $num[] = $line;
+                        } else {
+                            $num[] = substr($line, 0, $spacePos);
+                        }
                     }
-                } else {
-                    $line = str_replace(array(','), array(''), $line);
-                    $data[$currentToken] = $line;
-                    $currentToken = false;
                 }
+                switch (count($num)) {
+                    case 23:
+                        $data['個人捐贈收入'] = $num[2];
+                        $data['營利事業捐贈收入'] = $num[3];
+                        $data['政黨捐贈收入'] = $num[4];
+                        $data['人民團體捐贈收入'] = $num[5];
+                        $data['匿名捐贈收入'] = $num[6];
+                        $data['其他收入'] = $num[7];
+                        $data['人事費用支出'] = $num[9];
+                        $data['宣傳支出'] = $num[10];
+                        $data['租用宣傳車輛支出'] = $num[11];
+                        $data['租用競選辦事處支出'] = $num[12];
+                        $data['集會支出'] = $num[13];
+                        $data['交通旅運支出'] = $num[14];
+                        $data['雜支支出'] = $num[15];
+                        $data['返還捐贈支出'] = $num[16];
+                        $data['繳庫支出'] = $num[17];
+                        $data['公共關係費用支出'] = $num[18];
+                        break;
+                    case 24:
+                        $data['個人捐贈收入'] = $num[2];
+                        $data['營利事業捐贈收入'] = $num[3];
+                        $data['政黨捐贈收入'] = $num[4];
+                        $data['人民團體捐贈收入'] = $num[5];
+                        $data['匿名捐贈收入'] = $num[6];
+                        $data['其他收入'] = $num[7];
+                        $data['人事費用支出'] = $num[10];
+                        $data['宣傳支出'] = $num[11];
+                        $data['租用宣傳車輛支出'] = $num[12];
+                        $data['租用競選辦事處支出'] = $num[13];
+                        $data['集會支出'] = $num[14];
+                        $data['交通旅運支出'] = $num[15];
+                        $data['雜支支出'] = $num[16];
+                        $data['返還捐贈支出'] = $num[17];
+                        $data['繳庫支出'] = $num[18];
+                        $data['公共關係費用支出'] = $num[19];
+                        break;
+                }
+            } else {
+                $fh = fopen($file, 'r');
+                $currentToken = false;
+                while ($line = fgets($fh, 1024)) {
+                    $line = trim($line);
+                    if (false === $currentToken) {
+                        if (isset($tokens[$line])) {
+                            $currentToken = $line;
+                        }
+                    } else {
+                        $line = str_replace(array(','), array(''), $line);
+                        $data[$currentToken] = $line;
+                        $currentToken = false;
+                    }
+                }
+                if (count($data) !== 18) {
+                    print_r($data);
+                    exit();
+                }
+                fclose($fh);
             }
-            if (count($data) !== 18) {
-                print_r($data);
-                exit();
-            }
-            fclose($fh);
     }
 
     if (false === $labelLine) {
