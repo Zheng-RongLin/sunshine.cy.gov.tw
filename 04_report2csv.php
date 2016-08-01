@@ -20,6 +20,19 @@ $tokens = array(
     '繳庫支出' => 0,
     '公共關係費用支出' => 0,);
 $labelLine = false;
+$targetTypes = array(
+    '第8屆臺中市立法委員補選',
+    '第17屆彰化縣永靖鄉鄉長補選',
+    '第17屆彰化縣線西鄉鄉長重行選舉',
+    '第1屆桃園市中壢區仁德里里長補選',
+    '第20屆宜蘭縣頭城鎮鎮民代表補選',
+    '第8屆南投縣立法委員補選',
+    '第8屆屏東縣立法委員補選',
+    '第8屆彰化縣立法委員補選',
+    '第8屆新竹縣竹北市新崙里里長補選',
+    '第8屆臺中市立法委員補選',
+    '第8屆苗栗縣立法委員補選',
+);
 foreach (glob($txtPath . '/*.txt') AS $file) {
     $account = basename($file);
     $account = str_replace(array('擬選人'), array('擬參選人'), $account);
@@ -139,6 +152,65 @@ foreach (glob($txtPath . '/*.txt') AS $file) {
                         $data['繳庫支出'] = $num[18];
                         $data['公共關係費用支出'] = $num[19];
                         break;
+                }
+            } elseif (false !== strpos($account, '05年') || in_array($accountParts[0], $targetTypes)) {
+                $fh = fopen($file, 'r');
+                $lineCount = 0;
+                while ($line = fgets($fh, 1024)) {
+                    $line = trim(str_replace(',', '', $line));
+                    if (preg_match('/^[0-9]+$/', $line)) {
+                        ++$lineCount;
+                        switch ($lineCount) {
+                            case 1:
+                                $data['個人捐贈收入'] = $line;
+                                break;
+                            case 2:
+                                $data['營利事業捐贈收入'] = $line;
+                                break;
+                            case 3:
+                                $data['政黨捐贈收入'] = $line;
+                                break;
+                            case 4:
+                                $data['人民團體捐贈收入'] = $line;
+                                break;
+                            case 5:
+                                $data['匿名捐贈收入'] = $line;
+                                break;
+                            case 6:
+                                $data['其他收入'] = $line;
+                                break;
+                            case 7:
+                                $data['人事費用支出'] = $line;
+                                break;
+                            case 8:
+                                $data['宣傳支出'] = $line;
+                                break;
+                            case 10:
+                                $data['租用宣傳車輛支出'] = $line;
+                                break;
+                            case 11:
+                                $data['租用競選辦事處支出'] = $line;
+                                break;
+                            case 12:
+                                $data['集會支出'] = $line;
+                                break;
+                            case 15:
+                                $data['交通旅運支出'] = $line;
+                                break;
+                            case 13:
+                                $data['雜支支出'] = $line;
+                                break;
+                            case 14:
+                                $data['返還捐贈支出'] = $line;
+                                break;
+                            case 16:
+                                $data['繳庫支出'] = $line;
+                                break;
+                            case 17:
+                                $data['公共關係費用支出'] = $line;
+                                break;
+                        }
+                    }
                 }
             } else {
                 $fh = fopen($file, 'r');
