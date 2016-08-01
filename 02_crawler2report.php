@@ -49,7 +49,7 @@ class Crawler {
         $cachedFile = $this->tmpPath . '/' . md5($url);
         if (!file_exists($cachedFile)) {
             $curl = curl_init($url);
-            error_log($url);
+            error_log("{$url} -> {$cachedFile}");
             curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
             file_put_contents($cachedFile, curl_exec($curl));
         }
@@ -73,18 +73,20 @@ class Crawler {
         }
 
         $results = array();
-        foreach ($table_dom->getElementsByTagName('tr') as $tr_dom) {
-            $td_doms = $tr_dom->getElementsByTagName('td');
-            $td_dom = $td_doms->item(0);
-            if (!$td_dom) {
-                continue;
-            }
-            $result = new StdClass;
-            $result->name = $td_doms->item(0)->nodeValue;
-            $result->account_name = $td_doms->item(1)->nodeValue;
-            $result->file = 'http://sunshine.cy.gov.tw' . $td_doms->item(2)->childNodes->item(0)->attributes->item(0)->nodeValue;
+        if(!empty($table_dom)) {
+          foreach ($table_dom->getElementsByTagName('tr') as $tr_dom) {
+              $td_doms = $tr_dom->getElementsByTagName('td');
+              $td_dom = $td_doms->item(0);
+              if (!$td_dom) {
+                  continue;
+              }
+              $result = new StdClass;
+              $result->name = $td_doms->item(0)->nodeValue;
+              $result->account_name = $td_doms->item(1)->nodeValue;
+              $result->file = 'http://sunshine.cy.gov.tw' . $td_doms->item(2)->childNodes->item(0)->attributes->item(0)->nodeValue;
 
-            $results[] = $result;
+              $results[] = $result;
+          }
         }
 
         return $results;
