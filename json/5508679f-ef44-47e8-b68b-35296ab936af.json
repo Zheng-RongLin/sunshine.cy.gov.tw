@@ -295,38 +295,36 @@
                 "code": "10020",
                 "population": "270826",
                 "population_electors": "209286",
-                "keywords": "2016,嘉義市"
+                "keywords": "2016,嘉義市",
+                "election_id": "5508679f-ef44-47e8-b68b-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-70f4-4759-81fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "李俊俋",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55be5704-8210-4e4a-b1f9-38556ab936af",
+                        "stage": "1",
+                        "name": "翁壽良",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55be5728-6230-4852-a7dc-74616ab936af",
+                        "stage": "1",
+                        "name": "黃宏成台灣阿成世界偉人財神總統",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d406da-55e8-4ff4-982c-77346ab936af",
+                        "stage": "1",
+                        "name": "吳育仁",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508679f-ef44-47e8-b68b-35296ab936af",
-        "election": "2016-01 > 立法委員 > 嘉義市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-70f4-4759-81fc-025cacb5b862",
-                "stage": "2",
-                "name": "李俊俋",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55be5704-8210-4e4a-b1f9-38556ab936af",
-                "stage": "1",
-                "name": "翁壽良",
-                "party": "無"
-            },
-            {
-                "id": "55be5728-6230-4852-a7dc-74616ab936af",
-                "stage": "1",
-                "name": "黃宏成台灣阿成世界偉人財神總統",
-                "party": "無"
-            },
-            {
-                "id": "55d406da-55e8-4ff4-982c-77346ab936af",
-                "stage": "1",
-                "name": "吳育仁",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

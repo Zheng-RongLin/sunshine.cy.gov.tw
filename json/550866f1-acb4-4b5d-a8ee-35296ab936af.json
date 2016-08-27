@@ -663,7 +663,23 @@
                 "code": "10008020",
                 "population": "83232",
                 "population_electors": "66654",
-                "keywords": "2016,南投縣,埔里鎮"
+                "keywords": "2016,南投縣,埔里鎮",
+                "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c570-4434-836b-025cacb5b862",
+                        "stage": "2",
+                        "name": "馬文君",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
+                        "stage": "1",
+                        "name": "張國鑫",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1052,7 +1068,23 @@
                 "code": "10008030",
                 "population": "99273",
                 "population_electors": "79319",
-                "keywords": "2016,南投縣,草屯鎮"
+                "keywords": "2016,南投縣,草屯鎮",
+                "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c570-4434-836b-025cacb5b862",
+                        "stage": "2",
+                        "name": "馬文君",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
+                        "stage": "1",
+                        "name": "張國鑫",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1545,7 +1577,23 @@
                 "code": "10008080",
                 "population": "15607",
                 "population_electors": "13128",
-                "keywords": "2016,南投縣,中寮鄉"
+                "keywords": "2016,南投縣,中寮鄉",
+                "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c570-4434-836b-025cacb5b862",
+                        "stage": "2",
+                        "name": "馬文君",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
+                        "stage": "1",
+                        "name": "張國鑫",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1938,7 +1986,23 @@
                 "code": "10008090",
                 "population": "16555",
                 "population_electors": "13784",
-                "keywords": "2016,南投縣,魚池鄉"
+                "keywords": "2016,南投縣,魚池鄉",
+                "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c570-4434-836b-025cacb5b862",
+                        "stage": "2",
+                        "name": "馬文君",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
+                        "stage": "1",
+                        "name": "張國鑫",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2567,7 +2631,23 @@
                 "code": "10008100",
                 "population": "19798",
                 "population_electors": "16696",
-                "keywords": "2016,南投縣,國姓鄉"
+                "keywords": "2016,南投縣,國姓鄉",
+                "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c570-4434-836b-025cacb5b862",
+                        "stage": "2",
+                        "name": "馬文君",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
+                        "stage": "1",
+                        "name": "張國鑫",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3764,26 +3844,24 @@
                 "code": "10008130",
                 "population": "15848",
                 "population_electors": "11930",
-                "keywords": "2016,南投縣,仁愛鄉"
+                "keywords": "2016,南投縣,仁愛鄉",
+                "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c570-4434-836b-025cacb5b862",
+                        "stage": "2",
+                        "name": "馬文君",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
+                        "stage": "1",
+                        "name": "張國鑫",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866f1-acb4-4b5d-a8ee-35296ab936af",
-        "election": "2016-01 > 立法委員 > 南投縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-c570-4434-836b-025cacb5b862",
-                "stage": "2",
-                "name": "馬文君",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55ae1234-3b64-49ac-9f44-67696ab936af",
-                "stage": "1",
-                "name": "張國鑫",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }

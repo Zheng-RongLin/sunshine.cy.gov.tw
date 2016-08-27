@@ -227,7 +227,35 @@
                 "code": "67000270",
                 "population": "72956",
                 "population_electors": "59869",
-                "keywords": "2016,臺南市,仁德區"
+                "keywords": "2016,臺南市,仁德區",
+                "election_id": "55086605-2a2c-4e6a-a7f5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-0290-4f06-bdd2-025cacb5b862",
+                        "stage": "1",
+                        "name": "晏揚清",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550ce6ee-dfa4-4817-a358-084b6ab936af",
+                        "stage": "2",
+                        "name": "王定宇",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce703-c2f4-4cb1-8597-08496ab936af",
+                        "stage": "1",
+                        "name": "李盈蒔",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55ad16a6-bd9c-48fb-9e6e-490a6ab936af",
+                        "stage": "1",
+                        "name": "林易煌",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -448,7 +476,35 @@
                 "code": "67000280",
                 "population": "67399",
                 "population_electors": "53503",
-                "keywords": "2016,臺南市,歸仁區"
+                "keywords": "2016,臺南市,歸仁區",
+                "election_id": "55086605-2a2c-4e6a-a7f5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-0290-4f06-bdd2-025cacb5b862",
+                        "stage": "1",
+                        "name": "晏揚清",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550ce6ee-dfa4-4817-a358-084b6ab936af",
+                        "stage": "2",
+                        "name": "王定宇",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce703-c2f4-4cb1-8597-08496ab936af",
+                        "stage": "1",
+                        "name": "李盈蒔",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55ad16a6-bd9c-48fb-9e6e-490a6ab936af",
+                        "stage": "1",
+                        "name": "林易煌",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -897,7 +953,35 @@
                 "code": "67000290",
                 "population": "34898",
                 "population_electors": "28880",
-                "keywords": "2016,臺南市,關廟區"
+                "keywords": "2016,臺南市,關廟區",
+                "election_id": "55086605-2a2c-4e6a-a7f5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-0290-4f06-bdd2-025cacb5b862",
+                        "stage": "1",
+                        "name": "晏揚清",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550ce6ee-dfa4-4817-a358-084b6ab936af",
+                        "stage": "2",
+                        "name": "王定宇",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce703-c2f4-4cb1-8597-08496ab936af",
+                        "stage": "1",
+                        "name": "李盈蒔",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55ad16a6-bd9c-48fb-9e6e-490a6ab936af",
+                        "stage": "1",
+                        "name": "林易煌",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1242,7 +1326,35 @@
                 "code": "67000300",
                 "population": "4297",
                 "population_electors": "3818",
-                "keywords": "2016,臺南市,龍崎區"
+                "keywords": "2016,臺南市,龍崎區",
+                "election_id": "55086605-2a2c-4e6a-a7f5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-0290-4f06-bdd2-025cacb5b862",
+                        "stage": "1",
+                        "name": "晏揚清",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550ce6ee-dfa4-4817-a358-084b6ab936af",
+                        "stage": "2",
+                        "name": "王定宇",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce703-c2f4-4cb1-8597-08496ab936af",
+                        "stage": "1",
+                        "name": "李盈蒔",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55ad16a6-bd9c-48fb-9e6e-490a6ab936af",
+                        "stage": "1",
+                        "name": "林易煌",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1459,38 +1571,36 @@
                 "code": "67000310",
                 "population": "228264",
                 "population_electors": "179032",
-                "keywords": "2016,臺南市,永康區"
+                "keywords": "2016,臺南市,永康區",
+                "election_id": "55086605-2a2c-4e6a-a7f5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-0290-4f06-bdd2-025cacb5b862",
+                        "stage": "1",
+                        "name": "晏揚清",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550ce6ee-dfa4-4817-a358-084b6ab936af",
+                        "stage": "2",
+                        "name": "王定宇",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce703-c2f4-4cb1-8597-08496ab936af",
+                        "stage": "1",
+                        "name": "李盈蒔",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55ad16a6-bd9c-48fb-9e6e-490a6ab936af",
+                        "stage": "1",
+                        "name": "林易煌",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086605-2a2c-4e6a-a7f5-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 臺南市 > 第05選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-0290-4f06-bdd2-025cacb5b862",
-                "stage": "1",
-                "name": "晏揚清",
-                "party": "台灣工黨"
-            },
-            {
-                "id": "550ce6ee-dfa4-4817-a358-084b6ab936af",
-                "stage": "2",
-                "name": "王定宇",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce703-c2f4-4cb1-8597-08496ab936af",
-                "stage": "1",
-                "name": "李盈蒔",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "55ad16a6-bd9c-48fb-9e6e-490a6ab936af",
-                "stage": "1",
-                "name": "林易煌",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

@@ -51,7 +51,35 @@
                 "code": "64000090-009",
                 "population": "1796",
                 "population_electors": "1509",
-                "keywords": "2016,高雄市,前鎮區,明禮里"
+                "keywords": "2016,高雄市,前鎮區,明禮里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -96,7 +124,35 @@
                 "code": "64000090-010",
                 "population": "1756",
                 "population_electors": "1482",
-                "keywords": "2016,高雄市,前鎮區,信義里"
+                "keywords": "2016,高雄市,前鎮區,信義里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -149,7 +205,35 @@
                 "code": "64000090-007",
                 "population": "2976",
                 "population_electors": "2564",
-                "keywords": "2016,高雄市,前鎮區,平等里"
+                "keywords": "2016,高雄市,前鎮區,平等里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -198,7 +282,35 @@
                 "code": "64000090-004",
                 "population": "2752",
                 "population_electors": "2240",
-                "keywords": "2016,高雄市,前鎮區,明義里"
+                "keywords": "2016,高雄市,前鎮區,明義里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -291,7 +403,35 @@
                 "code": "64000090-002",
                 "population": "2882",
                 "population_electors": "2377",
-                "keywords": "2016,高雄市,前鎮區,明孝里"
+                "keywords": "2016,高雄市,前鎮區,明孝里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -336,7 +476,35 @@
                 "code": "64000090-006",
                 "population": "2317",
                 "population_electors": "1925",
-                "keywords": "2016,高雄市,前鎮區,德昌里"
+                "keywords": "2016,高雄市,前鎮區,德昌里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -393,7 +561,35 @@
                 "code": "64000090-001",
                 "population": "11088",
                 "population_electors": "8814",
-                "keywords": "2016,高雄市,前鎮區,草衙里"
+                "keywords": "2016,高雄市,前鎮區,草衙里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -438,7 +634,35 @@
                 "code": "64000090-008",
                 "population": "803",
                 "population_electors": "662",
-                "keywords": "2016,高雄市,前鎮區,平昌里"
+                "keywords": "2016,高雄市,前鎮區,平昌里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -515,7 +739,35 @@
                 "code": "64000090-003",
                 "population": "5925",
                 "population_electors": "4770",
-                "keywords": "2016,高雄市,前鎮區,明正里"
+                "keywords": "2016,高雄市,前鎮區,明正里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -568,7 +820,35 @@
                 "code": "64000090-005",
                 "population": "1506",
                 "population_electors": "1289",
-                "keywords": "2016,高雄市,前鎮區,仁愛里"
+                "keywords": "2016,高雄市,前鎮區,仁愛里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -613,7 +893,35 @@
                 "code": "64000090-029",
                 "population": "4898",
                 "population_electors": "3939",
-                "keywords": "2016,高雄市,前鎮區,民權里"
+                "keywords": "2016,高雄市,前鎮區,民權里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -654,7 +962,35 @@
                 "code": "64000090-016",
                 "population": "2064",
                 "population_electors": "1796",
-                "keywords": "2016,高雄市,前鎮區,鎮東里"
+                "keywords": "2016,高雄市,前鎮區,鎮東里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -703,7 +1039,35 @@
                 "code": "64000090-020",
                 "population": "1090",
                 "population_electors": "993",
-                "keywords": "2016,高雄市,前鎮區,鎮陽里"
+                "keywords": "2016,高雄市,前鎮區,鎮陽里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -760,7 +1124,35 @@
                 "code": "64000090-031",
                 "population": "2486",
                 "population_electors": "2117",
-                "keywords": "2016,高雄市,前鎮區,振興里"
+                "keywords": "2016,高雄市,前鎮區,振興里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -809,7 +1201,35 @@
                 "code": "64000090-012",
                 "population": "1304",
                 "population_electors": "1094",
-                "keywords": "2016,高雄市,前鎮區,明道里"
+                "keywords": "2016,高雄市,前鎮區,明道里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -854,7 +1274,35 @@
                 "code": "64000090-017",
                 "population": "2603",
                 "population_electors": "2212",
-                "keywords": "2016,高雄市,前鎮區,鎮榮里"
+                "keywords": "2016,高雄市,前鎮區,鎮榮里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -911,7 +1359,35 @@
                 "code": "64000090-018",
                 "population": "2535",
                 "population_electors": "2103",
-                "keywords": "2016,高雄市,前鎮區,鎮昌里"
+                "keywords": "2016,高雄市,前鎮區,鎮昌里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -960,7 +1436,35 @@
                 "code": "64000090-014",
                 "population": "869",
                 "population_electors": "758",
-                "keywords": "2016,高雄市,前鎮區,興仁里"
+                "keywords": "2016,高雄市,前鎮區,興仁里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1013,7 +1517,35 @@
                 "code": "64000090-024",
                 "population": "5635",
                 "population_electors": "4790",
-                "keywords": "2016,高雄市,前鎮區,忠純里"
+                "keywords": "2016,高雄市,前鎮區,忠純里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1058,7 +1590,35 @@
                 "code": "64000090-011",
                 "population": "2765",
                 "population_electors": "2267",
-                "keywords": "2016,高雄市,前鎮區,信德里"
+                "keywords": "2016,高雄市,前鎮區,信德里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1099,7 +1659,35 @@
                 "code": "64000090-022",
                 "population": "911",
                 "population_electors": "801",
-                "keywords": "2016,高雄市,前鎮區,鎮中里"
+                "keywords": "2016,高雄市,前鎮區,鎮中里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1140,7 +1728,35 @@
                 "code": "64000090-015",
                 "population": "1637",
                 "population_electors": "1377",
-                "keywords": "2016,高雄市,前鎮區,前鎮里"
+                "keywords": "2016,高雄市,前鎮區,前鎮里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1185,7 +1801,35 @@
                 "code": "64000090-028",
                 "population": "3950",
                 "population_electors": "3423",
-                "keywords": "2016,高雄市,前鎮區,西山里"
+                "keywords": "2016,高雄市,前鎮區,西山里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1274,7 +1918,35 @@
                 "code": "64000090-023",
                 "population": "1212",
                 "population_electors": "1062",
-                "keywords": "2016,高雄市,前鎮區,鎮北里"
+                "keywords": "2016,高雄市,前鎮區,鎮北里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1335,7 +2007,35 @@
                 "code": "64000090-030",
                 "population": "1319",
                 "population_electors": "1116",
-                "keywords": "2016,高雄市,前鎮區,建隆里"
+                "keywords": "2016,高雄市,前鎮區,建隆里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1408,7 +2108,35 @@
                 "code": "64000090-025",
                 "population": "2476",
                 "population_electors": "2106",
-                "keywords": "2016,高雄市,前鎮區,忠誠里"
+                "keywords": "2016,高雄市,前鎮區,忠誠里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1457,7 +2185,35 @@
                 "code": "64000090-019",
                 "population": "4804",
                 "population_electors": "3940",
-                "keywords": "2016,高雄市,前鎮區,鎮海里"
+                "keywords": "2016,高雄市,前鎮區,鎮海里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1514,7 +2270,35 @@
                 "code": "64000090-021",
                 "population": "3217",
                 "population_electors": "2575",
-                "keywords": "2016,高雄市,前鎮區,興邦里"
+                "keywords": "2016,高雄市,前鎮區,興邦里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1579,7 +2363,35 @@
                 "code": "64000090-013",
                 "population": "859",
                 "population_electors": "747",
-                "keywords": "2016,高雄市,前鎮區,興化里"
+                "keywords": "2016,高雄市,前鎮區,興化里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1624,7 +2436,35 @@
                 "code": "64000090-048",
                 "population": "3731",
                 "population_electors": "2656",
-                "keywords": "2016,高雄市,前鎮區,瑞豐里"
+                "keywords": "2016,高雄市,前鎮區,瑞豐里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1673,7 +2513,35 @@
                 "code": "64000090-038",
                 "population": "3110",
                 "population_electors": "2645",
-                "keywords": "2016,高雄市,前鎮區,忠孝里"
+                "keywords": "2016,高雄市,前鎮區,忠孝里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1718,7 +2586,35 @@
                 "code": "64000090-036",
                 "population": "3595",
                 "population_electors": "3083",
-                "keywords": "2016,高雄市,前鎮區,興中里"
+                "keywords": "2016,高雄市,前鎮區,興中里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1787,7 +2683,35 @@
                 "code": "64000090-046",
                 "population": "2111",
                 "population_electors": "1591",
-                "keywords": "2016,高雄市,前鎮區,瑞竹里"
+                "keywords": "2016,高雄市,前鎮區,瑞竹里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1832,7 +2756,35 @@
                 "code": "64000090-033",
                 "population": "2291",
                 "population_electors": "1936",
-                "keywords": "2016,高雄市,前鎮區,西甲里"
+                "keywords": "2016,高雄市,前鎮區,西甲里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1877,7 +2829,35 @@
                 "code": "64000090-032",
                 "population": "3224",
                 "population_electors": "2730",
-                "keywords": "2016,高雄市,前鎮區,良和里"
+                "keywords": "2016,高雄市,前鎮區,良和里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1930,7 +2910,35 @@
                 "code": "64000090-047",
                 "population": "5894",
                 "population_electors": "4411",
-                "keywords": "2016,高雄市,前鎮區,瑞南里"
+                "keywords": "2016,高雄市,前鎮區,瑞南里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -1971,7 +2979,35 @@
                 "code": "64000090-034",
                 "population": "3053",
                 "population_electors": "2640",
-                "keywords": "2016,高雄市,前鎮區,盛興里"
+                "keywords": "2016,高雄市,前鎮區,盛興里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2024,7 +3060,35 @@
                 "code": "64000090-035",
                 "population": "3292",
                 "population_electors": "2879",
-                "keywords": "2016,高雄市,前鎮區,盛豐里"
+                "keywords": "2016,高雄市,前鎮區,盛豐里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2069,7 +3133,35 @@
                 "code": "64000090-054",
                 "population": "3400",
                 "population_electors": "2918",
-                "keywords": "2016,高雄市,前鎮區,瑞北里"
+                "keywords": "2016,高雄市,前鎮區,瑞北里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2114,7 +3206,35 @@
                 "code": "64000090-055",
                 "population": "3025",
                 "population_electors": "2599",
-                "keywords": "2016,高雄市,前鎮區,瑞西里"
+                "keywords": "2016,高雄市,前鎮區,瑞西里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2167,7 +3287,35 @@
                 "code": "64000090-060",
                 "population": "5315",
                 "population_electors": "4266",
-                "keywords": "2016,高雄市,前鎮區,瑞華里"
+                "keywords": "2016,高雄市,前鎮區,瑞華里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2216,7 +3364,35 @@
                 "code": "64000090-061",
                 "population": "3483",
                 "population_electors": "2883",
-                "keywords": "2016,高雄市,前鎮區,瑞昌里"
+                "keywords": "2016,高雄市,前鎮區,瑞昌里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2257,7 +3433,35 @@
                 "code": "64000090-057",
                 "population": "3036",
                 "population_electors": "2527",
-                "keywords": "2016,高雄市,前鎮區,瑞興里"
+                "keywords": "2016,高雄市,前鎮區,瑞興里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2298,7 +3502,35 @@
                 "code": "64000090-050",
                 "population": "2979",
                 "population_electors": "2216",
-                "keywords": "2016,高雄市,前鎮區,瑞東里"
+                "keywords": "2016,高雄市,前鎮區,瑞東里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2343,7 +3575,35 @@
                 "code": "64000090-056",
                 "population": "2941",
                 "population_electors": "2500",
-                "keywords": "2016,高雄市,前鎮區,瑞崗里"
+                "keywords": "2016,高雄市,前鎮區,瑞崗里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2384,7 +3644,35 @@
                 "code": "64000090-058",
                 "population": "3070",
                 "population_electors": "2581",
-                "keywords": "2016,高雄市,前鎮區,瑞誠里"
+                "keywords": "2016,高雄市,前鎮區,瑞誠里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2425,7 +3713,35 @@
                 "code": "64000090-053",
                 "population": "4359",
                 "population_electors": "3372",
-                "keywords": "2016,高雄市,前鎮區,瑞隆里"
+                "keywords": "2016,高雄市,前鎮區,瑞隆里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2470,7 +3786,35 @@
                 "code": "64000090-059",
                 "population": "2832",
                 "population_electors": "2335",
-                "keywords": "2016,高雄市,前鎮區,瑞文里"
+                "keywords": "2016,高雄市,前鎮區,瑞文里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2515,7 +3859,35 @@
                 "code": "64000090-051",
                 "population": "2617",
                 "population_electors": "1902",
-                "keywords": "2016,高雄市,前鎮區,瑞和里"
+                "keywords": "2016,高雄市,前鎮區,瑞和里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2560,7 +3932,35 @@
                 "code": "64000090-049",
                 "population": "6317",
                 "population_electors": "4505",
-                "keywords": "2016,高雄市,前鎮區,瑞祥里"
+                "keywords": "2016,高雄市,前鎮區,瑞祥里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2609,7 +4009,35 @@
                 "code": "64000090-052",
                 "population": "4905",
                 "population_electors": "3602",
-                "keywords": "2016,高雄市,前鎮區,瑞平里"
+                "keywords": "2016,高雄市,前鎮區,瑞平里",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -2986,38 +4414,36 @@
                 "code": "64000110",
                 "population": "155893",
                 "population_electors": "123827",
-                "keywords": "2016,高雄市,小港區"
+                "keywords": "2016,高雄市,小港區",
+                "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-84b4-450a-beaf-025cacb5b862",
+                        "stage": "1",
+                        "name": "林國正",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce75b-e408-4e53-88ff-08496ab936af",
+                        "stage": "1",
+                        "name": "蔡媽福",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
+                        "stage": "2",
+                        "name": "賴瑞隆",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5613661b-a074-483b-aa36-647c6ab936af",
+                        "stage": "1",
+                        "name": "林宗彥",
+                        "party": "民國黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508664e-9d38-4996-8a32-35296ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第09選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-84b4-450a-beaf-025cacb5b862",
-                "stage": "1",
-                "name": "林國正",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce75b-e408-4e53-88ff-08496ab936af",
-                "stage": "1",
-                "name": "蔡媽福",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "550da53c-9df0-4a9d-90eb-126d6ab936af",
-                "stage": "2",
-                "name": "賴瑞隆",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "5613661b-a074-483b-aa36-647c6ab936af",
-                "stage": "1",
-                "name": "林宗彥",
-                "party": "民國黨"
-            }
-        ]
-    }
+    ]
 }

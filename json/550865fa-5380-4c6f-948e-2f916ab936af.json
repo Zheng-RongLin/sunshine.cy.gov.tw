@@ -107,7 +107,35 @@
                 "code": "67000340",
                 "population": "132459",
                 "population_electors": "106145",
-                "keywords": "2016,臺南市,北區"
+                "keywords": "2016,臺南市,北區",
+                "election_id": "550865fa-5380-4c6f-948e-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b798-485e-91dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳亭妃",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b7b518-1e0c-49f3-9ecc-318f6ab936af",
+                        "stage": "1",
+                        "name": "謝龍介",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55f0c679-640c-452e-a945-185a6ab936af",
+                        "stage": "1",
+                        "name": "翁琬甯",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "561364e6-17d4-4166-a46a-647c6ab936af",
+                        "stage": "1",
+                        "name": "鄧秀寶",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -320,7 +348,35 @@
                 "code": "67000350",
                 "population": "187160",
                 "population_electors": "147063",
-                "keywords": "2016,臺南市,安南區"
+                "keywords": "2016,臺南市,安南區",
+                "election_id": "550865fa-5380-4c6f-948e-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b798-485e-91dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳亭妃",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b7b518-1e0c-49f3-9ecc-318f6ab936af",
+                        "stage": "1",
+                        "name": "謝龍介",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55f0c679-640c-452e-a945-185a6ab936af",
+                        "stage": "1",
+                        "name": "翁琬甯",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "561364e6-17d4-4166-a46a-647c6ab936af",
+                        "stage": "1",
+                        "name": "鄧秀寶",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -417,38 +473,36 @@
                 "code": "67000370",
                 "population": "78064",
                 "population_electors": "63621",
-                "keywords": "2016,臺南市,中西區"
+                "keywords": "2016,臺南市,中西區",
+                "election_id": "550865fa-5380-4c6f-948e-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b798-485e-91dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳亭妃",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b7b518-1e0c-49f3-9ecc-318f6ab936af",
+                        "stage": "1",
+                        "name": "謝龍介",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55f0c679-640c-452e-a945-185a6ab936af",
+                        "stage": "1",
+                        "name": "翁琬甯",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "561364e6-17d4-4166-a46a-647c6ab936af",
+                        "stage": "1",
+                        "name": "鄧秀寶",
+                        "party": "民國黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865fa-5380-4c6f-948e-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 臺南市 > 第03選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-b798-485e-91dc-025cacb5b862",
-                "stage": "2",
-                "name": "陳亭妃",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55b7b518-1e0c-49f3-9ecc-318f6ab936af",
-                "stage": "1",
-                "name": "謝龍介",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55f0c679-640c-452e-a945-185a6ab936af",
-                "stage": "1",
-                "name": "翁琬甯",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "561364e6-17d4-4166-a46a-647c6ab936af",
-                "stage": "1",
-                "name": "鄧秀寶",
-                "party": "民國黨"
-            }
-        ]
-    }
+    ]
 }

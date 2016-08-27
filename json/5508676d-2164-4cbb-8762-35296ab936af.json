@@ -3599,26 +3599,24 @@
                 "code": "10014",
                 "population": "224931",
                 "population_electors": "180084",
-                "keywords": "2016,臺東縣"
+                "keywords": "2016,臺東縣",
+                "election_id": "5508676d-2164-4cbb-8762-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cf74-4d9b-b0a5-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉櫂豪",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "551161a1-af40-4f0d-805f-17a06ab936af",
+                        "stage": "1",
+                        "name": "陳建閣",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508676d-2164-4cbb-8762-35296ab936af",
-        "election": "2016-01 > 立法委員 > 臺東縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-cf74-4d9b-b0a5-025cacb5b862",
-                "stage": "2",
-                "name": "劉櫂豪",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "551161a1-af40-4f0d-805f-17a06ab936af",
-                "stage": "1",
-                "name": "陳建閣",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

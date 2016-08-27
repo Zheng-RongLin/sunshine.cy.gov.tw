@@ -187,7 +187,59 @@
                 "code": "63000090",
                 "population": "120744",
                 "population_electors": "97180",
-                "keywords": "2016,臺北市,南港區"
+                "keywords": "2016,臺北市,南港區",
+                "election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180a45-85d4-4da6-9179-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "李岳峰",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55180ae2-9fa4-4a4b-82ea-0c5a6ab936af",
+                        "stage": "1",
+                        "name": "林少馳",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "55180af8-686c-4dc6-9181-17a06ab936af",
+                        "stage": "1",
+                        "name": "蕭亞譚",
+                        "party": "台灣團結聯盟"
+                    },
+                    {
+                        "id": "55180b0b-f5c4-4497-8ee2-0c5a6ab936af",
+                        "stage": "2",
+                        "name": "李彥秀",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180b22-9e4c-4bc2-8917-0c5a6ab936af",
+                        "stage": "1",
+                        "name": "何偉",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555ab97a-c0e0-4379-a550-5a316ab936af",
+                        "stage": "1",
+                        "name": "黃珊珊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "558d4a26-4508-4f6d-aefa-111d6ab936af",
+                        "stage": "1",
+                        "name": "陳尚志",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55afcc81-6e80-412e-89ea-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳兆銘",
+                        "party": "台灣獨立黨"
+                    }
+                ]
             }
         },
         {
@@ -380,62 +432,60 @@
                 "code": "63000100",
                 "population": "284767",
                 "population_electors": "223823",
-                "keywords": "2016,臺北市,內湖區"
+                "keywords": "2016,臺北市,內湖區",
+                "election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180a45-85d4-4da6-9179-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "李岳峰",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55180ae2-9fa4-4a4b-82ea-0c5a6ab936af",
+                        "stage": "1",
+                        "name": "林少馳",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "55180af8-686c-4dc6-9181-17a06ab936af",
+                        "stage": "1",
+                        "name": "蕭亞譚",
+                        "party": "台灣團結聯盟"
+                    },
+                    {
+                        "id": "55180b0b-f5c4-4497-8ee2-0c5a6ab936af",
+                        "stage": "2",
+                        "name": "李彥秀",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180b22-9e4c-4bc2-8917-0c5a6ab936af",
+                        "stage": "1",
+                        "name": "何偉",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555ab97a-c0e0-4379-a550-5a316ab936af",
+                        "stage": "1",
+                        "name": "黃珊珊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "558d4a26-4508-4f6d-aefa-111d6ab936af",
+                        "stage": "1",
+                        "name": "陳尚志",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55afcc81-6e80-412e-89ea-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳兆銘",
+                        "party": "台灣獨立黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086526-97a0-4c1e-be70-28956ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第04選區[區域]",
-        "candidates": [
-            {
-                "id": "55180a45-85d4-4da6-9179-5d0e6ab936af",
-                "stage": "1",
-                "name": "李岳峰",
-                "party": "和平鴿聯盟黨"
-            },
-            {
-                "id": "55180ae2-9fa4-4a4b-82ea-0c5a6ab936af",
-                "stage": "1",
-                "name": "林少馳",
-                "party": "時代力量"
-            },
-            {
-                "id": "55180af8-686c-4dc6-9181-17a06ab936af",
-                "stage": "1",
-                "name": "蕭亞譚",
-                "party": "台灣團結聯盟"
-            },
-            {
-                "id": "55180b0b-f5c4-4497-8ee2-0c5a6ab936af",
-                "stage": "2",
-                "name": "李彥秀",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55180b22-9e4c-4bc2-8917-0c5a6ab936af",
-                "stage": "1",
-                "name": "何偉",
-                "party": "無"
-            },
-            {
-                "id": "555ab97a-c0e0-4379-a550-5a316ab936af",
-                "stage": "1",
-                "name": "黃珊珊",
-                "party": "親民黨"
-            },
-            {
-                "id": "558d4a26-4508-4f6d-aefa-111d6ab936af",
-                "stage": "1",
-                "name": "陳尚志",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "55afcc81-6e80-412e-89ea-676c6ab936af",
-                "stage": "1",
-                "name": "陳兆銘",
-                "party": "台灣獨立黨"
-            }
-        ]
-    }
+    ]
 }

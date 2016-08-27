@@ -263,7 +263,23 @@
                 "code": "10013020",
                 "population": "54812",
                 "population_electors": "44282",
-                "keywords": "2016,屏東縣,潮州鎮"
+                "keywords": "2016,屏東縣,潮州鎮",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -510,7 +526,23 @@
                 "code": "10013060",
                 "population": "30471",
                 "population_electors": "25276",
-                "keywords": "2016,屏東縣,長治鄉"
+                "keywords": "2016,屏東縣,長治鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -727,7 +759,23 @@
                 "code": "10013080",
                 "population": "22247",
                 "population_electors": "18016",
-                "keywords": "2016,屏東縣,九如鄉"
+                "keywords": "2016,屏東縣,九如鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -996,7 +1044,23 @@
                 "code": "10013090",
                 "population": "26730",
                 "population_electors": "21400",
-                "keywords": "2016,屏東縣,里港鄉"
+                "keywords": "2016,屏東縣,里港鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1213,7 +1277,23 @@
                 "code": "10013100",
                 "population": "26670",
                 "population_electors": "21875",
-                "keywords": "2016,屏東縣,鹽埔鄉"
+                "keywords": "2016,屏東縣,鹽埔鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1490,7 +1570,23 @@
                 "code": "10013110",
                 "population": "25653",
                 "population_electors": "21661",
-                "keywords": "2016,屏東縣,高樹鄉"
+                "keywords": "2016,屏東縣,高樹鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1995,7 +2091,23 @@
                 "code": "10013120",
                 "population": "20955",
                 "population_electors": "17389",
-                "keywords": "2016,屏東縣,萬巒鄉"
+                "keywords": "2016,屏東縣,萬巒鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2284,7 +2396,23 @@
                 "code": "10013130",
                 "population": "56250",
                 "population_electors": "46142",
-                "keywords": "2016,屏東縣,內埔鄉"
+                "keywords": "2016,屏東縣,內埔鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2517,7 +2645,23 @@
                 "code": "10013140",
                 "population": "17763",
                 "population_electors": "15083",
-                "keywords": "2016,屏東縣,竹田鄉"
+                "keywords": "2016,屏東縣,竹田鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2934,7 +3078,23 @@
                 "code": "10013260",
                 "population": "7804",
                 "population_electors": "6157",
-                "keywords": "2016,屏東縣,三地門鄉"
+                "keywords": "2016,屏東縣,三地門鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -3439,7 +3599,23 @@
                 "code": "10013290",
                 "population": "5312",
                 "population_electors": "4086",
-                "keywords": "2016,屏東縣,泰武鄉"
+                "keywords": "2016,屏東縣,泰武鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -3916,7 +4092,23 @@
                 "code": "10013270",
                 "population": "3468",
                 "population_electors": "2914",
-                "keywords": "2016,屏東縣,霧臺鄉"
+                "keywords": "2016,屏東縣,霧臺鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -4233,26 +4425,24 @@
                 "code": "10013280",
                 "population": "6711",
                 "population_electors": "5386",
-                "keywords": "2016,屏東縣,瑪家鄉"
+                "keywords": "2016,屏東縣,瑪家鄉",
+                "election_id": "55086734-0420-4412-872e-28956ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
+                        "stage": "2",
+                        "name": "蘇震清",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
+                        "stage": "1",
+                        "name": "廖婉汝",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086734-0420-4412-872e-28956ab936af",
-        "election": "2016-01 > 立法委員 > 屏東縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-5a00-43bc-9f57-025cacb5b862",
-                "stage": "2",
-                "name": "蘇震清",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55d15849-e790-48cd-9d21-69ea6ab936af",
-                "stage": "1",
-                "name": "廖婉汝",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

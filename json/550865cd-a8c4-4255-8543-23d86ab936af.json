@@ -67,7 +67,29 @@
                 "code": "66000010",
                 "population": "19407",
                 "population_electors": "14517",
-                "keywords": "2016,臺中市,中區"
+                "keywords": "2016,臺中市,中區",
+                "election_id": "550865cd-a8c4-4255-8543-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-632c-479d-acab-025cacb5b862",
+                        "stage": "1",
+                        "name": "賀姿華",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce4a5-05b4-4fbc-a619-084b6ab936af",
+                        "stage": "2",
+                        "name": "黃國書",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60e20-e40c-47dc-addf-03126ab936af",
+                        "stage": "1",
+                        "name": "沈智慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -160,7 +182,29 @@
                 "code": "66000020",
                 "population": "74745",
                 "population_electors": "60318",
-                "keywords": "2016,臺中市,東區"
+                "keywords": "2016,臺中市,東區",
+                "election_id": "550865cd-a8c4-4255-8543-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-632c-479d-acab-025cacb5b862",
+                        "stage": "1",
+                        "name": "賀姿華",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce4a5-05b4-4fbc-a619-084b6ab936af",
+                        "stage": "2",
+                        "name": "黃國書",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60e20-e40c-47dc-addf-03126ab936af",
+                        "stage": "1",
+                        "name": "沈智慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -293,7 +337,29 @@
                 "code": "66000030",
                 "population": "119658",
                 "population_electors": "92990",
-                "keywords": "2016,臺中市,南區"
+                "keywords": "2016,臺中市,南區",
+                "election_id": "550865cd-a8c4-4255-8543-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-632c-479d-acab-025cacb5b862",
+                        "stage": "1",
+                        "name": "賀姿華",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce4a5-05b4-4fbc-a619-084b6ab936af",
+                        "stage": "2",
+                        "name": "黃國書",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60e20-e40c-47dc-addf-03126ab936af",
+                        "stage": "1",
+                        "name": "沈智慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -410,32 +476,30 @@
                 "code": "66000040",
                 "population": "115684",
                 "population_electors": "90243",
-                "keywords": "2016,臺中市,西區"
+                "keywords": "2016,臺中市,西區",
+                "election_id": "550865cd-a8c4-4255-8543-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-632c-479d-acab-025cacb5b862",
+                        "stage": "1",
+                        "name": "賀姿華",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce4a5-05b4-4fbc-a619-084b6ab936af",
+                        "stage": "2",
+                        "name": "黃國書",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60e20-e40c-47dc-addf-03126ab936af",
+                        "stage": "1",
+                        "name": "沈智慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865cd-a8c4-4255-8543-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第06選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-632c-479d-acab-025cacb5b862",
-                "stage": "1",
-                "name": "賀姿華",
-                "party": "無"
-            },
-            {
-                "id": "550ce4a5-05b4-4fbc-a619-084b6ab936af",
-                "stage": "2",
-                "name": "黃國書",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55c60e20-e40c-47dc-addf-03126ab936af",
-                "stage": "1",
-                "name": "沈智慧",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

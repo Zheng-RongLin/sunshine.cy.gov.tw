@@ -175,7 +175,29 @@
                 "code": "66000150",
                 "population": "54035",
                 "population_electors": "41920",
-                "keywords": "2016,臺中市,后里區"
+                "keywords": "2016,臺中市,后里區",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6788-42fa-adfa-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊瓊瓔",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550da01d-3bbc-41dc-acca-0af26ab936af",
+                        "stage": "2",
+                        "name": "洪慈庸",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "55b793ce-de08-46c5-85bc-318c6ab936af",
+                        "stage": "1",
+                        "name": "黃信吉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -372,7 +394,29 @@
                 "code": "66000160",
                 "population": "64870",
                 "population_electors": "50760",
-                "keywords": "2016,臺中市,神岡區"
+                "keywords": "2016,臺中市,神岡區",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6788-42fa-adfa-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊瓊瓔",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550da01d-3bbc-41dc-acca-0af26ab936af",
+                        "stage": "2",
+                        "name": "洪慈庸",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "55b793ce-de08-46c5-85bc-318c6ab936af",
+                        "stage": "1",
+                        "name": "黃信吉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -653,7 +697,29 @@
                 "code": "66000170",
                 "population": "104834",
                 "population_electors": "80932",
-                "keywords": "2016,臺中市,潭子區"
+                "keywords": "2016,臺中市,潭子區",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6788-42fa-adfa-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊瓊瓔",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550da01d-3bbc-41dc-acca-0af26ab936af",
+                        "stage": "2",
+                        "name": "洪慈庸",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "55b793ce-de08-46c5-85bc-318c6ab936af",
+                        "stage": "1",
+                        "name": "黃信吉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -858,32 +924,30 @@
                 "code": "66000180",
                 "population": "92369",
                 "population_electors": "69658",
-                "keywords": "2016,臺中市,大雅區"
+                "keywords": "2016,臺中市,大雅區",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6788-42fa-adfa-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊瓊瓔",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550da01d-3bbc-41dc-acca-0af26ab936af",
+                        "stage": "2",
+                        "name": "洪慈庸",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "55b793ce-de08-46c5-85bc-318c6ab936af",
+                        "stage": "1",
+                        "name": "黃信吉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第03選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-6788-42fa-adfa-025cacb5b862",
-                "stage": "1",
-                "name": "楊瓊瓔",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550da01d-3bbc-41dc-acca-0af26ab936af",
-                "stage": "2",
-                "name": "洪慈庸",
-                "party": "時代力量"
-            },
-            {
-                "id": "55b793ce-de08-46c5-85bc-318c6ab936af",
-                "stage": "1",
-                "name": "黃信吉",
-                "party": "軍公教聯盟黨"
-            }
-        ]
-    }
+    ]
 }

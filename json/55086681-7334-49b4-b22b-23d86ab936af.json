@@ -43,7 +43,23 @@
                 "code": "10003010-008",
                 "population": "1694",
                 "population_electors": "1397",
-                "keywords": "2016,桃園市,桃園區,民生里"
+                "keywords": "2016,桃園市,桃園區,民生里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -84,7 +100,23 @@
                 "code": "10003010-021",
                 "population": "1084",
                 "population_electors": "869",
-                "keywords": "2016,桃園市,桃園區,文昌里"
+                "keywords": "2016,桃園市,桃園區,文昌里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -185,7 +217,23 @@
                 "code": "10003010-018",
                 "population": "3606",
                 "population_electors": "2840",
-                "keywords": "2016,桃園市,桃園區,西埔里"
+                "keywords": "2016,桃園市,桃園區,西埔里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -254,7 +302,23 @@
                 "code": "10003010-017",
                 "population": "2575",
                 "population_electors": "2055",
-                "keywords": "2016,桃園市,桃園區,中埔里"
+                "keywords": "2016,桃園市,桃園區,中埔里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -299,7 +363,23 @@
                 "code": "10003010-016",
                 "population": "4103",
                 "population_electors": "3231",
-                "keywords": "2016,桃園市,桃園區,長安里"
+                "keywords": "2016,桃園市,桃園區,長安里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -348,7 +428,23 @@
                 "code": "10003010-019",
                 "population": "1966",
                 "population_electors": "1531",
-                "keywords": "2016,桃園市,桃園區,西門里"
+                "keywords": "2016,桃園市,桃園區,西門里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -393,7 +489,23 @@
                 "code": "10003010-013",
                 "population": "3324",
                 "population_electors": "2735",
-                "keywords": "2016,桃園市,桃園區,東門里"
+                "keywords": "2016,桃園市,桃園區,東門里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -430,7 +542,23 @@
                 "code": "10003010-007",
                 "population": "1138",
                 "population_electors": "907",
-                "keywords": "2016,桃園市,桃園區,長美里"
+                "keywords": "2016,桃園市,桃園區,長美里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -475,7 +603,23 @@
                 "code": "10003010-009",
                 "population": "2021",
                 "population_electors": "1621",
-                "keywords": "2016,桃園市,桃園區,永興里"
+                "keywords": "2016,桃園市,桃園區,永興里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -516,7 +660,23 @@
                 "code": "10003010-012",
                 "population": "5540",
                 "population_electors": "4329",
-                "keywords": "2016,桃園市,桃園區,東埔里"
+                "keywords": "2016,桃園市,桃園區,東埔里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -561,7 +721,23 @@
                 "code": "10003010-011",
                 "population": "5435",
                 "population_electors": "4244",
-                "keywords": "2016,桃園市,桃園區,永安里"
+                "keywords": "2016,桃園市,桃園區,永安里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -602,7 +778,23 @@
                 "code": "10003010-014",
                 "population": "2149",
                 "population_electors": "1772",
-                "keywords": "2016,桃園市,桃園區,東山里"
+                "keywords": "2016,桃園市,桃園區,東山里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -647,7 +839,23 @@
                 "code": "10003010-023",
                 "population": "7462",
                 "population_electors": "5538",
-                "keywords": "2016,桃園市,桃園區,中山里"
+                "keywords": "2016,桃園市,桃園區,中山里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -692,7 +900,23 @@
                 "code": "10003010-024",
                 "population": "7236",
                 "population_electors": "5433",
-                "keywords": "2016,桃園市,桃園區,慈文里"
+                "keywords": "2016,桃園市,桃園區,慈文里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -793,7 +1017,23 @@
                 "code": "10003010-004",
                 "population": "11758",
                 "population_electors": "8753",
-                "keywords": "2016,桃園市,桃園區,大林里"
+                "keywords": "2016,桃園市,桃園區,大林里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -838,7 +1078,23 @@
                 "code": "10003010-001",
                 "population": "821",
                 "population_electors": "634",
-                "keywords": "2016,桃園市,桃園區,文化里"
+                "keywords": "2016,桃園市,桃園區,文化里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -879,7 +1135,23 @@
                 "code": "10003010-002",
                 "population": "1692",
                 "population_electors": "1326",
-                "keywords": "2016,桃園市,桃園區,文明里"
+                "keywords": "2016,桃園市,桃園區,文明里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -920,7 +1192,23 @@
                 "code": "10003010-020",
                 "population": "1614",
                 "population_electors": "1322",
-                "keywords": "2016,桃園市,桃園區,中和里"
+                "keywords": "2016,桃園市,桃園區,中和里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -969,7 +1257,23 @@
                 "code": "10003010-003",
                 "population": "1740",
                 "population_electors": "1460",
-                "keywords": "2016,桃園市,桃園區,武陵里"
+                "keywords": "2016,桃園市,桃園區,武陵里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1014,7 +1318,23 @@
                 "code": "10003010-022",
                 "population": "10214",
                 "population_electors": "7638",
-                "keywords": "2016,桃園市,桃園區,新埔里"
+                "keywords": "2016,桃園市,桃園區,新埔里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1087,7 +1407,23 @@
                 "code": "10003010-033",
                 "population": "7139",
                 "population_electors": "5242",
-                "keywords": "2016,桃園市,桃園區,福林里"
+                "keywords": "2016,桃園市,桃園區,福林里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1132,7 +1468,23 @@
                 "code": "10003010-034",
                 "population": "6364",
                 "population_electors": "4630",
-                "keywords": "2016,桃園市,桃園區,光興里"
+                "keywords": "2016,桃園市,桃園區,光興里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1173,7 +1525,23 @@
                 "code": "10003010-025",
                 "population": "1770",
                 "population_electors": "1360",
-                "keywords": "2016,桃園市,桃園區,西湖里"
+                "keywords": "2016,桃園市,桃園區,西湖里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1230,7 +1598,23 @@
                 "code": "10003010-043",
                 "population": "5800",
                 "population_electors": "4542",
-                "keywords": "2016,桃園市,桃園區,大豐里"
+                "keywords": "2016,桃園市,桃園區,大豐里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1279,7 +1663,23 @@
                 "code": "10003010-039",
                 "population": "2349",
                 "population_electors": "1908",
-                "keywords": "2016,桃園市,桃園區,朝陽里"
+                "keywords": "2016,桃園市,桃園區,朝陽里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1332,7 +1732,23 @@
                 "code": "10003010-032",
                 "population": "7248",
                 "population_electors": "5409",
-                "keywords": "2016,桃園市,桃園區,雲林里"
+                "keywords": "2016,桃園市,桃園區,雲林里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1385,7 +1801,23 @@
                 "code": "10003010-035",
                 "population": "4237",
                 "population_electors": "3392",
-                "keywords": "2016,桃園市,桃園區,龍山里"
+                "keywords": "2016,桃園市,桃園區,龍山里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1434,7 +1866,23 @@
                 "code": "10003010-040",
                 "population": "6762",
                 "population_electors": "5005",
-                "keywords": "2016,桃園市,桃園區,中興里"
+                "keywords": "2016,桃園市,桃園區,中興里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1483,7 +1931,23 @@
                 "code": "10003010-036",
                 "population": "6664",
                 "population_electors": "5033",
-                "keywords": "2016,桃園市,桃園區,龍岡里"
+                "keywords": "2016,桃園市,桃園區,龍岡里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1528,7 +1992,23 @@
                 "code": "10003010-027",
                 "population": "1746",
                 "population_electors": "1335",
-                "keywords": "2016,桃園市,桃園區,南華里"
+                "keywords": "2016,桃園市,桃園區,南華里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1589,7 +2069,23 @@
                 "code": "10003010-028",
                 "population": "5931",
                 "population_electors": "4723",
-                "keywords": "2016,桃園市,桃園區,玉山里"
+                "keywords": "2016,桃園市,桃園區,玉山里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1634,7 +2130,23 @@
                 "code": "10003010-037",
                 "population": "4613",
                 "population_electors": "3633",
-                "keywords": "2016,桃園市,桃園區,成功里"
+                "keywords": "2016,桃園市,桃園區,成功里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1679,7 +2191,23 @@
                 "code": "10003010-030",
                 "population": "5509",
                 "population_electors": "4430",
-                "keywords": "2016,桃園市,桃園區,中正里"
+                "keywords": "2016,桃園市,桃園區,中正里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1724,7 +2252,23 @@
                 "code": "10003010-041",
                 "population": "7604",
                 "population_electors": "5880",
-                "keywords": "2016,桃園市,桃園區,豐林里"
+                "keywords": "2016,桃園市,桃園區,豐林里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1825,7 +2369,23 @@
                 "code": "10003010-029",
                 "population": "4999",
                 "population_electors": "4025",
-                "keywords": "2016,桃園市,桃園區,中成里"
+                "keywords": "2016,桃園市,桃園區,中成里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1874,7 +2434,23 @@
                 "code": "10003010-042",
                 "population": "5765",
                 "population_electors": "4691",
-                "keywords": "2016,桃園市,桃園區,建國里"
+                "keywords": "2016,桃園市,桃園區,建國里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1927,7 +2503,23 @@
                 "code": "10003010-044",
                 "population": "5122",
                 "population_electors": "3880",
-                "keywords": "2016,桃園市,桃園區,福安里"
+                "keywords": "2016,桃園市,桃園區,福安里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1980,7 +2572,23 @@
                 "code": "10003010-026",
                 "population": "7097",
                 "population_electors": "5446",
-                "keywords": "2016,桃園市,桃園區,南門里"
+                "keywords": "2016,桃園市,桃園區,南門里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2021,7 +2629,23 @@
                 "code": "10003010-031",
                 "population": "1857",
                 "population_electors": "1559",
-                "keywords": "2016,桃園市,桃園區,北門里"
+                "keywords": "2016,桃園市,桃園區,北門里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2066,7 +2690,23 @@
                 "code": "10003010-065",
                 "population": "5262",
                 "population_electors": "3908",
-                "keywords": "2016,桃園市,桃園區,中原里"
+                "keywords": "2016,桃園市,桃園區,中原里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2107,7 +2747,23 @@
                 "code": "10003010-054",
                 "population": "4508",
                 "population_electors": "3567",
-                "keywords": "2016,桃園市,桃園區,中路里"
+                "keywords": "2016,桃園市,桃園區,中路里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2156,7 +2812,23 @@
                 "code": "10003010-048",
                 "population": "7595",
                 "population_electors": "5764",
-                "keywords": "2016,桃園市,桃園區,信光里"
+                "keywords": "2016,桃園市,桃園區,信光里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2209,7 +2881,23 @@
                 "code": "10003010-066",
                 "population": "4931",
                 "population_electors": "3557",
-                "keywords": "2016,桃園市,桃園區,中泰里"
+                "keywords": "2016,桃園市,桃園區,中泰里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2298,7 +2986,23 @@
                 "code": "10003010-055",
                 "population": "7684",
                 "population_electors": "5766",
-                "keywords": "2016,桃園市,桃園區,中德里"
+                "keywords": "2016,桃園市,桃園區,中德里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2347,7 +3051,23 @@
                 "code": "10003010-069",
                 "population": "5266",
                 "population_electors": "3749",
-                "keywords": "2016,桃園市,桃園區,北埔里"
+                "keywords": "2016,桃園市,桃園區,北埔里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2400,7 +3120,23 @@
                 "code": "10003010-050",
                 "population": "9107",
                 "population_electors": "6767",
-                "keywords": "2016,桃園市,桃園區,同安里"
+                "keywords": "2016,桃園市,桃園區,同安里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2469,7 +3205,23 @@
                 "code": "10003010-052",
                 "population": "3066",
                 "population_electors": "2397",
-                "keywords": "2016,桃園市,桃園區,文中里"
+                "keywords": "2016,桃園市,桃園區,文中里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2530,7 +3282,23 @@
                 "code": "10003010-053",
                 "population": "4449",
                 "population_electors": "3484",
-                "keywords": "2016,桃園市,桃園區,泰山里"
+                "keywords": "2016,桃園市,桃園區,泰山里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2575,7 +3343,23 @@
                 "code": "10003010-059",
                 "population": "9881",
                 "population_electors": "7737",
-                "keywords": "2016,桃園市,桃園區,龍鳳里"
+                "keywords": "2016,桃園市,桃園區,龍鳳里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2624,7 +3408,23 @@
                 "code": "10003010-067",
                 "population": "5221",
                 "population_electors": "3850",
-                "keywords": "2016,桃園市,桃園區,南埔里"
+                "keywords": "2016,桃園市,桃園區,南埔里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2677,7 +3477,23 @@
                 "code": "10003010-062",
                 "population": "6286",
                 "population_electors": "4847",
-                "keywords": "2016,桃園市,桃園區,中信里"
+                "keywords": "2016,桃園市,桃園區,中信里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2726,7 +3542,23 @@
                 "code": "10003010-064",
                 "population": "5091",
                 "population_electors": "4010",
-                "keywords": "2016,桃園市,桃園區,中平里"
+                "keywords": "2016,桃園市,桃園區,中平里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2779,7 +3611,23 @@
                 "code": "10003010-063",
                 "population": "5437",
                 "population_electors": "4362",
-                "keywords": "2016,桃園市,桃園區,長德里"
+                "keywords": "2016,桃園市,桃園區,長德里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2852,7 +3700,23 @@
                 "code": "10003010-051",
                 "population": "9200",
                 "population_electors": "6851",
-                "keywords": "2016,桃園市,桃園區,莊敬里"
+                "keywords": "2016,桃園市,桃園區,莊敬里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2905,7 +3769,23 @@
                 "code": "10003010-056",
                 "population": "5454",
                 "population_electors": "4096",
-                "keywords": "2016,桃園市,桃園區,龍祥里"
+                "keywords": "2016,桃園市,桃園區,龍祥里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -2966,7 +3846,23 @@
                 "code": "10003010-060",
                 "population": "5697",
                 "population_electors": "4218",
-                "keywords": "2016,桃園市,桃園區,龍安里"
+                "keywords": "2016,桃園市,桃園區,龍安里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3011,7 +3907,23 @@
                 "code": "10003010-068",
                 "population": "7099",
                 "population_electors": "4932",
-                "keywords": "2016,桃園市,桃園區,寶慶里"
+                "keywords": "2016,桃園市,桃園區,寶慶里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3056,7 +3968,23 @@
                 "code": "10003010-049",
                 "population": "6773",
                 "population_electors": "4979",
-                "keywords": "2016,桃園市,桃園區,中寧里"
+                "keywords": "2016,桃園市,桃園區,中寧里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3101,7 +4029,23 @@
                 "code": "10003010-061",
                 "population": "8171",
                 "population_electors": "6101",
-                "keywords": "2016,桃園市,桃園區,自強里"
+                "keywords": "2016,桃園市,桃園區,自強里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3154,7 +4098,23 @@
                 "code": "10003010-073",
                 "population": "3855",
                 "population_electors": "2889",
-                "keywords": "2016,桃園市,桃園區,明德里"
+                "keywords": "2016,桃園市,桃園區,明德里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3199,7 +4159,23 @@
                 "code": "10003010-074",
                 "population": "9575",
                 "population_electors": "6604",
-                "keywords": "2016,桃園市,桃園區,寶安里"
+                "keywords": "2016,桃園市,桃園區,寶安里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3256,7 +4232,23 @@
                 "code": "10003010-071",
                 "population": "6099",
                 "population_electors": "4489",
-                "keywords": "2016,桃園市,桃園區,龍壽里"
+                "keywords": "2016,桃園市,桃園區,龍壽里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3305,7 +4297,23 @@
                 "code": "10003010-075",
                 "population": "6776",
                 "population_electors": "4822",
-                "keywords": "2016,桃園市,桃園區,瑞慶里"
+                "keywords": "2016,桃園市,桃園區,瑞慶里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3350,7 +4358,23 @@
                 "code": "10003010-070",
                 "population": "6410",
                 "population_electors": "4722",
-                "keywords": "2016,桃園市,桃園區,中聖里"
+                "keywords": "2016,桃園市,桃園區,中聖里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -3395,26 +4419,24 @@
                 "code": "10003010-072",
                 "population": "7521",
                 "population_electors": "5016",
-                "keywords": "2016,桃園市,桃園區,同德里"
+                "keywords": "2016,桃園市,桃園區,同德里",
+                "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-120c-484f-a68d-025cacb5b862",
+                        "stage": "1",
+                        "name": "楊麗環",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
+                        "stage": "2",
+                        "name": "鄭寶清",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086681-7334-49b4-b22b-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 桃園市 > 第04選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-120c-484f-a68d-025cacb5b862",
-                "stage": "1",
-                "name": "楊麗環",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55b5f324-2788-43c3-a1c5-304c6ab936af",
-                "stage": "2",
-                "name": "鄭寶清",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }

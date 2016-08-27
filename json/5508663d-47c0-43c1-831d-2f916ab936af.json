@@ -43,7 +43,35 @@
                 "code": "64000010",
                 "population": "25479",
                 "population_electors": "21736",
-                "keywords": "2016,高雄市,鹽埕區"
+                "keywords": "2016,高雄市,鹽埕區",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -232,7 +260,35 @@
                 "code": "64000020",
                 "population": "135524",
                 "population_electors": "107621",
-                "keywords": "2016,高雄市,鼓山區"
+                "keywords": "2016,高雄市,鼓山區",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -277,7 +333,35 @@
                 "code": "64000050-051",
                 "population": "1194",
                 "population_electors": "984",
-                "keywords": "2016,高雄市,三民區,達勇里"
+                "keywords": "2016,高雄市,三民區,達勇里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -322,7 +406,35 @@
                 "code": "64000050-050",
                 "population": "1798",
                 "population_electors": "1507",
-                "keywords": "2016,高雄市,三民區,達仁里"
+                "keywords": "2016,高雄市,三民區,達仁里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -367,7 +479,35 @@
                 "code": "64000050-049",
                 "population": "1840",
                 "population_electors": "1534",
-                "keywords": "2016,高雄市,三民區,達明里"
+                "keywords": "2016,高雄市,三民區,達明里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -424,7 +564,35 @@
                 "code": "64000050-046",
                 "population": "3457",
                 "population_electors": "2820",
-                "keywords": "2016,高雄市,三民區,安東里"
+                "keywords": "2016,高雄市,三民區,安東里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -469,7 +637,35 @@
                 "code": "64000050-048",
                 "population": "1633",
                 "population_electors": "1343",
-                "keywords": "2016,高雄市,三民區,達德里"
+                "keywords": "2016,高雄市,三民區,達德里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -522,7 +718,35 @@
                 "code": "64000050-047",
                 "population": "2978",
                 "population_electors": "2488",
-                "keywords": "2016,高雄市,三民區,安和里"
+                "keywords": "2016,高雄市,三民區,安和里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -567,7 +791,35 @@
                 "code": "64000050-052",
                 "population": "3180",
                 "population_electors": "2713",
-                "keywords": "2016,高雄市,三民區,同德里"
+                "keywords": "2016,高雄市,三民區,同德里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -616,7 +868,35 @@
                 "code": "64000050-070",
                 "population": "882",
                 "population_electors": "782",
-                "keywords": "2016,高雄市,三民區,港西里"
+                "keywords": "2016,高雄市,三民區,港西里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -653,7 +933,35 @@
                 "code": "64000050-066",
                 "population": "870",
                 "population_electors": "747",
-                "keywords": "2016,高雄市,三民區,立誠里"
+                "keywords": "2016,高雄市,三民區,立誠里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -698,7 +1006,35 @@
                 "code": "64000050-053",
                 "population": "2698",
                 "population_electors": "2255",
-                "keywords": "2016,高雄市,三民區,德智里"
+                "keywords": "2016,高雄市,三民區,德智里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -743,7 +1079,35 @@
                 "code": "64000050-058",
                 "population": "1795",
                 "population_electors": "1516",
-                "keywords": "2016,高雄市,三民區,精華里"
+                "keywords": "2016,高雄市,三民區,精華里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -792,7 +1156,35 @@
                 "code": "64000050-060",
                 "population": "3749",
                 "population_electors": "3077",
-                "keywords": "2016,高雄市,三民區,安宜里"
+                "keywords": "2016,高雄市,三民區,安宜里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -833,7 +1225,35 @@
                 "code": "64000050-067",
                 "population": "1164",
                 "population_electors": "993",
-                "keywords": "2016,高雄市,三民區,立業里"
+                "keywords": "2016,高雄市,三民區,立業里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -874,7 +1294,35 @@
                 "code": "64000050-056",
                 "population": "933",
                 "population_electors": "805",
-                "keywords": "2016,高雄市,三民區,德東里"
+                "keywords": "2016,高雄市,三民區,德東里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -923,7 +1371,35 @@
                 "code": "64000050-065",
                 "population": "2202",
                 "population_electors": "1890",
-                "keywords": "2016,高雄市,三民區,德北里"
+                "keywords": "2016,高雄市,三民區,德北里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -968,7 +1444,35 @@
                 "code": "64000050-063",
                 "population": "1859",
                 "population_electors": "1519",
-                "keywords": "2016,高雄市,三民區,十全里"
+                "keywords": "2016,高雄市,三民區,十全里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1013,7 +1517,35 @@
                 "code": "64000050-069",
                 "population": "1639",
                 "population_electors": "1383",
-                "keywords": "2016,高雄市,三民區,港新里"
+                "keywords": "2016,高雄市,三民區,港新里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1062,7 +1594,35 @@
                 "code": "64000050-062",
                 "population": "4473",
                 "population_electors": "3784",
-                "keywords": "2016,高雄市,三民區,安邦里"
+                "keywords": "2016,高雄市,三民區,安邦里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1107,7 +1667,35 @@
                 "code": "64000050-055",
                 "population": "1724",
                 "population_electors": "1451",
-                "keywords": "2016,高雄市,三民區,安生里"
+                "keywords": "2016,高雄市,三民區,安生里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1152,7 +1740,35 @@
                 "code": "64000050-064",
                 "population": "2140",
                 "population_electors": "1807",
-                "keywords": "2016,高雄市,三民區,十美里"
+                "keywords": "2016,高雄市,三民區,十美里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1197,7 +1813,35 @@
                 "code": "64000050-061",
                 "population": "4494",
                 "population_electors": "3795",
-                "keywords": "2016,高雄市,三民區,安泰里"
+                "keywords": "2016,高雄市,三民區,安泰里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1242,7 +1886,35 @@
                 "code": "64000050-059",
                 "population": "2369",
                 "population_electors": "2007",
-                "keywords": "2016,高雄市,三民區,民享里"
+                "keywords": "2016,高雄市,三民區,民享里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1287,7 +1959,35 @@
                 "code": "64000050-054",
                 "population": "2268",
                 "population_electors": "1923",
-                "keywords": "2016,高雄市,三民區,德仁里"
+                "keywords": "2016,高雄市,三民區,德仁里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1332,7 +2032,35 @@
                 "code": "64000050-057",
                 "population": "1284",
                 "population_electors": "1088",
-                "keywords": "2016,高雄市,三民區,德行里"
+                "keywords": "2016,高雄市,三民區,德行里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1377,7 +2105,35 @@
                 "code": "64000050-068",
                 "population": "1553",
                 "population_electors": "1373",
-                "keywords": "2016,高雄市,三民區,港東里"
+                "keywords": "2016,高雄市,三民區,港東里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1422,7 +2178,35 @@
                 "code": "64000050-075",
                 "population": "1362",
                 "population_electors": "1205",
-                "keywords": "2016,高雄市,三民區,建東里"
+                "keywords": "2016,高雄市,三民區,建東里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1467,7 +2251,35 @@
                 "code": "64000050-081",
                 "population": "2928",
                 "population_electors": "2518",
-                "keywords": "2016,高雄市,三民區,豐裕里"
+                "keywords": "2016,高雄市,三民區,豐裕里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1532,7 +2344,35 @@
                 "code": "64000050-079",
                 "population": "1076",
                 "population_electors": "892",
-                "keywords": "2016,高雄市,三民區,德西里"
+                "keywords": "2016,高雄市,三民區,德西里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1573,7 +2413,35 @@
                 "code": "64000050-074",
                 "population": "1285",
                 "population_electors": "1067",
-                "keywords": "2016,高雄市,三民區,長明里"
+                "keywords": "2016,高雄市,三民區,長明里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1618,7 +2486,35 @@
                 "code": "64000050-077",
                 "population": "1082",
                 "population_electors": "956",
-                "keywords": "2016,高雄市,三民區,鳳南里"
+                "keywords": "2016,高雄市,三民區,鳳南里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1655,7 +2551,35 @@
                 "code": "64000050-087",
                 "population": "1283",
                 "population_electors": "1090",
-                "keywords": "2016,高雄市,三民區,千北里"
+                "keywords": "2016,高雄市,三民區,千北里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1704,7 +2628,35 @@
                 "code": "64000050-073",
                 "population": "4950",
                 "population_electors": "4012",
-                "keywords": "2016,高雄市,三民區,博惠里"
+                "keywords": "2016,高雄市,三民區,博惠里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1761,7 +2713,35 @@
                 "code": "64000050-082",
                 "population": "1473",
                 "population_electors": "1245",
-                "keywords": "2016,高雄市,三民區,川東里"
+                "keywords": "2016,高雄市,三民區,川東里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1806,7 +2786,35 @@
                 "code": "64000050-078",
                 "population": "1619",
                 "population_electors": "1406",
-                "keywords": "2016,高雄市,三民區,鳳北里"
+                "keywords": "2016,高雄市,三民區,鳳北里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1851,7 +2859,35 @@
                 "code": "64000050-083",
                 "population": "1505",
                 "population_electors": "1205",
-                "keywords": "2016,高雄市,三民區,裕民里"
+                "keywords": "2016,高雄市,三民區,裕民里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1892,7 +2928,35 @@
                 "code": "64000050-085",
                 "population": "1327",
                 "population_electors": "1129",
-                "keywords": "2016,高雄市,三民區,千歲里"
+                "keywords": "2016,高雄市,三民區,千歲里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1937,7 +3001,35 @@
                 "code": "64000050-076",
                 "population": "2039",
                 "population_electors": "1732",
-                "keywords": "2016,高雄市,三民區,興德里"
+                "keywords": "2016,高雄市,三民區,興德里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1974,7 +3066,35 @@
                 "code": "64000050-084",
                 "population": "1285",
                 "population_electors": "1102",
-                "keywords": "2016,高雄市,三民區,力行里"
+                "keywords": "2016,高雄市,三民區,力行里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -2023,7 +3143,35 @@
                 "code": "64000050-072",
                 "population": "1418",
                 "population_electors": "1245",
-                "keywords": "2016,高雄市,三民區,博愛里"
+                "keywords": "2016,高雄市,三民區,博愛里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -2068,7 +3216,35 @@
                 "code": "64000050-088",
                 "population": "2355",
                 "population_electors": "2059",
-                "keywords": "2016,高雄市,三民區,千秋里"
+                "keywords": "2016,高雄市,三民區,千秋里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -2117,7 +3293,35 @@
                 "code": "64000050-086",
                 "population": "1333",
                 "population_electors": "1136",
-                "keywords": "2016,高雄市,三民區,立德里"
+                "keywords": "2016,高雄市,三民區,立德里",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -2346,38 +3550,36 @@
                 "code": "64000100",
                 "population": "28960",
                 "population_electors": "23815",
-                "keywords": "2016,高雄市,旗津區"
+                "keywords": "2016,高雄市,旗津區",
+                "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-c110-4770-a1aa-025cacb5b862",
+                        "stage": "2",
+                        "name": "管碧玲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
+                        "stage": "1",
+                        "name": "蔡金晏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
+                        "stage": "1",
+                        "name": "王新昌",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "56594316-32ec-497b-8483-19786ab936af",
+                        "stage": "1",
+                        "name": "楊宗穎",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508663d-47c0-43c1-831d-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第05選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-c110-4770-a1aa-025cacb5b862",
-                "stage": "2",
-                "name": "管碧玲",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "555b4e4c-1184-4a88-a70d-5e226ab936af",
-                "stage": "1",
-                "name": "蔡金晏",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55b793e8-eae0-4bcf-845c-39cf6ab936af",
-                "stage": "1",
-                "name": "王新昌",
-                "party": "軍公教聯盟黨"
-            },
-            {
-                "id": "56594316-32ec-497b-8483-19786ab936af",
-                "stage": "1",
-                "name": "楊宗穎",
-                "party": "和平鴿聯盟黨"
-            }
-        ]
-    }
+    ]
 }

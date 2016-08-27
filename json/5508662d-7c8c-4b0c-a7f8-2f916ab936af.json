@@ -203,7 +203,35 @@
                 "code": "64000150",
                 "population": "43224",
                 "population_electors": "35271",
-                "keywords": "2016,高雄市,大樹區"
+                "keywords": "2016,高雄市,大樹區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -452,7 +480,35 @@
                 "code": "64000160",
                 "population": "34333",
                 "population_electors": "28141",
-                "keywords": "2016,高雄市,大社區"
+                "keywords": "2016,高雄市,大社區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -845,7 +901,35 @@
                 "code": "64000210",
                 "population": "30443",
                 "population_electors": "25042",
-                "keywords": "2016,高雄市,燕巢區"
+                "keywords": "2016,高雄市,燕巢區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1274,7 +1358,35 @@
                 "code": "64000220",
                 "population": "7701",
                 "population_electors": "6876",
-                "keywords": "2016,高雄市,田寮區"
+                "keywords": "2016,高雄市,田寮區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1499,7 +1611,35 @@
                 "code": "64000230",
                 "population": "29560",
                 "population_electors": "23622",
-                "keywords": "2016,高雄市,阿蓮區"
+                "keywords": "2016,高雄市,阿蓮區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -2000,7 +2140,35 @@
                 "code": "64000300",
                 "population": "38183",
                 "population_electors": "31713",
-                "keywords": "2016,高雄市,旗山區"
+                "keywords": "2016,高雄市,旗山區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -2417,7 +2585,35 @@
                 "code": "64000310",
                 "population": "41333",
                 "population_electors": "34998",
-                "keywords": "2016,高雄市,美濃區"
+                "keywords": "2016,高雄市,美濃區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -3102,7 +3298,35 @@
                 "code": "64000320",
                 "population": "13734",
                 "population_electors": "11510",
-                "keywords": "2016,高雄市,六龜區"
+                "keywords": "2016,高雄市,六龜區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -3447,7 +3671,35 @@
                 "code": "64000330",
                 "population": "6426",
                 "population_electors": "5447",
-                "keywords": "2016,高雄市,甲仙區"
+                "keywords": "2016,高雄市,甲仙區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -3880,7 +4132,35 @@
                 "code": "64000340",
                 "population": "10231",
                 "population_electors": "8935",
-                "keywords": "2016,高雄市,杉林區"
+                "keywords": "2016,高雄市,杉林區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -4297,7 +4577,35 @@
                 "code": "64000350",
                 "population": "15215",
                 "population_electors": "12977",
-                "keywords": "2016,高雄市,內門區"
+                "keywords": "2016,高雄市,內門區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -5618,7 +5926,35 @@
                 "code": "64000370",
                 "population": "4289",
                 "population_electors": "3238",
-                "keywords": "2016,高雄市,桃源區"
+                "keywords": "2016,高雄市,桃源區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -6095,7 +6431,35 @@
                 "code": "64000380",
                 "population": "3210",
                 "population_electors": "2323",
-                "keywords": "2016,高雄市,那瑪夏區"
+                "keywords": "2016,高雄市,那瑪夏區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -6524,38 +6888,36 @@
                 "code": "64000360",
                 "population": "1906",
                 "population_electors": "1454",
-                "keywords": "2016,高雄市,茂林區"
+                "keywords": "2016,高雄市,茂林區",
+                "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
+                        "stage": "2",
+                        "name": "邱議瑩",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
+                        "stage": "1",
+                        "name": "鍾易仲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594144-9704-44e3-94f9-094e6ab936af",
+                        "stage": "1",
+                        "name": "劉子麟",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56594169-c234-4e20-b950-0ed66ab936af",
+                        "stage": "1",
+                        "name": "莊婷欣",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508662d-7c8c-4b0c-a7f8-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-9100-4ac5-9cdd-025cacb5b862",
-                "stage": "2",
-                "name": "邱議瑩",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55a6998a-1ba0-4268-8aca-0e3c6ab936af",
-                "stage": "1",
-                "name": "鍾易仲",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56594144-9704-44e3-94f9-094e6ab936af",
-                "stage": "1",
-                "name": "劉子麟",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "56594169-c234-4e20-b950-0ed66ab936af",
-                "stage": "1",
-                "name": "莊婷欣",
-                "party": "和平鴿聯盟黨"
-            }
-        ]
-    }
+    ]
 }

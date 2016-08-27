@@ -287,7 +287,53 @@
                 "code": "10007010",
                 "population": "235134",
                 "population_electors": "181720",
-                "keywords": "2016,彰化縣,彰化市"
+                "keywords": "2016,彰化縣,彰化市",
+                "election_id": "550866d6-c960-4d76-b09d-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4470-4e7a-9774-025cacb5b862",
+                        "stage": "1",
+                        "name": "林滄敏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce4d3-ddd8-43f3-84c4-126d6ab936af",
+                        "stage": "2",
+                        "name": "黃秀芳",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce4eb-6f80-4b73-a9e1-084b6ab936af",
+                        "stage": "1",
+                        "name": "張耀元",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "550ce504-764c-4a7e-9f89-126d6ab936af",
+                        "stage": "1",
+                        "name": "劉泳君",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180e28-7804-4f86-be6e-17a06ab936af",
+                        "stage": "1",
+                        "name": "許永金",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582546-67bc-48ef-bf81-197f6ab936af",
+                        "stage": "1",
+                        "name": "黄玉芬",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582583-eeb8-422a-b5c9-19786ab936af",
+                        "stage": "1",
+                        "name": "温國銘",
+                        "party": "勞工黨"
+                    }
+                ]
             }
         },
         {
@@ -472,7 +518,53 @@
                 "code": "10007080",
                 "population": "45906",
                 "population_electors": "36733",
-                "keywords": "2016,彰化縣,花壇鄉"
+                "keywords": "2016,彰化縣,花壇鄉",
+                "election_id": "550866d6-c960-4d76-b09d-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4470-4e7a-9774-025cacb5b862",
+                        "stage": "1",
+                        "name": "林滄敏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce4d3-ddd8-43f3-84c4-126d6ab936af",
+                        "stage": "2",
+                        "name": "黃秀芳",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce4eb-6f80-4b73-a9e1-084b6ab936af",
+                        "stage": "1",
+                        "name": "張耀元",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "550ce504-764c-4a7e-9f89-126d6ab936af",
+                        "stage": "1",
+                        "name": "劉泳君",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180e28-7804-4f86-be6e-17a06ab936af",
+                        "stage": "1",
+                        "name": "許永金",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582546-67bc-48ef-bf81-197f6ab936af",
+                        "stage": "1",
+                        "name": "黄玉芬",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582583-eeb8-422a-b5c9-19786ab936af",
+                        "stage": "1",
+                        "name": "温國銘",
+                        "party": "勞工黨"
+                    }
+                ]
             }
         },
         {
@@ -785,56 +877,54 @@
                 "code": "10007090",
                 "population": "24188",
                 "population_electors": "19811",
-                "keywords": "2016,彰化縣,芬園鄉"
+                "keywords": "2016,彰化縣,芬園鄉",
+                "election_id": "550866d6-c960-4d76-b09d-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4470-4e7a-9774-025cacb5b862",
+                        "stage": "1",
+                        "name": "林滄敏",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce4d3-ddd8-43f3-84c4-126d6ab936af",
+                        "stage": "2",
+                        "name": "黃秀芳",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce4eb-6f80-4b73-a9e1-084b6ab936af",
+                        "stage": "1",
+                        "name": "張耀元",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "550ce504-764c-4a7e-9f89-126d6ab936af",
+                        "stage": "1",
+                        "name": "劉泳君",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180e28-7804-4f86-be6e-17a06ab936af",
+                        "stage": "1",
+                        "name": "許永金",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582546-67bc-48ef-bf81-197f6ab936af",
+                        "stage": "1",
+                        "name": "黄玉芬",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582583-eeb8-422a-b5c9-19786ab936af",
+                        "stage": "1",
+                        "name": "温國銘",
+                        "party": "勞工黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866d6-c960-4d76-b09d-28956ab936af",
-        "election": "2016-01 > 立法委員 > 彰化縣 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-4470-4e7a-9774-025cacb5b862",
-                "stage": "1",
-                "name": "林滄敏",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce4d3-ddd8-43f3-84c4-126d6ab936af",
-                "stage": "2",
-                "name": "黃秀芳",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce4eb-6f80-4b73-a9e1-084b6ab936af",
-                "stage": "1",
-                "name": "張耀元",
-                "party": "民國黨"
-            },
-            {
-                "id": "550ce504-764c-4a7e-9f89-126d6ab936af",
-                "stage": "1",
-                "name": "劉泳君",
-                "party": "無"
-            },
-            {
-                "id": "55180e28-7804-4f86-be6e-17a06ab936af",
-                "stage": "1",
-                "name": "許永金",
-                "party": "無"
-            },
-            {
-                "id": "56582546-67bc-48ef-bf81-197f6ab936af",
-                "stage": "1",
-                "name": "黄玉芬",
-                "party": "無"
-            },
-            {
-                "id": "56582583-eeb8-422a-b5c9-19786ab936af",
-                "stage": "1",
-                "name": "温國銘",
-                "party": "勞工黨"
-            }
-        ]
-    }
+    ]
 }

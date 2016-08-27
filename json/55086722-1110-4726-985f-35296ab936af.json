@@ -371,7 +371,29 @@
                 "code": "10010040",
                 "population": "32246",
                 "population_electors": "26412",
-                "keywords": "2016,嘉義縣,大林鎮"
+                "keywords": "2016,嘉義縣,大林鎮",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -800,7 +822,29 @@
                 "code": "10010050",
                 "population": "71968",
                 "population_electors": "57678",
-                "keywords": "2016,嘉義縣,民雄鄉"
+                "keywords": "2016,嘉義縣,民雄鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -1089,7 +1133,29 @@
                 "code": "10010060",
                 "population": "15509",
                 "population_electors": "13058",
-                "keywords": "2016,嘉義縣,溪口鄉"
+                "keywords": "2016,嘉義縣,溪口鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -1394,7 +1460,29 @@
                 "code": "10010070",
                 "population": "33289",
                 "population_electors": "26630",
-                "keywords": "2016,嘉義縣,新港鄉"
+                "keywords": "2016,嘉義縣,新港鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -1799,7 +1887,29 @@
                 "code": "10010130",
                 "population": "46207",
                 "population_electors": "38249",
-                "keywords": "2016,嘉義縣,中埔鄉"
+                "keywords": "2016,嘉義縣,中埔鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -2336,7 +2446,29 @@
                 "code": "10010140",
                 "population": "37053",
                 "population_electors": "30858",
-                "keywords": "2016,嘉義縣,竹崎鄉"
+                "keywords": "2016,嘉義縣,竹崎鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -2793,7 +2925,29 @@
                 "code": "10010150",
                 "population": "20337",
                 "population_electors": "17034",
-                "keywords": "2016,嘉義縣,梅山鄉"
+                "keywords": "2016,嘉義縣,梅山鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -3334,7 +3488,29 @@
                 "code": "10010160",
                 "population": "12154",
                 "population_electors": "10123",
-                "keywords": "2016,嘉義縣,番路鄉"
+                "keywords": "2016,嘉義縣,番路鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -3767,7 +3943,29 @@
                 "code": "10010170",
                 "population": "4656",
                 "population_electors": "3807",
-                "keywords": "2016,嘉義縣,大埔鄉"
+                "keywords": "2016,嘉義縣,大埔鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -4612,32 +4810,30 @@
                 "code": "10010180",
                 "population": "5757",
                 "population_electors": "4510",
-                "keywords": "2016,嘉義縣,阿里山鄉"
+                "keywords": "2016,嘉義縣,阿里山鄉",
+                "election_id": "55086722-1110-4726-985f-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳明文",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55d408a2-1580-438b-8567-772c6ab936af",
+                        "stage": "1",
+                        "name": "林于玲",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴競民",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086722-1110-4726-985f-35296ab936af",
-        "election": "2016-01 > 立法委員 > 嘉義縣 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-7d94-4c79-b1dc-025cacb5b862",
-                "stage": "2",
-                "name": "陳明文",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55d408a2-1580-438b-8567-772c6ab936af",
-                "stage": "1",
-                "name": "林于玲",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56586cc9-e5d8-41e4-9d5e-197f6ab936af",
-                "stage": "1",
-                "name": "賴競民",
-                "party": "大愛憲改聯盟"
-            }
-        ]
-    }
+    ]
 }

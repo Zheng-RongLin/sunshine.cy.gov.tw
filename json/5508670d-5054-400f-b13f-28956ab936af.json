@@ -415,7 +415,35 @@
                 "code": "10009010",
                 "population": "108019",
                 "population_electors": "83768",
-                "keywords": "2016,雲林縣,斗六市"
+                "keywords": "2016,雲林縣,斗六市",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -784,7 +812,35 @@
                 "code": "10009020",
                 "population": "46029",
                 "population_electors": "36936",
-                "keywords": "2016,雲林縣,斗南鎮"
+                "keywords": "2016,雲林縣,斗南鎮",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -989,7 +1045,35 @@
                 "code": "10009040",
                 "population": "47214",
                 "population_electors": "36901",
-                "keywords": "2016,雲林縣,西螺鎮"
+                "keywords": "2016,雲林縣,西螺鎮",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1526,7 +1610,35 @@
                 "code": "10009070",
                 "population": "32732",
                 "population_electors": "26817",
-                "keywords": "2016,雲林縣,古坑鄉"
+                "keywords": "2016,雲林縣,古坑鄉",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1775,7 +1887,35 @@
                 "code": "10009080",
                 "population": "20027",
                 "population_electors": "16412",
-                "keywords": "2016,雲林縣,大埤鄉"
+                "keywords": "2016,雲林縣,大埤鄉",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1944,7 +2084,35 @@
                 "code": "10009100",
                 "population": "19112",
                 "population_electors": "15379",
-                "keywords": "2016,雲林縣,林內鄉"
+                "keywords": "2016,雲林縣,林內鄉",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2105,7 +2273,35 @@
                 "code": "10009090",
                 "population": "29686",
                 "population_electors": "24036",
-                "keywords": "2016,雲林縣,莿桐鄉"
+                "keywords": "2016,雲林縣,莿桐鄉",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2318,7 +2514,35 @@
                 "code": "10009110",
                 "population": "28398",
                 "population_electors": "23179",
-                "keywords": "2016,雲林縣,二崙鄉"
+                "keywords": "2016,雲林縣,二崙鄉",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2535,38 +2759,36 @@
                 "code": "10009120",
                 "population": "26008",
                 "population_electors": "21109",
-                "keywords": "2016,雲林縣,崙背鄉"
+                "keywords": "2016,雲林縣,崙背鄉",
+                "election_id": "5508670d-5054-400f-b13f-28956ab936af",
+                "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-276c-497a-ae26-025cacb5b862",
+                        "stage": "2",
+                        "name": "劉建國",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
+                        "stage": "1",
+                        "name": "吳威志",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王煒婷",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
+                        "stage": "1",
+                        "name": "張佳偉",
+                        "party": "樹黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508670d-5054-400f-b13f-28956ab936af",
-        "election": "2016-01 > 立法委員 > 雲林縣 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-276c-497a-ae26-025cacb5b862",
-                "stage": "2",
-                "name": "劉建國",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55dc2d40-d33c-4e53-8866-7e4e6ab936af",
-                "stage": "1",
-                "name": "吳威志",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "565945f2-3c30-4eda-b4f5-0ed66ab936af",
-                "stage": "1",
-                "name": "王煒婷",
-                "party": "時代力量"
-            },
-            {
-                "id": "56594615-b33c-4fc2-a1e4-197f6ab936af",
-                "stage": "1",
-                "name": "張佳偉",
-                "party": "樹黨"
-            }
-        ]
-    }
+    ]
 }

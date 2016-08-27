@@ -239,7 +239,23 @@
                 "code": "10013010",
                 "population": "204084",
                 "population_electors": "164430",
-                "keywords": "2016,屏東縣,屏東市"
+                "keywords": "2016,屏東縣,屏東市",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-bcf0-4d72-92ad-025cacb5b862",
+                        "stage": "1",
+                        "name": "王進士",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce7a5-3ac4-4035-a46b-084b6ab936af",
+                        "stage": "2",
+                        "name": "鍾佳濱",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -492,7 +508,23 @@
                 "code": "10013050",
                 "population": "52151",
                 "population_electors": "41739",
-                "keywords": "2016,屏東縣,萬丹鄉"
+                "keywords": "2016,屏東縣,萬丹鄉",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-bcf0-4d72-92ad-025cacb5b862",
+                        "stage": "1",
+                        "name": "王進士",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce7a5-3ac4-4035-a46b-084b6ab936af",
+                        "stage": "2",
+                        "name": "鍾佳濱",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -673,26 +705,24 @@
                 "code": "10013070",
                 "population": "11338",
                 "population_electors": "9710",
-                "keywords": "2016,屏東縣,麟洛鄉"
+                "keywords": "2016,屏東縣,麟洛鄉",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-bcf0-4d72-92ad-025cacb5b862",
+                        "stage": "1",
+                        "name": "王進士",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce7a5-3ac4-4035-a46b-084b6ab936af",
+                        "stage": "2",
+                        "name": "鍾佳濱",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508673b-c30c-4046-b480-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 屏東縣 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-bcf0-4d72-92ad-025cacb5b862",
-                "stage": "1",
-                "name": "王進士",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce7a5-3ac4-4035-a46b-084b6ab936af",
-                "stage": "2",
-                "name": "鍾佳濱",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }

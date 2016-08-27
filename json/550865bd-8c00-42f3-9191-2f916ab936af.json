@@ -167,7 +167,35 @@
                 "code": "66000130",
                 "population": "87352",
                 "population_electors": "66036",
-                "keywords": "2016,臺中市,沙鹿區"
+                "keywords": "2016,臺中市,沙鹿區",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -476,7 +504,35 @@
                 "code": "66000230",
                 "population": "71197",
                 "population_electors": "55292",
-                "keywords": "2016,臺中市,烏日區"
+                "keywords": "2016,臺中市,烏日區",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -629,7 +685,35 @@
                 "code": "66000240",
                 "population": "56246",
                 "population_electors": "44000",
-                "keywords": "2016,臺中市,大肚區"
+                "keywords": "2016,臺中市,大肚區",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -890,7 +974,35 @@
                 "code": "66000250",
                 "population": "75841",
                 "population_electors": "58222",
-                "keywords": "2016,臺中市,龍井區"
+                "keywords": "2016,臺中市,龍井區",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1195,7 +1307,35 @@
                 "code": "66000260",
                 "population": "64443",
                 "population_electors": "51638",
-                "keywords": "2016,臺中市,霧峰區"
+                "keywords": "2016,臺中市,霧峰區",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1256,7 +1396,35 @@
                 "code": "66000280-020",
                 "population": "3435",
                 "population_electors": "2626",
-                "keywords": "2016,臺中市,大里區,西湖里"
+                "keywords": "2016,臺中市,大里區,西湖里",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1313,38 +1481,36 @@
                 "code": "66000280-019",
                 "population": "11646",
                 "population_electors": "9172",
-                "keywords": "2016,臺中市,大里區,東湖里"
+                "keywords": "2016,臺中市,大里區,東湖里",
+                "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce447-6be4-45d8-9380-126d6ab936af",
+                        "stage": "1",
+                        "name": "陳世凱",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5534016b-6920-427c-a5b4-47666ab936af",
+                        "stage": "2",
+                        "name": "顏寬恒",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
+                        "stage": "1",
+                        "name": "紀國棟",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
+                        "stage": "1",
+                        "name": "鍾文龍",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865bd-8c00-42f3-9191-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550ce447-6be4-45d8-9380-126d6ab936af",
-                "stage": "1",
-                "name": "陳世凱",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "5534016b-6920-427c-a5b4-47666ab936af",
-                "stage": "2",
-                "name": "顏寬恒",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55340190-35f4-4256-ae4e-4c0f6ab936af",
-                "stage": "1",
-                "name": "紀國棟",
-                "party": "無"
-            },
-            {
-                "id": "55c19cee-bddc-48a0-844f-44f16ab936af",
-                "stage": "1",
-                "name": "鍾文龍",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

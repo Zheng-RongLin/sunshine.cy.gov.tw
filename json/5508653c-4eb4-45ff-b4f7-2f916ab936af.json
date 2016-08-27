@@ -43,7 +43,47 @@
                 "code": "63000050-007",
                 "population": "5977",
                 "population_electors": "5025",
-                "keywords": "2016,臺北市,中正區,網溪里"
+                "keywords": "2016,臺北市,中正區,網溪里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -88,7 +128,47 @@
                 "code": "63000050-006",
                 "population": "6224",
                 "population_electors": "5285",
-                "keywords": "2016,臺北市,中正區,頂東里"
+                "keywords": "2016,臺北市,中正區,頂東里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -129,7 +209,47 @@
                 "code": "63000050-005",
                 "population": "4705",
                 "population_electors": "4027",
-                "keywords": "2016,臺北市,中正區,河堤里"
+                "keywords": "2016,臺北市,中正區,河堤里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -174,7 +294,47 @@
                 "code": "63000050-003",
                 "population": "2741",
                 "population_electors": "2315",
-                "keywords": "2016,臺北市,中正區,文盛里"
+                "keywords": "2016,臺北市,中正區,文盛里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -219,7 +379,47 @@
                 "code": "63000050-004",
                 "population": "4997",
                 "population_electors": "4021",
-                "keywords": "2016,臺北市,中正區,林興里"
+                "keywords": "2016,臺北市,中正區,林興里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -264,7 +464,47 @@
                 "code": "63000050-001",
                 "population": "3050",
                 "population_electors": "2555",
-                "keywords": "2016,臺北市,中正區,水源里"
+                "keywords": "2016,臺北市,中正區,水源里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -309,7 +549,47 @@
                 "code": "63000050-002",
                 "population": "2758",
                 "population_electors": "2217",
-                "keywords": "2016,臺北市,中正區,富水里"
+                "keywords": "2016,臺北市,中正區,富水里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -358,7 +638,47 @@
                 "code": "63000050-010",
                 "population": "4601",
                 "population_electors": "3904",
-                "keywords": "2016,臺北市,中正區,螢雪里"
+                "keywords": "2016,臺北市,中正區,螢雪里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -403,7 +723,47 @@
                 "code": "63000050-009",
                 "population": "5704",
                 "population_electors": "4818",
-                "keywords": "2016,臺北市,中正區,螢圃里"
+                "keywords": "2016,臺北市,中正區,螢圃里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -452,7 +812,47 @@
                 "code": "63000050-008",
                 "population": "3485",
                 "population_electors": "2954",
-                "keywords": "2016,臺北市,中正區,板溪里"
+                "keywords": "2016,臺北市,中正區,板溪里",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         },
         {
@@ -681,50 +1081,48 @@
                 "code": "63000080",
                 "population": "273096",
                 "population_electors": "215599",
-                "keywords": "2016,臺北市,文山區"
+                "keywords": "2016,臺北市,文山區",
+                "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d33c-4162-9d54-025cacb5b862",
+                        "stage": "2",
+                        "name": "賴士葆",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
+                        "stage": "1",
+                        "name": "苗博雅",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
+                        "stage": "1",
+                        "name": "李慶元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
+                        "stage": "1",
+                        "name": "方景鈞",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56543513-c508-43c5-88e8-197f6ab936af",
+                        "stage": "1",
+                        "name": "賴樹聲",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938f6-0994-423f-baf6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳如聖",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508653c-4eb4-45ff-b4f7-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第08選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-d33c-4162-9d54-025cacb5b862",
-                "stage": "2",
-                "name": "賴士葆",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55104513-1c84-495e-a40c-5a6b6ab936af",
-                "stage": "1",
-                "name": "苗博雅",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "55c6f1a0-b1cc-452e-b7b6-42c86ab936af",
-                "stage": "1",
-                "name": "李慶元",
-                "party": "無"
-            },
-            {
-                "id": "565434f3-c9cc-45e3-a3f0-0ed66ab936af",
-                "stage": "1",
-                "name": "方景鈞",
-                "party": "無"
-            },
-            {
-                "id": "56543513-c508-43c5-88e8-197f6ab936af",
-                "stage": "1",
-                "name": "賴樹聲",
-                "party": "無"
-            },
-            {
-                "id": "565938f6-0994-423f-baf6-19786ab936af",
-                "stage": "1",
-                "name": "陳如聖",
-                "party": "台灣工黨"
-            }
-        ]
-    }
+    ]
 }

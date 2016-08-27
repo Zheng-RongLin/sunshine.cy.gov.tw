@@ -315,7 +315,23 @@
                 "code": "10007020",
                 "population": "86037",
                 "population_electors": "66260",
-                "keywords": "2016,彰化縣,鹿港鎮"
+                "keywords": "2016,彰化縣,鹿港鎮",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "王惠美",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55183b36-9898-4628-a86a-12916ab936af",
+                        "stage": "1",
+                        "name": "陳文彬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -564,7 +580,23 @@
                 "code": "10007030",
                 "population": "90667",
                 "population_electors": "70861",
-                "keywords": "2016,彰化縣,和美鎮"
+                "keywords": "2016,彰化縣,和美鎮",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "王惠美",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55183b36-9898-4628-a86a-12916ab936af",
+                        "stage": "1",
+                        "name": "陳文彬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -749,7 +781,23 @@
                 "code": "10007050",
                 "population": "36158",
                 "population_electors": "27959",
-                "keywords": "2016,彰化縣,伸港鄉"
+                "keywords": "2016,彰化縣,伸港鄉",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "王惠美",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55183b36-9898-4628-a86a-12916ab936af",
+                        "stage": "1",
+                        "name": "陳文彬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -894,7 +942,23 @@
                 "code": "10007040",
                 "population": "17130",
                 "population_electors": "13455",
-                "keywords": "2016,彰化縣,線西鄉"
+                "keywords": "2016,彰化縣,線西鄉",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "王惠美",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55183b36-9898-4628-a86a-12916ab936af",
+                        "stage": "1",
+                        "name": "陳文彬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1199,7 +1263,23 @@
                 "code": "10007060",
                 "population": "47802",
                 "population_electors": "37813",
-                "keywords": "2016,彰化縣,福興鄉"
+                "keywords": "2016,彰化縣,福興鄉",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "王惠美",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55183b36-9898-4628-a86a-12916ab936af",
+                        "stage": "1",
+                        "name": "陳文彬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1472,26 +1552,24 @@
                 "code": "10007070",
                 "population": "39328",
                 "population_electors": "30280",
-                "keywords": "2016,彰化縣,秀水鄉"
+                "keywords": "2016,彰化縣,秀水鄉",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                        "stage": "2",
+                        "name": "王惠美",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55183b36-9898-4628-a86a-12916ab936af",
+                        "stage": "1",
+                        "name": "陳文彬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 彰化縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
-                "stage": "2",
-                "name": "王惠美",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55183b36-9898-4628-a86a-12916ab936af",
-                "stage": "1",
-                "name": "陳文彬",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }

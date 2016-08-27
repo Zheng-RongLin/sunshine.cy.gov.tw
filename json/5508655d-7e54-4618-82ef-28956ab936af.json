@@ -43,7 +43,23 @@
                 "code": "65000020-089",
                 "population": "5862",
                 "population_electors": "4509",
-                "keywords": "2016,新北市,三重區,永福里"
+                "keywords": "2016,新北市,三重區,永福里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -84,7 +100,23 @@
                 "code": "65000020-090",
                 "population": "6190",
                 "population_electors": "4789",
-                "keywords": "2016,新北市,三重區,永清里"
+                "keywords": "2016,新北市,三重區,永清里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -129,7 +161,23 @@
                 "code": "65000020-100",
                 "population": "2357",
                 "population_electors": "1964",
-                "keywords": "2016,新北市,三重區,慈惠里"
+                "keywords": "2016,新北市,三重區,慈惠里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -178,7 +226,23 @@
                 "code": "65000020-096",
                 "population": "4015",
                 "population_electors": "3234",
-                "keywords": "2016,新北市,三重區,五福里"
+                "keywords": "2016,新北市,三重區,五福里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -215,7 +279,23 @@
                 "code": "65000020-099",
                 "population": "2485",
                 "population_electors": "2096",
-                "keywords": "2016,新北市,三重區,慈生里"
+                "keywords": "2016,新北市,三重區,慈生里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -260,7 +340,23 @@
                 "code": "65000020-102",
                 "population": "2743",
                 "population_electors": "2180",
-                "keywords": "2016,新北市,三重區,慈化里"
+                "keywords": "2016,新北市,三重區,慈化里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -305,7 +401,23 @@
                 "code": "65000020-105",
                 "population": "6288",
                 "population_electors": "5100",
-                "keywords": "2016,新北市,三重區,富貴里"
+                "keywords": "2016,新北市,三重區,富貴里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -342,7 +454,23 @@
                 "code": "65000020-098",
                 "population": "2395",
                 "population_electors": "2034",
-                "keywords": "2016,新北市,三重區,慈福里"
+                "keywords": "2016,新北市,三重區,慈福里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -395,7 +523,23 @@
                 "code": "65000020-104",
                 "population": "5389",
                 "population_electors": "4285",
-                "keywords": "2016,新北市,三重區,五華里"
+                "keywords": "2016,新北市,三重區,五華里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -444,7 +588,23 @@
                 "code": "65000020-108",
                 "population": "6889",
                 "population_electors": "5513",
-                "keywords": "2016,新北市,三重區,碧華里"
+                "keywords": "2016,新北市,三重區,碧華里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -489,7 +649,23 @@
                 "code": "65000020-103",
                 "population": "5006",
                 "population_electors": "4017",
-                "keywords": "2016,新北市,三重區,慈祐里"
+                "keywords": "2016,新北市,三重區,慈祐里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -530,7 +706,23 @@
                 "code": "65000020-101",
                 "population": "3765",
                 "population_electors": "3199",
-                "keywords": "2016,新北市,三重區,慈愛里"
+                "keywords": "2016,新北市,三重區,慈愛里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -575,7 +767,23 @@
                 "code": "65000020-107",
                 "population": "2261",
                 "population_electors": "1825",
-                "keywords": "2016,新北市,三重區,富福里"
+                "keywords": "2016,新北市,三重區,富福里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -616,7 +824,23 @@
                 "code": "65000020-106",
                 "population": "3426",
                 "population_electors": "2782",
-                "keywords": "2016,新北市,三重區,富華里"
+                "keywords": "2016,新北市,三重區,富華里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -657,7 +881,23 @@
                 "code": "65000020-114",
                 "population": "5498",
                 "population_electors": "4277",
-                "keywords": "2016,新北市,三重區,永順里"
+                "keywords": "2016,新北市,三重區,永順里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -698,7 +938,23 @@
                 "code": "65000020-118",
                 "population": "4475",
                 "population_electors": "3673",
-                "keywords": "2016,新北市,三重區,仁華里"
+                "keywords": "2016,新北市,三重區,仁華里",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -787,7 +1043,23 @@
                 "code": "65000140",
                 "population": "199460",
                 "population_electors": "154989",
-                "keywords": "2016,新北市,蘆洲區"
+                "keywords": "2016,新北市,蘆洲區",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1068,26 +1340,24 @@
                 "code": "65000150",
                 "population": "82147",
                 "population_electors": "64348",
-                "keywords": "2016,新北市,五股區"
+                "keywords": "2016,新北市,五股區",
+                "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1024-454c-9577-025cacb5b862",
+                        "stage": "2",
+                        "name": "林淑芬",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
+                        "stage": "1",
+                        "name": "陳明義",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508655d-7e54-4618-82ef-28956ab936af",
-        "election": "2016-01 > 立法委員 > 新北市 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-1024-454c-9577-025cacb5b862",
-                "stage": "2",
-                "name": "林淑芬",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "558cd5cf-fef4-42c6-94ee-0c6b6ab936af",
-                "stage": "1",
-                "name": "陳明義",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

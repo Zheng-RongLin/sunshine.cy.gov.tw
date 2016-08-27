@@ -291,7 +291,23 @@
                 "code": "10007100",
                 "population": "124746",
                 "population_electors": "96408",
-                "keywords": "2016,彰化縣,員林鎮"
+                "keywords": "2016,彰化縣,員林鎮",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -592,7 +608,23 @@
                 "code": "10007120",
                 "population": "42812",
                 "population_electors": "34432",
-                "keywords": "2016,彰化縣,田中鎮"
+                "keywords": "2016,彰化縣,田中鎮",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -833,7 +865,23 @@
                 "code": "10007130",
                 "population": "36440",
                 "population_electors": "29457",
-                "keywords": "2016,彰化縣,大村鄉"
+                "keywords": "2016,彰化縣,大村鄉",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1058,7 +1106,23 @@
                 "code": "10007160",
                 "population": "38296",
                 "population_electors": "30341",
-                "keywords": "2016,彰化縣,永靖鄉"
+                "keywords": "2016,彰化縣,永靖鄉",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1339,7 +1403,23 @@
                 "code": "10007170",
                 "population": "43678",
                 "population_electors": "34774",
-                "keywords": "2016,彰化縣,社頭鄉"
+                "keywords": "2016,彰化縣,社頭鄉",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1636,7 +1716,23 @@
                 "code": "10007180",
                 "population": "15857",
                 "population_electors": "13335",
-                "keywords": "2016,彰化縣,二水鄉"
+                "keywords": "2016,彰化縣,二水鄉",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1821,26 +1917,24 @@
                 "code": "10007210",
                 "population": "27840",
                 "population_electors": "22191",
-                "keywords": "2016,彰化縣,田尾鄉"
+                "keywords": "2016,彰化縣,田尾鄉",
+                "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳素月",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
+                        "stage": "1",
+                        "name": "張錦昆",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866dd-2cc4-4744-ab5d-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 彰化縣 > 第04選區[區域]",
-        "candidates": [
-            {
-                "id": "550ce545-c4ac-43b7-92da-126d6ab936af",
-                "stage": "2",
-                "name": "陳素月",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55acffad-a908-44c5-ab3d-490a6ab936af",
-                "stage": "1",
-                "name": "張錦昆",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

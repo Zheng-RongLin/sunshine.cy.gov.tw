@@ -199,7 +199,41 @@
                 "code": "10005010",
                 "population": "90936",
                 "population_electors": "71925",
-                "keywords": "2016,苗栗縣,苗栗市"
+                "keywords": "2016,苗栗縣,苗栗市",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -544,7 +578,41 @@
                 "code": "10005050",
                 "population": "102335",
                 "population_electors": "78043",
-                "keywords": "2016,苗栗縣,頭份鎮"
+                "keywords": "2016,苗栗縣,頭份鎮",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -837,7 +905,41 @@
                 "code": "10005070",
                 "population": "18367",
                 "population_electors": "15052",
-                "keywords": "2016,苗栗縣,卓蘭鎮"
+                "keywords": "2016,苗栗縣,卓蘭鎮",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1138,7 +1240,41 @@
                 "code": "10005090",
                 "population": "34784",
                 "population_electors": "27595",
-                "keywords": "2016,苗栗縣,公館鄉"
+                "keywords": "2016,苗栗縣,公館鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1523,7 +1659,41 @@
                 "code": "10005080",
                 "population": "15558",
                 "population_electors": "12778",
-                "keywords": "2016,苗栗縣,大湖鄉"
+                "keywords": "2016,苗栗縣,大湖鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1780,7 +1950,41 @@
                 "code": "10005120",
                 "population": "11369",
                 "population_electors": "9463",
-                "keywords": "2016,苗栗縣,頭屋鄉"
+                "keywords": "2016,苗栗縣,頭屋鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2177,7 +2381,41 @@
                 "code": "10005110",
                 "population": "10691",
                 "population_electors": "8772",
-                "keywords": "2016,苗栗縣,南庄鄉"
+                "keywords": "2016,苗栗縣,南庄鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2598,7 +2836,41 @@
                 "code": "10005160",
                 "population": "7162",
                 "population_electors": "5964",
-                "keywords": "2016,苗栗縣,三灣鄉"
+                "keywords": "2016,苗栗縣,三灣鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2919,7 +3191,41 @@
                 "code": "10005170",
                 "population": "4749",
                 "population_electors": "4123",
-                "keywords": "2016,苗栗縣,獅潭鄉"
+                "keywords": "2016,苗栗縣,獅潭鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -3644,44 +3950,42 @@
                 "code": "10005180",
                 "population": "6181",
                 "population_electors": "4958",
-                "keywords": "2016,苗栗縣,泰安鄉"
+                "keywords": "2016,苗栗縣,泰安鄉",
+                "election_id": "550866b8-0268-44dd-a911-28956ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180db2-38a0-41c7-b698-17a06ab936af",
+                        "stage": "2",
+                        "name": "徐志榮",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
+                        "stage": "1",
+                        "name": "吳宜臻",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56543321-de7c-46f7-81dc-197f6ab936af",
+                        "stage": "1",
+                        "name": "周書涵",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56594558-949c-4102-be01-19786ab936af",
+                        "stage": "1",
+                        "name": "戴文祥",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "劉文忠",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866b8-0268-44dd-a911-28956ab936af",
-        "election": "2016-01 > 立法委員 > 苗栗縣 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "55180db2-38a0-41c7-b698-17a06ab936af",
-                "stage": "2",
-                "name": "徐志榮",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55b4672a-1fd0-479a-ac65-304f6ab936af",
-                "stage": "1",
-                "name": "吳宜臻",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "56543321-de7c-46f7-81dc-197f6ab936af",
-                "stage": "1",
-                "name": "周書涵",
-                "party": "無"
-            },
-            {
-                "id": "56594558-949c-4102-be01-19786ab936af",
-                "stage": "1",
-                "name": "戴文祥",
-                "party": "無"
-            },
-            {
-                "id": "565a02a8-625c-4527-b6ef-2a3b6ab936af",
-                "stage": "1",
-                "name": "劉文忠",
-                "party": "自由台灣黨"
-            }
-        ]
-    }
+    ]
 }

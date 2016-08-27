@@ -2423,38 +2423,36 @@
                 "code": "10015",
                 "population": "333531",
                 "population_electors": "266975",
-                "keywords": "2016,花蓮縣"
+                "keywords": "2016,花蓮縣",
+                "election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 花蓮縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a140-4164-907c-025cacb5b862",
+                        "stage": "1",
+                        "name": "王廷升",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55181c84-898c-49f8-b7b4-12916ab936af",
+                        "stage": "1",
+                        "name": "楊悟空",
+                        "party": "泛盟黨"
+                    },
+                    {
+                        "id": "55ae1d7a-ec64-4b48-9b7d-67616ab936af",
+                        "stage": "2",
+                        "name": "蕭美琴",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56587641-5c3c-4986-971c-19786ab936af",
+                        "stage": "1",
+                        "name": "黄師鵬",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 花蓮縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-a140-4164-907c-025cacb5b862",
-                "stage": "1",
-                "name": "王廷升",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55181c84-898c-49f8-b7b4-12916ab936af",
-                "stage": "1",
-                "name": "楊悟空",
-                "party": "泛盟黨"
-            },
-            {
-                "id": "55ae1d7a-ec64-4b48-9b7d-67616ab936af",
-                "stage": "2",
-                "name": "蕭美琴",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "56587641-5c3c-4986-971c-19786ab936af",
-                "stage": "1",
-                "name": "黄師鵬",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

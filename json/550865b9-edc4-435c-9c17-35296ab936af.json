@@ -295,7 +295,41 @@
                 "code": "66000110",
                 "population": "77582",
                 "population_electors": "59571",
-                "keywords": "2016,臺中市,大甲區"
+                "keywords": "2016,臺中市,大甲區",
+                "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4c38-4afa-9fdb-025cacb5b862",
+                        "stage": "2",
+                        "name": "蔡其昌",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c5feb0-e804-4ffb-a2ce-44f36ab936af",
+                        "stage": "1",
+                        "name": "顏秋月",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56593a39-f9a0-425d-be2b-19786ab936af",
+                        "stage": "1",
+                        "name": "王淑芬",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "56593a52-579c-4519-a8de-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳軍元",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56593a75-954c-42e8-ba50-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃金推",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -672,7 +706,41 @@
                 "code": "66000120",
                 "population": "85908",
                 "population_electors": "67017",
-                "keywords": "2016,臺中市,清水區"
+                "keywords": "2016,臺中市,清水區",
+                "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4c38-4afa-9fdb-025cacb5b862",
+                        "stage": "2",
+                        "name": "蔡其昌",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c5feb0-e804-4ffb-a2ce-44f36ab936af",
+                        "stage": "1",
+                        "name": "顏秋月",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56593a39-f9a0-425d-be2b-19786ab936af",
+                        "stage": "1",
+                        "name": "王淑芬",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "56593a52-579c-4519-a8de-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳軍元",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56593a75-954c-42e8-ba50-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃金推",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -749,7 +817,41 @@
                 "code": "66000140",
                 "population": "56449",
                 "population_electors": "43058",
-                "keywords": "2016,臺中市,梧棲區"
+                "keywords": "2016,臺中市,梧棲區",
+                "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4c38-4afa-9fdb-025cacb5b862",
+                        "stage": "2",
+                        "name": "蔡其昌",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c5feb0-e804-4ffb-a2ce-44f36ab936af",
+                        "stage": "1",
+                        "name": "顏秋月",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56593a39-f9a0-425d-be2b-19786ab936af",
+                        "stage": "1",
+                        "name": "王淑芬",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "56593a52-579c-4519-a8de-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳軍元",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56593a75-954c-42e8-ba50-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃金推",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -906,7 +1008,41 @@
                 "code": "66000210",
                 "population": "31758",
                 "population_electors": "25255",
-                "keywords": "2016,臺中市,外埔區"
+                "keywords": "2016,臺中市,外埔區",
+                "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4c38-4afa-9fdb-025cacb5b862",
+                        "stage": "2",
+                        "name": "蔡其昌",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c5feb0-e804-4ffb-a2ce-44f36ab936af",
+                        "stage": "1",
+                        "name": "顏秋月",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56593a39-f9a0-425d-be2b-19786ab936af",
+                        "stage": "1",
+                        "name": "王淑芬",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "56593a52-579c-4519-a8de-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳軍元",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56593a75-954c-42e8-ba50-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃金推",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1203,44 +1339,42 @@
                 "code": "66000220",
                 "population": "19640",
                 "population_electors": "15871",
-                "keywords": "2016,臺中市,大安區"
+                "keywords": "2016,臺中市,大安區",
+                "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4c38-4afa-9fdb-025cacb5b862",
+                        "stage": "2",
+                        "name": "蔡其昌",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c5feb0-e804-4ffb-a2ce-44f36ab936af",
+                        "stage": "1",
+                        "name": "顏秋月",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56593a39-f9a0-425d-be2b-19786ab936af",
+                        "stage": "1",
+                        "name": "王淑芬",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "56593a52-579c-4519-a8de-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳軍元",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56593a75-954c-42e8-ba50-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃金推",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-4c38-4afa-9fdb-025cacb5b862",
-                "stage": "2",
-                "name": "蔡其昌",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55c5feb0-e804-4ffb-a2ce-44f36ab936af",
-                "stage": "1",
-                "name": "顏秋月",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56593a39-f9a0-425d-be2b-19786ab936af",
-                "stage": "1",
-                "name": "王淑芬",
-                "party": "大愛憲改聯盟"
-            },
-            {
-                "id": "56593a52-579c-4519-a8de-0ed66ab936af",
-                "stage": "1",
-                "name": "陳軍元",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "56593a75-954c-42e8-ba50-0ed66ab936af",
-                "stage": "1",
-                "name": "黃金推",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

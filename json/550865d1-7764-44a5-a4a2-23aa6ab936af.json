@@ -315,7 +315,29 @@
                 "code": "66000270",
                 "population": "180712",
                 "population_electors": "141631",
-                "keywords": "2016,臺中市,太平區"
+                "keywords": "2016,臺中市,太平區",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -388,7 +410,29 @@
                 "code": "66000280-013",
                 "population": "1173",
                 "population_electors": "976",
-                "keywords": "2016,臺中市,大里區,夏田里"
+                "keywords": "2016,臺中市,大里區,夏田里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -437,7 +481,29 @@
                 "code": "66000280-006",
                 "population": "4472",
                 "population_electors": "3600",
-                "keywords": "2016,臺中市,大里區,日新里"
+                "keywords": "2016,臺中市,大里區,日新里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -486,7 +552,29 @@
                 "code": "66000280-010",
                 "population": "6064",
                 "population_electors": "4704",
-                "keywords": "2016,臺中市,大里區,立仁里"
+                "keywords": "2016,臺中市,大里區,立仁里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -551,7 +639,29 @@
                 "code": "66000280-016",
                 "population": "9633",
                 "population_electors": "7722",
-                "keywords": "2016,臺中市,大里區,塗城里"
+                "keywords": "2016,臺中市,大里區,塗城里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -608,7 +718,29 @@
                 "code": "66000280-002",
                 "population": "11862",
                 "population_electors": "8855",
-                "keywords": "2016,臺中市,大里區,新里里"
+                "keywords": "2016,臺中市,大里區,新里里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -665,7 +797,29 @@
                 "code": "66000280-001",
                 "population": "4079",
                 "population_electors": "3271",
-                "keywords": "2016,臺中市,大里區,大里里"
+                "keywords": "2016,臺中市,大里區,大里里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -754,7 +908,29 @@
                 "code": "66000280-015",
                 "population": "5156",
                 "population_electors": "4100",
-                "keywords": "2016,臺中市,大里區,健民里"
+                "keywords": "2016,臺中市,大里區,健民里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -807,7 +983,29 @@
                 "code": "66000280-005",
                 "population": "7966",
                 "population_electors": "6428",
-                "keywords": "2016,臺中市,大里區,祥興里"
+                "keywords": "2016,臺中市,大里區,祥興里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -864,7 +1062,29 @@
                 "code": "66000280-018",
                 "population": "11771",
                 "population_electors": "9022",
-                "keywords": "2016,臺中市,大里區,金城里"
+                "keywords": "2016,臺中市,大里區,金城里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -937,7 +1157,29 @@
                 "code": "66000280-003",
                 "population": "4251",
                 "population_electors": "3148",
-                "keywords": "2016,臺中市,大里區,樹王里"
+                "keywords": "2016,臺中市,大里區,樹王里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1010,7 +1252,29 @@
                 "code": "66000280-009",
                 "population": "3887",
                 "population_electors": "3055",
-                "keywords": "2016,臺中市,大里區,東昇里"
+                "keywords": "2016,臺中市,大里區,東昇里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1067,7 +1331,29 @@
                 "code": "66000280-012",
                 "population": "5009",
                 "population_electors": "3875",
-                "keywords": "2016,臺中市,大里區,大元里"
+                "keywords": "2016,臺中市,大里區,大元里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1128,7 +1414,29 @@
                 "code": "66000280-017",
                 "population": "14191",
                 "population_electors": "10656",
-                "keywords": "2016,臺中市,大里區,瑞城里"
+                "keywords": "2016,臺中市,大里區,瑞城里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1173,7 +1481,29 @@
                 "code": "66000280-007",
                 "population": "6770",
                 "population_electors": "5228",
-                "keywords": "2016,臺中市,大里區,西榮里"
+                "keywords": "2016,臺中市,大里區,西榮里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1246,7 +1576,29 @@
                 "code": "66000280-014",
                 "population": "10284",
                 "population_electors": "7723",
-                "keywords": "2016,臺中市,大里區,仁化里"
+                "keywords": "2016,臺中市,大里區,仁化里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1291,7 +1643,29 @@
                 "code": "66000280-004",
                 "population": "8499",
                 "population_electors": "6594",
-                "keywords": "2016,臺中市,大里區,東興里"
+                "keywords": "2016,臺中市,大里區,東興里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1336,7 +1710,29 @@
                 "code": "66000280-011",
                 "population": "8925",
                 "population_electors": "7081",
-                "keywords": "2016,臺中市,大里區,新仁里"
+                "keywords": "2016,臺中市,大里區,新仁里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1397,7 +1793,29 @@
                 "code": "66000280-008",
                 "population": "9443",
                 "population_electors": "7403",
-                "keywords": "2016,臺中市,大里區,內新里"
+                "keywords": "2016,臺中市,大里區,內新里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1446,7 +1864,29 @@
                 "code": "66000280-026",
                 "population": "8783",
                 "population_electors": "6727",
-                "keywords": "2016,臺中市,大里區,立德里"
+                "keywords": "2016,臺中市,大里區,立德里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1495,7 +1935,29 @@
                 "code": "66000280-022",
                 "population": "5122",
                 "population_electors": "3937",
-                "keywords": "2016,臺中市,大里區,大明里"
+                "keywords": "2016,臺中市,大里區,大明里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1552,7 +2014,29 @@
                 "code": "66000280-023",
                 "population": "11861",
                 "population_electors": "7600",
-                "keywords": "2016,臺中市,大里區,永隆里"
+                "keywords": "2016,臺中市,大里區,永隆里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1609,7 +2093,29 @@
                 "code": "66000280-024",
                 "population": "10474",
                 "population_electors": "7713",
-                "keywords": "2016,臺中市,大里區,長榮里"
+                "keywords": "2016,臺中市,大里區,長榮里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1674,7 +2180,29 @@
                 "code": "66000280-021",
                 "population": "7184",
                 "population_electors": "5278",
-                "keywords": "2016,臺中市,大里區,國光里"
+                "keywords": "2016,臺中市,大里區,國光里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1723,7 +2251,29 @@
                 "code": "66000280-025",
                 "population": "6227",
                 "population_electors": "4654",
-                "keywords": "2016,臺中市,大里區,中新里"
+                "keywords": "2016,臺中市,大里區,中新里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -1780,32 +2330,30 @@
                 "code": "66000280-027",
                 "population": "7445",
                 "population_electors": "5598",
-                "keywords": "2016,臺中市,大里區,仁德里"
+                "keywords": "2016,臺中市,大里區,仁德里",
+                "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f520-4a15-9260-025cacb5b862",
+                        "stage": "2",
+                        "name": "何欣純",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c60c4b-955c-494b-af75-42c86ab936af",
+                        "stage": "1",
+                        "name": "賴義鍠",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56002789-95e8-4c17-bc15-466d6ab936af",
+                        "stage": "1",
+                        "name": "石大哉",
+                        "party": "軍公教聯盟黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865d1-7764-44a5-a4a2-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第07選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-f520-4a15-9260-025cacb5b862",
-                "stage": "2",
-                "name": "何欣純",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55c60c4b-955c-494b-af75-42c86ab936af",
-                "stage": "1",
-                "name": "賴義鍠",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56002789-95e8-4c17-bc15-466d6ab936af",
-                "stage": "1",
-                "name": "石大哉",
-                "party": "軍公教聯盟黨"
-            }
-        ]
-    }
+    ]
 }

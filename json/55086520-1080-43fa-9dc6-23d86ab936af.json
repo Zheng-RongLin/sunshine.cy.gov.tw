@@ -63,7 +63,71 @@
                 "code": "63000010-007",
                 "population": "5185",
                 "population_electors": "4185",
-                "keywords": "2016,臺北市,松山區,新東里"
+                "keywords": "2016,臺北市,松山區,新東里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -144,7 +208,71 @@
                 "code": "63000010-010",
                 "population": "4712",
                 "population_electors": "3587",
-                "keywords": "2016,臺北市,松山區,精忠里"
+                "keywords": "2016,臺北市,松山區,精忠里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -193,7 +321,71 @@
                 "code": "63000010-006",
                 "population": "5434",
                 "population_electors": "4401",
-                "keywords": "2016,臺北市,松山區,富錦里"
+                "keywords": "2016,臺北市,松山區,富錦里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -274,7 +466,71 @@
                 "code": "63000010-002",
                 "population": "5620",
                 "population_electors": "4638",
-                "keywords": "2016,臺北市,松山區,莊敬里"
+                "keywords": "2016,臺北市,松山區,莊敬里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -323,7 +579,71 @@
                 "code": "63000010-004",
                 "population": "7161",
                 "population_electors": "5855",
-                "keywords": "2016,臺北市,松山區,三民里"
+                "keywords": "2016,臺北市,松山區,三民里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -368,7 +688,71 @@
                 "code": "63000010-008",
                 "population": "4949",
                 "population_electors": "3977",
-                "keywords": "2016,臺北市,松山區,富泰里"
+                "keywords": "2016,臺北市,松山區,富泰里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -413,7 +797,71 @@
                 "code": "63000010-005",
                 "population": "4866",
                 "population_electors": "4072",
-                "keywords": "2016,臺北市,松山區,新益里"
+                "keywords": "2016,臺北市,松山區,新益里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -458,7 +906,71 @@
                 "code": "63000010-003",
                 "population": "8634",
                 "population_electors": "6678",
-                "keywords": "2016,臺北市,松山區,東榮里"
+                "keywords": "2016,臺北市,松山區,東榮里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -503,7 +1015,71 @@
                 "code": "63000010-009",
                 "population": "4900",
                 "population_electors": "3659",
-                "keywords": "2016,臺北市,松山區,介壽里"
+                "keywords": "2016,臺北市,松山區,介壽里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -548,7 +1124,71 @@
                 "code": "63000010-011",
                 "population": "7523",
                 "population_electors": "6220",
-                "keywords": "2016,臺北市,松山區,東光里"
+                "keywords": "2016,臺北市,松山區,東光里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -593,7 +1233,71 @@
                 "code": "63000010-020",
                 "population": "5753",
                 "population_electors": "4727",
-                "keywords": "2016,臺北市,松山區,鵬程里"
+                "keywords": "2016,臺北市,松山區,鵬程里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -638,7 +1342,71 @@
                 "code": "63000010-015",
                 "population": "6909",
                 "population_electors": "5218",
-                "keywords": "2016,臺北市,松山區,中華里"
+                "keywords": "2016,臺北市,松山區,中華里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -683,7 +1451,71 @@
                 "code": "63000010-014",
                 "population": "4754",
                 "population_electors": "3711",
-                "keywords": "2016,臺北市,松山區,東勢里"
+                "keywords": "2016,臺北市,松山區,東勢里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -724,7 +1556,71 @@
                 "code": "63000010-017",
                 "population": "6600",
                 "population_electors": "5605",
-                "keywords": "2016,臺北市,松山區,民福里"
+                "keywords": "2016,臺北市,松山區,民福里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -769,7 +1665,71 @@
                 "code": "63000010-019",
                 "population": "8834",
                 "population_electors": "7297",
-                "keywords": "2016,臺北市,松山區,安平里"
+                "keywords": "2016,臺北市,松山區,安平里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -814,7 +1774,71 @@
                 "code": "63000010-012",
                 "population": "11197",
                 "population_electors": "8299",
-                "keywords": "2016,臺北市,松山區,龍田里"
+                "keywords": "2016,臺北市,松山區,龍田里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -859,7 +1883,71 @@
                 "code": "63000010-013",
                 "population": "2911",
                 "population_electors": "2154",
-                "keywords": "2016,臺北市,松山區,東昌里"
+                "keywords": "2016,臺北市,松山區,東昌里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -904,7 +1992,71 @@
                 "code": "63000010-021",
                 "population": "10198",
                 "population_electors": "8129",
-                "keywords": "2016,臺北市,松山區,自強里"
+                "keywords": "2016,臺北市,松山區,自強里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -949,7 +2101,71 @@
                 "code": "63000010-016",
                 "population": "8921",
                 "population_electors": "7426",
-                "keywords": "2016,臺北市,松山區,民有里"
+                "keywords": "2016,臺北市,松山區,民有里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -994,7 +2210,71 @@
                 "code": "63000010-035",
                 "population": "3799",
                 "population_electors": "3178",
-                "keywords": "2016,臺北市,松山區,松基里"
+                "keywords": "2016,臺北市,松山區,松基里",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -1147,74 +2427,72 @@
                 "code": "63000040",
                 "population": "229812",
                 "population_electors": "188972",
-                "keywords": "2016,臺北市,中山區"
+                "keywords": "2016,臺北市,中山區",
+                "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f448-4249-994c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳科引",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
+                        "stage": "1",
+                        "name": "李成嶽",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "邱正浩",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
+                        "stage": "1",
+                        "name": "潘建志",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180823-7f38-4c8b-954c-17a06ab936af",
+                        "stage": "1",
+                        "name": "李晏榕",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
+                        "stage": "2",
+                        "name": "蔣萬安",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
+                        "stage": "1",
+                        "name": "黃麗香",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "趙燕傑",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
+                        "stage": "1",
+                        "name": "林新凱",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "56080365-5948-4aaa-92a6-46016ab936af",
+                        "stage": "1",
+                        "name": "高士恩",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086520-1080-43fa-9dc6-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第03選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-f448-4249-994c-025cacb5b862",
-                "stage": "1",
-                "name": "陳科引",
-                "party": "無"
-            },
-            {
-                "id": "550ef8ec-a900-4acf-ac70-4bbb6ab936af",
-                "stage": "1",
-                "name": "李成嶽",
-                "party": "軍公教聯盟黨"
-            },
-            {
-                "id": "550ef971-e544-4de3-9324-1b7f6ab936af",
-                "stage": "1",
-                "name": "邱正浩",
-                "party": "和平鴿聯盟黨"
-            },
-            {
-                "id": "550ef9a7-1238-47e1-8030-1b7f6ab936af",
-                "stage": "1",
-                "name": "潘建志",
-                "party": "無"
-            },
-            {
-                "id": "55180823-7f38-4c8b-954c-17a06ab936af",
-                "stage": "1",
-                "name": "李晏榕",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "55180983-a6f8-4e37-8d0f-17a06ab936af",
-                "stage": "2",
-                "name": "蔣萬安",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "551809dd-5a48-4ac6-885b-148d6ab936af",
-                "stage": "1",
-                "name": "黃麗香",
-                "party": "無"
-            },
-            {
-                "id": "55180c20-d358-4fce-a26e-5d0e6ab936af",
-                "stage": "1",
-                "name": "趙燕傑",
-                "party": "無"
-            },
-            {
-                "id": "55afcc3c-7168-4dbe-83bf-09286ab936af",
-                "stage": "1",
-                "name": "林新凱",
-                "party": "台灣獨立黨"
-            },
-            {
-                "id": "56080365-5948-4aaa-92a6-46016ab936af",
-                "stage": "1",
-                "name": "高士恩",
-                "party": "大愛憲改聯盟"
-            }
-        ]
-    }
+    ]
 }

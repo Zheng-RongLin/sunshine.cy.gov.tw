@@ -235,7 +235,41 @@
                 "code": "10005020",
                 "population": "48605",
                 "population_electors": "38188",
-                "keywords": "2016,苗栗縣,苑裡鎮"
+                "keywords": "2016,苗栗縣,苑裡鎮",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -588,7 +622,41 @@
                 "code": "10005030",
                 "population": "37011",
                 "population_electors": "30135",
-                "keywords": "2016,苗栗縣,通霄鎮"
+                "keywords": "2016,苗栗縣,通霄鎮",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -809,7 +877,41 @@
                 "code": "10005040",
                 "population": "83353",
                 "population_electors": "62967",
-                "keywords": "2016,苗栗縣,竹南鎮"
+                "keywords": "2016,苗栗縣,竹南鎮",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1130,7 +1232,41 @@
                 "code": "10005060",
                 "population": "38524",
                 "population_electors": "30862",
-                "keywords": "2016,苗栗縣,後龍鎮"
+                "keywords": "2016,苗栗縣,後龍鎮",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1443,7 +1579,41 @@
                 "code": "10005100",
                 "population": "18951",
                 "population_electors": "15477",
-                "keywords": "2016,苗栗縣,銅鑼鄉"
+                "keywords": "2016,苗栗縣,銅鑼鄉",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1692,7 +1862,41 @@
                 "code": "10005140",
                 "population": "7601",
                 "population_electors": "6423",
-                "keywords": "2016,苗栗縣,西湖鄉"
+                "keywords": "2016,苗栗縣,西湖鄉",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1917,7 +2121,41 @@
                 "code": "10005130",
                 "population": "17270",
                 "population_electors": "13964",
-                "keywords": "2016,苗栗縣,三義鄉"
+                "keywords": "2016,苗栗縣,三義鄉",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2294,44 +2532,42 @@
                 "code": "10005150",
                 "population": "13471",
                 "population_electors": "11032",
-                "keywords": "2016,苗栗縣,造橋鄉"
+                "keywords": "2016,苗栗縣,造橋鄉",
+                "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
+                        "stage": "2",
+                        "name": "陳超明",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "康世儒",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
+                        "stage": "1",
+                        "name": "杜文卿",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
+                        "stage": "1",
+                        "name": "黃玉燕",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56587692-af04-47e5-bcdd-197f6ab936af",
+                        "stage": "1",
+                        "name": "林一方",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866b4-7140-4a51-bea1-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 苗栗縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-6f2c-45b4-953f-025cacb5b862",
-                "stage": "2",
-                "name": "陳超明",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55180d2a-683c-4535-90e9-5d0e6ab936af",
-                "stage": "1",
-                "name": "康世儒",
-                "party": "民國黨"
-            },
-            {
-                "id": "55b4614d-d4f0-4402-b4fe-30506ab936af",
-                "stage": "1",
-                "name": "杜文卿",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "565432ce-9264-4d5b-8c1d-19786ab936af",
-                "stage": "1",
-                "name": "黃玉燕",
-                "party": "無"
-            },
-            {
-                "id": "56587692-af04-47e5-bcdd-197f6ab936af",
-                "stage": "1",
-                "name": "林一方",
-                "party": "自由台灣黨"
-            }
-        ]
-    }
+    ]
 }

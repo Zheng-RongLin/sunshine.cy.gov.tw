@@ -419,7 +419,23 @@
                 "code": "10008010",
                 "population": "102382",
                 "population_electors": "81150",
-                "keywords": "2016,南投縣,南投市"
+                "keywords": "2016,南投縣,南投市",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -996,7 +1012,23 @@
                 "code": "10008040",
                 "population": "56796",
                 "population_electors": "46237",
-                "keywords": "2016,南投縣,竹山鎮"
+                "keywords": "2016,南投縣,竹山鎮",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1221,7 +1253,23 @@
                 "code": "10008050",
                 "population": "11437",
                 "population_electors": "9528",
-                "keywords": "2016,南投縣,集集鎮"
+                "keywords": "2016,南投縣,集集鎮",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1674,7 +1722,23 @@
                 "code": "10008060",
                 "population": "40016",
                 "population_electors": "32696",
-                "keywords": "2016,南投縣,名間鄉"
+                "keywords": "2016,南投縣,名間鄉",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2039,7 +2103,23 @@
                 "code": "10008070",
                 "population": "18534",
                 "population_electors": "15817",
-                "keywords": "2016,南投縣,鹿谷鄉"
+                "keywords": "2016,南投縣,鹿谷鄉",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2536,7 +2616,23 @@
                 "code": "10008110",
                 "population": "18774",
                 "population_electors": "15709",
-                "keywords": "2016,南投縣,水里鄉"
+                "keywords": "2016,南投縣,水里鄉",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -3621,26 +3717,24 @@
                 "code": "10008120",
                 "population": "16829",
                 "population_electors": "12830",
-                "keywords": "2016,南投縣,信義鄉"
+                "keywords": "2016,南投縣,信義鄉",
+                "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
+                        "stage": "1",
+                        "name": "蔡煌瑯",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
+                        "stage": "2",
+                        "name": "許淑華",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866f7-38a0-44f3-aad6-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 南投縣 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550ce56f-8168-4e3d-85ae-126d6ab936af",
-                "stage": "1",
-                "name": "蔡煌瑯",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55ae12b5-9e20-4d36-a6d3-490a6ab936af",
-                "stage": "2",
-                "name": "許淑華",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

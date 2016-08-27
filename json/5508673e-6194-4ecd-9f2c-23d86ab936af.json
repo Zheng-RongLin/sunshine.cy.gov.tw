@@ -211,7 +211,41 @@
                 "code": "10013030",
                 "population": "48368",
                 "population_electors": "37508",
-                "keywords": "2016,屏東縣,東港鎮"
+                "keywords": "2016,屏東縣,東港鎮",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -744,7 +778,41 @@
                 "code": "10013040",
                 "population": "30793",
                 "population_electors": "24178",
-                "keywords": "2016,屏東縣,恆春鎮"
+                "keywords": "2016,屏東縣,恆春鎮",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1069,7 +1137,41 @@
                 "code": "10013160",
                 "population": "25554",
                 "population_electors": "21205",
-                "keywords": "2016,屏東縣,枋寮鄉"
+                "keywords": "2016,屏東縣,枋寮鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1402,7 +1504,41 @@
                 "code": "10013150",
                 "population": "10310",
                 "population_electors": "8838",
-                "keywords": "2016,屏東縣,新埤鄉"
+                "keywords": "2016,屏東縣,新埤鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1567,7 +1703,41 @@
                 "code": "10013170",
                 "population": "36792",
                 "population_electors": "29961",
-                "keywords": "2016,屏東縣,新園鄉"
+                "keywords": "2016,屏東縣,新園鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1728,7 +1898,41 @@
                 "code": "10013190",
                 "population": "19312",
                 "population_electors": "16047",
-                "keywords": "2016,屏東縣,林邊鄉"
+                "keywords": "2016,屏東縣,林邊鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -1925,7 +2129,41 @@
                 "code": "10013180",
                 "population": "16329",
                 "population_electors": "11900",
-                "keywords": "2016,屏東縣,崁頂鄉"
+                "keywords": "2016,屏東縣,崁頂鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2090,7 +2328,41 @@
                 "code": "10013200",
                 "population": "11058",
                 "population_electors": "9388",
-                "keywords": "2016,屏東縣,南州鄉"
+                "keywords": "2016,屏東縣,南州鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2235,7 +2507,41 @@
                 "code": "10013210",
                 "population": "20320",
                 "population_electors": "16992",
-                "keywords": "2016,屏東縣,佳冬鄉"
+                "keywords": "2016,屏東縣,佳冬鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2388,7 +2694,41 @@
                 "code": "10013220",
                 "population": "12670",
                 "population_electors": "10296",
-                "keywords": "2016,屏東縣,琉球鄉"
+                "keywords": "2016,屏東縣,琉球鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -2825,7 +3165,41 @@
                 "code": "10013240",
                 "population": "8184",
                 "population_electors": "6888",
-                "keywords": "2016,屏東縣,滿州鄉"
+                "keywords": "2016,屏東縣,滿州鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -3218,7 +3592,41 @@
                 "code": "10013230",
                 "population": "9172",
                 "population_electors": "7628",
-                "keywords": "2016,屏東縣,車城鄉"
+                "keywords": "2016,屏東縣,車城鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -3591,7 +3999,41 @@
                 "code": "10013250",
                 "population": "5759",
                 "population_electors": "4730",
-                "keywords": "2016,屏東縣,枋山鄉"
+                "keywords": "2016,屏東縣,枋山鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -4048,7 +4490,41 @@
                 "code": "10013300",
                 "population": "7636",
                 "population_electors": "6058",
-                "keywords": "2016,屏東縣,來義鄉"
+                "keywords": "2016,屏東縣,來義鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -4505,7 +4981,41 @@
                 "code": "10013310",
                 "population": "4873",
                 "population_electors": "3723",
-                "keywords": "2016,屏東縣,春日鄉"
+                "keywords": "2016,屏東縣,春日鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -4902,7 +5412,41 @@
                 "code": "10013330",
                 "population": "4874",
                 "population_electors": "4021",
-                "keywords": "2016,屏東縣,牡丹鄉"
+                "keywords": "2016,屏東縣,牡丹鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -5519,44 +6063,42 @@
                 "code": "10013320",
                 "population": "4903",
                 "population_electors": "3938",
-                "keywords": "2016,屏東縣,獅子鄉"
+                "keywords": "2016,屏東縣,獅子鄉",
+                "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
+                        "stage": "2",
+                        "name": "莊瑞雄",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "558a2094-0ba0-4731-ab10-70816ab936af",
+                        "stage": "1",
+                        "name": "許謹如",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
+                        "stage": "1",
+                        "name": "黃昭展",
+                        "party": "無"
+                    },
+                    {
+                        "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "張兆陽",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "56582af8-8508-4c16-97c1-19786ab936af",
+                        "stage": "1",
+                        "name": "丁勇智",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508673e-6194-4ecd-9f2c-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 屏東縣 > 第03選區[區域]",
-        "candidates": [
-            {
-                "id": "550ce7f9-0924-4e8e-a795-126d6ab936af",
-                "stage": "2",
-                "name": "莊瑞雄",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "558a2094-0ba0-4731-ab10-70816ab936af",
-                "stage": "1",
-                "name": "許謹如",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55d2c2d4-c6e4-4290-9b3f-77406ab936af",
-                "stage": "1",
-                "name": "黃昭展",
-                "party": "無"
-            },
-            {
-                "id": "56582adb-3b54-481f-b197-2a3b6ab936af",
-                "stage": "1",
-                "name": "張兆陽",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "56582af8-8508-4c16-97c1-19786ab936af",
-                "stage": "1",
-                "name": "丁勇智",
-                "party": "自由台灣黨"
-            }
-        ]
-    }
+    ]
 }

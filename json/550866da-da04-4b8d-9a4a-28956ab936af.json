@@ -183,7 +183,41 @@
                 "code": "10007110",
                 "population": "55732",
                 "population_electors": "42823",
-                "keywords": "2016,彰化縣,溪湖鎮"
+                "keywords": "2016,彰化縣,溪湖鎮",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -412,7 +446,41 @@
                 "code": "10007140",
                 "population": "33238",
                 "population_electors": "26900",
-                "keywords": "2016,彰化縣,埔鹽鄉"
+                "keywords": "2016,彰化縣,埔鹽鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -601,7 +669,41 @@
                 "code": "10007150",
                 "population": "34928",
                 "population_electors": "28232",
-                "keywords": "2016,彰化縣,埔心鄉"
+                "keywords": "2016,彰化縣,埔心鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -786,7 +888,41 @@
                 "code": "10007190",
                 "population": "33175",
                 "population_electors": "26067",
-                "keywords": "2016,彰化縣,北斗鎮"
+                "keywords": "2016,彰化縣,北斗鎮",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -1171,7 +1307,41 @@
                 "code": "10007200",
                 "population": "52466",
                 "population_electors": "41767",
-                "keywords": "2016,彰化縣,二林鎮"
+                "keywords": "2016,彰化縣,二林鎮",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -1408,7 +1578,41 @@
                 "code": "10007220",
                 "population": "31053",
                 "population_electors": "24701",
-                "keywords": "2016,彰化縣,埤頭鄉"
+                "keywords": "2016,彰化縣,埤頭鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -1737,7 +1941,41 @@
                 "code": "10007230",
                 "population": "34851",
                 "population_electors": "28801",
-                "keywords": "2016,彰化縣,芳苑鄉"
+                "keywords": "2016,彰化縣,芳苑鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -1942,7 +2180,41 @@
                 "code": "10007250",
                 "population": "15949",
                 "population_electors": "12718",
-                "keywords": "2016,彰化縣,竹塘鄉"
+                "keywords": "2016,彰化縣,竹塘鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -2159,7 +2431,41 @@
                 "code": "10007240",
                 "population": "17894",
                 "population_electors": "14884",
-                "keywords": "2016,彰化縣,大城鄉"
+                "keywords": "2016,彰化縣,大城鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         },
         {
@@ -2376,44 +2682,42 @@
                 "code": "10007260",
                 "population": "30821",
                 "population_electors": "24874",
-                "keywords": "2016,彰化縣,溪州鄉"
+                "keywords": "2016,彰化縣,溪州鄉",
+                "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
+                "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-4420-42ca-be67-025cacb5b862",
+                        "stage": "1",
+                        "name": "鄭汝芬",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
+                        "stage": "2",
+                        "name": "洪宗熠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
+                        "stage": "1",
+                        "name": "洪遊江",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
+                        "stage": "1",
+                        "name": "陳朝容",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
+                        "stage": "1",
+                        "name": "張益勝",
+                        "party": "時代力量"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550866da-da04-4b8d-9a4a-28956ab936af",
-        "election": "2016-01 > 立法委員 > 彰化縣 > 第03選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-4420-42ca-be67-025cacb5b862",
-                "stage": "1",
-                "name": "鄭汝芬",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce51b-de48-42d1-9e2e-084b6ab936af",
-                "stage": "2",
-                "name": "洪宗熠",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce52f-fb0c-4666-bd06-0af26ab936af",
-                "stage": "1",
-                "name": "洪遊江",
-                "party": "自由台灣黨"
-            },
-            {
-                "id": "55af6deb-84b8-4da8-9548-078c6ab936af",
-                "stage": "1",
-                "name": "陳朝容",
-                "party": "親民黨"
-            },
-            {
-                "id": "56582bdc-a8c4-434b-a968-094e6ab936af",
-                "stage": "1",
-                "name": "張益勝",
-                "party": "時代力量"
-            }
-        ]
-    }
+    ]
 }

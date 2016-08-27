@@ -227,7 +227,41 @@
                 "code": "67000070",
                 "population": "45072",
                 "population_electors": "36697",
-                "keywords": "2016,臺南市,麻豆區"
+                "keywords": "2016,臺南市,麻豆區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -516,7 +550,41 @@
                 "code": "67000110",
                 "population": "10263",
                 "population_electors": "8719",
-                "keywords": "2016,臺南市,大內區"
+                "keywords": "2016,臺南市,大內區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -789,7 +857,41 @@
                 "code": "67000120",
                 "population": "59522",
                 "population_electors": "48234",
-                "keywords": "2016,臺南市,佳里區"
+                "keywords": "2016,臺南市,佳里區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -954,7 +1056,41 @@
                 "code": "67000140",
                 "population": "24913",
                 "population_electors": "20535",
-                "keywords": "2016,臺南市,西港區"
+                "keywords": "2016,臺南市,西港區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1315,7 +1451,41 @@
                 "code": "67000150",
                 "population": "23632",
                 "population_electors": "19789",
-                "keywords": "2016,臺南市,七股區"
+                "keywords": "2016,臺南市,七股區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1752,7 +1922,41 @@
                 "code": "67000180",
                 "population": "43806",
                 "population_electors": "35541",
-                "keywords": "2016,臺南市,新化區"
+                "keywords": "2016,臺南市,新化區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1977,7 +2181,41 @@
                 "code": "67000190",
                 "population": "45893",
                 "population_electors": "36249",
-                "keywords": "2016,臺南市,善化區"
+                "keywords": "2016,臺南市,善化區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2262,7 +2500,41 @@
                 "code": "67000200",
                 "population": "35463",
                 "population_electors": "27939",
-                "keywords": "2016,臺南市,新市區"
+                "keywords": "2016,臺南市,新市區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2451,7 +2723,41 @@
                 "code": "67000210",
                 "population": "30281",
                 "population_electors": "24602",
-                "keywords": "2016,臺南市,安定區"
+                "keywords": "2016,臺南市,安定區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2672,7 +2978,41 @@
                 "code": "67000220",
                 "population": "7515",
                 "population_electors": "6368",
-                "keywords": "2016,臺南市,山上區"
+                "keywords": "2016,臺南市,山上區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -3113,7 +3453,41 @@
                 "code": "67000230",
                 "population": "14636",
                 "population_electors": "12305",
-                "keywords": "2016,臺南市,玉井區"
+                "keywords": "2016,臺南市,玉井區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -3482,7 +3856,41 @@
                 "code": "67000240",
                 "population": "10123",
                 "population_electors": "8582",
-                "keywords": "2016,臺南市,楠西區"
+                "keywords": "2016,臺南市,楠西區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -3931,7 +4339,41 @@
                 "code": "67000260",
                 "population": "5199",
                 "population_electors": "4611",
-                "keywords": "2016,臺南市,左鎮區"
+                "keywords": "2016,臺南市,左鎮區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -4480,44 +4922,42 @@
                 "code": "67000250",
                 "population": "8908",
                 "population_electors": "7582",
-                "keywords": "2016,臺南市,南化區"
+                "keywords": "2016,臺南市,南化區",
+                "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-1d0c-43de-a054-025cacb5b862",
+                        "stage": "2",
+                        "name": "黃偉哲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
+                        "stage": "1",
+                        "name": "黃泯甄",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
+                        "stage": "1",
+                        "name": "黃耀盛",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
+                        "stage": "1",
+                        "name": "黃憲清",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
+                        "stage": "1",
+                        "name": "王國棟",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865f4-baf8-4cae-88be-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 臺南市 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-1d0c-43de-a054-025cacb5b862",
-                "stage": "2",
-                "name": "黃偉哲",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce674-f69c-422c-bfdf-0af26ab936af",
-                "stage": "1",
-                "name": "黃泯甄",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "55b7b4fd-fb88-4109-b790-39d16ab936af",
-                "stage": "1",
-                "name": "黃耀盛",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56540f99-eb64-4d01-996c-0ed66ab936af",
-                "stage": "1",
-                "name": "黃憲清",
-                "party": "自由台灣黨"
-            },
-            {
-                "id": "565940e0-2944-4e8a-b4e5-0ed66ab936af",
-                "stage": "1",
-                "name": "王國棟",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

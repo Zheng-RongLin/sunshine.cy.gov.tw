@@ -83,7 +83,53 @@
                 "code": "63000060",
                 "population": "130687",
                 "population_electors": "105695",
-                "keywords": "2016,臺北市,大同區"
+                "keywords": "2016,臺北市,大同區",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -140,7 +186,53 @@
                 "code": "63000110-002",
                 "population": "3448",
                 "population_electors": "2717",
-                "keywords": "2016,臺北市,士林區,義信里"
+                "keywords": "2016,臺北市,士林區,義信里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -185,7 +277,53 @@
                 "code": "63000110-010",
                 "population": "4889",
                 "population_electors": "3812",
-                "keywords": "2016,臺北市,士林區,前港里"
+                "keywords": "2016,臺北市,士林區,前港里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -238,7 +376,53 @@
                 "code": "63000110-001",
                 "population": "4291",
                 "population_electors": "3391",
-                "keywords": "2016,臺北市,士林區,仁勇里"
+                "keywords": "2016,臺北市,士林區,仁勇里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -291,7 +475,53 @@
                 "code": "63000110-011",
                 "population": "7707",
                 "population_electors": "6121",
-                "keywords": "2016,臺北市,士林區,百齡里"
+                "keywords": "2016,臺北市,士林區,百齡里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -364,7 +594,53 @@
                 "code": "63000110-003",
                 "population": "3249",
                 "population_electors": "2689",
-                "keywords": "2016,臺北市,士林區,福林里"
+                "keywords": "2016,臺北市,士林區,福林里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -409,7 +685,53 @@
                 "code": "63000110-005",
                 "population": "7940",
                 "population_electors": "6553",
-                "keywords": "2016,臺北市,士林區,福志里"
+                "keywords": "2016,臺北市,士林區,福志里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -454,7 +776,53 @@
                 "code": "63000110-004",
                 "population": "6026",
                 "population_electors": "5070",
-                "keywords": "2016,臺北市,士林區,福德里"
+                "keywords": "2016,臺北市,士林區,福德里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -499,7 +867,53 @@
                 "code": "63000110-006",
                 "population": "6363",
                 "population_electors": "5224",
-                "keywords": "2016,臺北市,士林區,舊佳里"
+                "keywords": "2016,臺北市,士林區,舊佳里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -552,7 +966,53 @@
                 "code": "63000110-008",
                 "population": "8571",
                 "population_electors": "7009",
-                "keywords": "2016,臺北市,士林區,後港里"
+                "keywords": "2016,臺北市,士林區,後港里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -605,7 +1065,53 @@
                 "code": "63000110-009",
                 "population": "7483",
                 "population_electors": "5810",
-                "keywords": "2016,臺北市,士林區,福中里"
+                "keywords": "2016,臺北市,士林區,福中里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -650,7 +1156,53 @@
                 "code": "63000110-007",
                 "population": "8304",
                 "population_electors": "6622",
-                "keywords": "2016,臺北市,士林區,福佳里"
+                "keywords": "2016,臺北市,士林區,福佳里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -695,7 +1247,53 @@
                 "code": "63000110-018",
                 "population": "4272",
                 "population_electors": "3477",
-                "keywords": "2016,臺北市,士林區,葫東里"
+                "keywords": "2016,臺北市,士林區,葫東里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -740,7 +1338,53 @@
                 "code": "63000110-019",
                 "population": "6807",
                 "population_electors": "5479",
-                "keywords": "2016,臺北市,士林區,社子里"
+                "keywords": "2016,臺北市,士林區,社子里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -813,7 +1457,53 @@
                 "code": "63000110-024",
                 "population": "5846",
                 "population_electors": "4851",
-                "keywords": "2016,臺北市,士林區,富洲里"
+                "keywords": "2016,臺北市,士林區,富洲里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -866,7 +1556,53 @@
                 "code": "63000110-026",
                 "population": "7536",
                 "population_electors": "6114",
-                "keywords": "2016,臺北市,士林區,名山里"
+                "keywords": "2016,臺北市,士林區,名山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -911,7 +1647,53 @@
                 "code": "63000110-012",
                 "population": "6015",
                 "population_electors": "4933",
-                "keywords": "2016,臺北市,士林區,承德里"
+                "keywords": "2016,臺北市,士林區,承德里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -964,7 +1746,53 @@
                 "code": "63000110-020",
                 "population": "9287",
                 "population_electors": "7527",
-                "keywords": "2016,臺北市,士林區,社新里"
+                "keywords": "2016,臺北市,士林區,社新里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1025,7 +1853,53 @@
                 "code": "63000110-022",
                 "population": "7709",
                 "population_electors": "6376",
-                "keywords": "2016,臺北市,士林區,永倫里"
+                "keywords": "2016,臺北市,士林區,永倫里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1074,7 +1948,53 @@
                 "code": "63000110-017",
                 "population": "8096",
                 "population_electors": "6451",
-                "keywords": "2016,臺北市,士林區,葫蘆里"
+                "keywords": "2016,臺北市,士林區,葫蘆里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1119,7 +2039,53 @@
                 "code": "63000110-014",
                 "population": "5247",
                 "population_electors": "4322",
-                "keywords": "2016,臺北市,士林區,明勝里"
+                "keywords": "2016,臺北市,士林區,明勝里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1164,7 +2130,53 @@
                 "code": "63000110-016",
                 "population": "6300",
                 "population_electors": "5038",
-                "keywords": "2016,臺北市,士林區,富光里"
+                "keywords": "2016,臺北市,士林區,富光里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1213,7 +2225,53 @@
                 "code": "63000110-015",
                 "population": "5619",
                 "population_electors": "4529",
-                "keywords": "2016,臺北市,士林區,福順里"
+                "keywords": "2016,臺北市,士林區,福順里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1258,7 +2316,53 @@
                 "code": "63000110-021",
                 "population": "7794",
                 "population_electors": "6179",
-                "keywords": "2016,臺北市,士林區,社園里"
+                "keywords": "2016,臺北市,士林區,社園里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1343,7 +2447,53 @@
                 "code": "63000110-023",
                 "population": "4971",
                 "population_electors": "4076",
-                "keywords": "2016,臺北市,士林區,福安里"
+                "keywords": "2016,臺北市,士林區,福安里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1400,7 +2550,53 @@
                 "code": "63000110-025",
                 "population": "3688",
                 "population_electors": "3066",
-                "keywords": "2016,臺北市,士林區,岩山里"
+                "keywords": "2016,臺北市,士林區,岩山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1445,7 +2641,53 @@
                 "code": "63000110-029",
                 "population": "5385",
                 "population_electors": "4361",
-                "keywords": "2016,臺北市,士林區,聖山里"
+                "keywords": "2016,臺北市,士林區,聖山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1494,7 +2736,53 @@
                 "code": "63000110-013",
                 "population": "6883",
                 "population_electors": "5606",
-                "keywords": "2016,臺北市,士林區,福華里"
+                "keywords": "2016,臺北市,士林區,福華里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1579,7 +2867,53 @@
                 "code": "63000110-045",
                 "population": "2099",
                 "population_electors": "1785",
-                "keywords": "2016,臺北市,士林區,新安里"
+                "keywords": "2016,臺北市,士林區,新安里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1760,7 +3094,53 @@
                 "code": "63000110-047",
                 "population": "1696",
                 "population_electors": "1414",
-                "keywords": "2016,臺北市,士林區,菁山里"
+                "keywords": "2016,臺北市,士林區,菁山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1849,7 +3229,53 @@
                 "code": "63000110-044",
                 "population": "1503",
                 "population_electors": "1274",
-                "keywords": "2016,臺北市,士林區,公館里"
+                "keywords": "2016,臺北市,士林區,公館里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1938,7 +3364,53 @@
                 "code": "63000110-031",
                 "population": "7935",
                 "population_electors": "6381",
-                "keywords": "2016,臺北市,士林區,芝山里"
+                "keywords": "2016,臺北市,士林區,芝山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2039,7 +3511,53 @@
                 "code": "63000110-046",
                 "population": "3152",
                 "population_electors": "2758",
-                "keywords": "2016,臺北市,士林區,陽明里"
+                "keywords": "2016,臺北市,士林區,陽明里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2112,7 +3630,53 @@
                 "code": "63000110-032",
                 "population": "5503",
                 "population_electors": "4414",
-                "keywords": "2016,臺北市,士林區,東山里"
+                "keywords": "2016,臺北市,士林區,東山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2177,7 +3741,53 @@
                 "code": "63000110-043",
                 "population": "1337",
                 "population_electors": "1150",
-                "keywords": "2016,臺北市,士林區,永福里"
+                "keywords": "2016,臺北市,士林區,永福里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2282,7 +3892,53 @@
                 "code": "63000110-048",
                 "population": "1533",
                 "population_electors": "1279",
-                "keywords": "2016,臺北市,士林區,平等里"
+                "keywords": "2016,臺北市,士林區,平等里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2427,7 +4083,53 @@
                 "code": "63000110-049",
                 "population": "1520",
                 "population_electors": "1268",
-                "keywords": "2016,臺北市,士林區,溪山里"
+                "keywords": "2016,臺北市,士林區,溪山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2528,7 +4230,53 @@
                 "code": "63000110-051",
                 "population": "3062",
                 "population_electors": "2606",
-                "keywords": "2016,臺北市,士林區,臨溪里"
+                "keywords": "2016,臺北市,士林區,臨溪里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2605,56 +4353,54 @@
                 "code": "63000110-050",
                 "population": "2781",
                 "population_electors": "2411",
-                "keywords": "2016,臺北市,士林區,翠山里"
+                "keywords": "2016,臺北市,士林區,翠山里",
+                "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-618c-4837-bf95-025cacb5b862",
+                        "stage": "2",
+                        "name": "姚文智",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c1e736-d1d4-405d-b884-03126ab936af",
+                        "stage": "1",
+                        "name": "潘懷宗",
+                        "party": "新黨"
+                    },
+                    {
+                        "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
+                        "stage": "1",
+                        "name": "吳俊德",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
+                        "stage": "1",
+                        "name": "陳民乾",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "陳建斌",
+                        "party": "自由台灣黨"
+                    },
+                    {
+                        "id": "56593463-002c-4d3d-89a6-19786ab936af",
+                        "stage": "1",
+                        "name": "林幸蓉",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王銘宗",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508651b-9a9c-4814-94ce-35296ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-618c-4837-bf95-025cacb5b862",
-                "stage": "2",
-                "name": "姚文智",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55c1e736-d1d4-405d-b884-03126ab936af",
-                "stage": "1",
-                "name": "潘懷宗",
-                "party": "新黨"
-            },
-            {
-                "id": "560024ac-5f88-4bbc-9c2d-461f6ab936af",
-                "stage": "1",
-                "name": "吳俊德",
-                "party": "信心希望聯盟"
-            },
-            {
-                "id": "564ee5c1-5aec-4fba-8e31-0ed66ab936af",
-                "stage": "1",
-                "name": "陳民乾",
-                "party": "台灣獨立黨"
-            },
-            {
-                "id": "565862bf-f6bc-47ef-b84f-2a3b6ab936af",
-                "stage": "1",
-                "name": "陳建斌",
-                "party": "自由台灣黨"
-            },
-            {
-                "id": "56593463-002c-4d3d-89a6-19786ab936af",
-                "stage": "1",
-                "name": "林幸蓉",
-                "party": "健保免費連線"
-            },
-            {
-                "id": "56593540-4180-4cdb-b8f8-2a3b6ab936af",
-                "stage": "1",
-                "name": "王銘宗",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

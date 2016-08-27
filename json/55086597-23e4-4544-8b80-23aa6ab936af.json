@@ -367,7 +367,29 @@
                 "code": "65000060",
                 "population": "299327",
                 "population_electors": "249019",
-                "keywords": "2016,新北市,新店區"
+                "keywords": "2016,新北市,新店區",
+                "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第11選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
+                        "stage": "2",
+                        "name": "羅明才",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "556c878d-5b88-4b35-866d-26f86ab936af",
+                        "stage": "1",
+                        "name": "曾柏瑜",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b37b52-0be8-4ecc-a293-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳永福",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -780,7 +802,29 @@
                 "code": "65000190",
                 "population": "7885",
                 "population_electors": "6571",
-                "keywords": "2016,新北市,石碇區"
+                "keywords": "2016,新北市,石碇區",
+                "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第11選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
+                        "stage": "2",
+                        "name": "羅明才",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "556c878d-5b88-4b35-866d-26f86ab936af",
+                        "stage": "1",
+                        "name": "曾柏瑜",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b37b52-0be8-4ecc-a293-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳永福",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -925,7 +969,29 @@
                 "code": "65000180",
                 "population": "23590",
                 "population_electors": "19243",
-                "keywords": "2016,新北市,深坑區"
+                "keywords": "2016,新北市,深坑區",
+                "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第11選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
+                        "stage": "2",
+                        "name": "羅明才",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "556c878d-5b88-4b35-866d-26f86ab936af",
+                        "stage": "1",
+                        "name": "曾柏瑜",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b37b52-0be8-4ecc-a293-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳永福",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1290,7 +1356,29 @@
                 "code": "65000200",
                 "population": "6405",
                 "population_electors": "5498",
-                "keywords": "2016,新北市,坪林區"
+                "keywords": "2016,新北市,坪林區",
+                "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第11選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
+                        "stage": "2",
+                        "name": "羅明才",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "556c878d-5b88-4b35-866d-26f86ab936af",
+                        "stage": "1",
+                        "name": "曾柏瑜",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b37b52-0be8-4ecc-a293-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳永福",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1859,32 +1947,30 @@
                 "code": "65000290",
                 "population": "6126",
                 "population_electors": "4771",
-                "keywords": "2016,新北市,烏來區"
+                "keywords": "2016,新北市,烏來區",
+                "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第11選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
+                        "stage": "2",
+                        "name": "羅明才",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "556c878d-5b88-4b35-866d-26f86ab936af",
+                        "stage": "1",
+                        "name": "曾柏瑜",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b37b52-0be8-4ecc-a293-676c6ab936af",
+                        "stage": "1",
+                        "name": "陳永福",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 新北市 > 第11選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
-                "stage": "2",
-                "name": "羅明才",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "556c878d-5b88-4b35-866d-26f86ab936af",
-                "stage": "1",
-                "name": "曾柏瑜",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "55b37b52-0be8-4ecc-a293-676c6ab936af",
-                "stage": "1",
-                "name": "陳永福",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }

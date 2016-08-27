@@ -111,7 +111,47 @@
                 "code": "67000320",
                 "population": "190360",
                 "population_electors": "146966",
-                "keywords": "2016,臺南市,東區"
+                "keywords": "2016,臺南市,東區",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8938-45fe-bd75-025cacb5b862",
+                        "stage": "1",
+                        "name": "傅建峰",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550ce6a9-cd68-4c1e-9ee2-126d6ab936af",
+                        "stage": "2",
+                        "name": "林俊憲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce6bf-4d0c-4a22-8658-0af26ab936af",
+                        "stage": "1",
+                        "name": "蔡郁芝",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce6d9-12f0-467a-a5c6-0af26ab936af",
+                        "stage": "1",
+                        "name": "陳皇州",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "5575a3c7-cec8-4705-8f05-2d2b6ab936af",
+                        "stage": "1",
+                        "name": "楊智達",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c60169-51a4-4e12-85ac-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "陳淑慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -240,7 +280,47 @@
                 "code": "67000330",
                 "population": "125650",
                 "population_electors": "104781",
-                "keywords": "2016,臺南市,南區"
+                "keywords": "2016,臺南市,南區",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8938-45fe-bd75-025cacb5b862",
+                        "stage": "1",
+                        "name": "傅建峰",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550ce6a9-cd68-4c1e-9ee2-126d6ab936af",
+                        "stage": "2",
+                        "name": "林俊憲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce6bf-4d0c-4a22-8658-0af26ab936af",
+                        "stage": "1",
+                        "name": "蔡郁芝",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce6d9-12f0-467a-a5c6-0af26ab936af",
+                        "stage": "1",
+                        "name": "陳皇州",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "5575a3c7-cec8-4705-8f05-2d2b6ab936af",
+                        "stage": "1",
+                        "name": "楊智達",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c60169-51a4-4e12-85ac-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "陳淑慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -353,50 +433,48 @@
                 "code": "67000360",
                 "population": "64745",
                 "population_electors": "50036",
-                "keywords": "2016,臺南市,安平區"
+                "keywords": "2016,臺南市,安平區",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8938-45fe-bd75-025cacb5b862",
+                        "stage": "1",
+                        "name": "傅建峰",
+                        "party": "中華統一促進黨"
+                    },
+                    {
+                        "id": "550ce6a9-cd68-4c1e-9ee2-126d6ab936af",
+                        "stage": "2",
+                        "name": "林俊憲",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce6bf-4d0c-4a22-8658-0af26ab936af",
+                        "stage": "1",
+                        "name": "蔡郁芝",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce6d9-12f0-467a-a5c6-0af26ab936af",
+                        "stage": "1",
+                        "name": "陳皇州",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "5575a3c7-cec8-4705-8f05-2d2b6ab936af",
+                        "stage": "1",
+                        "name": "楊智達",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55c60169-51a4-4e12-85ac-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "陳淑慧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 臺南市 > 第04選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-8938-45fe-bd75-025cacb5b862",
-                "stage": "1",
-                "name": "傅建峰",
-                "party": "中華統一促進黨"
-            },
-            {
-                "id": "550ce6a9-cd68-4c1e-9ee2-126d6ab936af",
-                "stage": "2",
-                "name": "林俊憲",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce6bf-4d0c-4a22-8658-0af26ab936af",
-                "stage": "1",
-                "name": "蔡郁芝",
-                "party": "時代力量"
-            },
-            {
-                "id": "550ce6d9-12f0-467a-a5c6-0af26ab936af",
-                "stage": "1",
-                "name": "陳皇州",
-                "party": "大愛憲改聯盟"
-            },
-            {
-                "id": "5575a3c7-cec8-4705-8f05-2d2b6ab936af",
-                "stage": "1",
-                "name": "楊智達",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "55c60169-51a4-4e12-85ac-6e0c6ab936af",
-                "stage": "1",
-                "name": "陳淑慧",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

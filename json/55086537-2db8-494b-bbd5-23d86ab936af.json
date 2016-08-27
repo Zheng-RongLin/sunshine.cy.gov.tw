@@ -47,7 +47,59 @@
                 "code": "63000010-030",
                 "population": "7584",
                 "population_electors": "5746",
-                "keywords": "2016,臺北市,松山區,敦化里"
+                "keywords": "2016,臺北市,松山區,敦化里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -88,7 +140,59 @@
                 "code": "63000010-025",
                 "population": "6850",
                 "population_electors": "5516",
-                "keywords": "2016,臺北市,松山區,復盛里"
+                "keywords": "2016,臺北市,松山區,復盛里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -133,7 +237,59 @@
                 "code": "63000010-026",
                 "population": "10762",
                 "population_electors": "7550",
-                "keywords": "2016,臺北市,松山區,中正里"
+                "keywords": "2016,臺北市,松山區,中正里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -178,7 +334,59 @@
                 "code": "63000010-028",
                 "population": "3803",
                 "population_electors": "2803",
-                "keywords": "2016,臺北市,松山區,美仁里"
+                "keywords": "2016,臺北市,松山區,美仁里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -223,7 +431,59 @@
                 "code": "63000010-022",
                 "population": "8777",
                 "population_electors": "7207",
-                "keywords": "2016,臺北市,松山區,吉祥里"
+                "keywords": "2016,臺北市,松山區,吉祥里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -268,7 +528,59 @@
                 "code": "63000010-029",
                 "population": "4401",
                 "population_electors": "3334",
-                "keywords": "2016,臺北市,松山區,吉仁里"
+                "keywords": "2016,臺北市,松山區,吉仁里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -313,7 +625,59 @@
                 "code": "63000010-018",
                 "population": "8108",
                 "population_electors": "6946",
-                "keywords": "2016,臺北市,松山區,慈祐里"
+                "keywords": "2016,臺北市,松山區,慈祐里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -358,7 +722,59 @@
                 "code": "63000010-024",
                 "population": "8375",
                 "population_electors": "6804",
-                "keywords": "2016,臺北市,松山區,新聚里"
+                "keywords": "2016,臺北市,松山區,新聚里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -403,7 +819,59 @@
                 "code": "63000010-027",
                 "population": "4561",
                 "population_electors": "3331",
-                "keywords": "2016,臺北市,松山區,中崙里"
+                "keywords": "2016,臺北市,松山區,中崙里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -452,7 +920,59 @@
                 "code": "63000010-033",
                 "population": "6672",
                 "population_electors": "5192",
-                "keywords": "2016,臺北市,松山區,復勢里"
+                "keywords": "2016,臺北市,松山區,復勢里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -545,7 +1065,59 @@
                 "code": "63000020",
                 "population": "229071",
                 "population_electors": "187625",
-                "keywords": "2016,臺北市,信義區"
+                "keywords": "2016,臺北市,信義區",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -586,7 +1158,59 @@
                 "code": "63000010-031",
                 "population": "3555",
                 "population_electors": "2667",
-                "keywords": "2016,臺北市,松山區,復源里"
+                "keywords": "2016,臺北市,松山區,復源里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -631,7 +1255,59 @@
                 "code": "63000010-034",
                 "population": "2987",
                 "population_electors": "2292",
-                "keywords": "2016,臺北市,松山區,福成里"
+                "keywords": "2016,臺北市,松山區,福成里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -676,62 +1352,60 @@
                 "code": "63000010-032",
                 "population": "4855",
                 "population_electors": "3642",
-                "keywords": "2016,臺北市,松山區,復建里"
+                "keywords": "2016,臺北市,松山區,復建里",
+                "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-7498-43fe-b443-025cacb5b862",
+                        "stage": "2",
+                        "name": "費鴻泰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "551044e9-bc70-4999-afc1-12916ab936af",
+                        "stage": "1",
+                        "name": "呂欣潔",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "5510516b-f264-45e2-be0e-12916ab936af",
+                        "stage": "1",
+                        "name": "楊實秋",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
+                        "stage": "1",
+                        "name": "林芷芬",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
+                        "stage": "1",
+                        "name": "蘇承英",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
+                        "stage": "1",
+                        "name": "范揚律",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "詹益正",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565938cb-c37c-4ec0-af52-19786ab936af",
+                        "stage": "1",
+                        "name": "林文傑",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086537-2db8-494b-bbd5-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第07選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-7498-43fe-b443-025cacb5b862",
-                "stage": "2",
-                "name": "費鴻泰",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "551044e9-bc70-4999-afc1-12916ab936af",
-                "stage": "1",
-                "name": "呂欣潔",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "5510516b-f264-45e2-be0e-12916ab936af",
-                "stage": "1",
-                "name": "楊實秋",
-                "party": "無"
-            },
-            {
-                "id": "55180c32-ae3c-4d95-85ac-148d6ab936af",
-                "stage": "1",
-                "name": "林芷芬",
-                "party": "台灣獨立黨"
-            },
-            {
-                "id": "55fe612a-42b0-4053-80ff-469c6ab936af",
-                "stage": "1",
-                "name": "蘇承英",
-                "party": "和平鴿聯盟黨"
-            },
-            {
-                "id": "55fe6899-ab58-4d59-aefd-469c6ab936af",
-                "stage": "1",
-                "name": "范揚律",
-                "party": "大愛憲改聯盟"
-            },
-            {
-                "id": "565938ad-8704-43ce-a88d-2a3b6ab936af",
-                "stage": "1",
-                "name": "詹益正",
-                "party": "無"
-            },
-            {
-                "id": "565938cb-c37c-4ec0-af52-19786ab936af",
-                "stage": "1",
-                "name": "林文傑",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

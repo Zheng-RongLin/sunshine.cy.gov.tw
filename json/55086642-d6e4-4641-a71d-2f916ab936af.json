@@ -47,7 +47,29 @@
                 "code": "64000050-010",
                 "population": "2437",
                 "population_electors": "2012",
-                "keywords": "2016,高雄市,三民區,本文里"
+                "keywords": "2016,高雄市,三民區,本文里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -104,7 +126,29 @@
                 "code": "64000050-004",
                 "population": "4304",
                 "population_electors": "3434",
-                "keywords": "2016,高雄市,三民區,鼎力里"
+                "keywords": "2016,高雄市,三民區,鼎力里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -161,7 +205,29 @@
                 "code": "64000050-003",
                 "population": "4536",
                 "population_electors": "3695",
-                "keywords": "2016,高雄市,三民區,鼎強里"
+                "keywords": "2016,高雄市,三民區,鼎強里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -214,7 +280,29 @@
                 "code": "64000050-005",
                 "population": "8208",
                 "population_electors": "6662",
-                "keywords": "2016,高雄市,三民區,鼎西里"
+                "keywords": "2016,高雄市,三民區,鼎西里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -267,7 +355,29 @@
                 "code": "64000050-002",
                 "population": "8832",
                 "population_electors": "6877",
-                "keywords": "2016,高雄市,三民區,鼎盛里"
+                "keywords": "2016,高雄市,三民區,鼎盛里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -316,7 +426,29 @@
                 "code": "64000050-008",
                 "population": "9696",
                 "population_electors": "8043",
-                "keywords": "2016,高雄市,三民區,本館里"
+                "keywords": "2016,高雄市,三民區,本館里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -361,7 +493,29 @@
                 "code": "64000050-006",
                 "population": "3822",
                 "population_electors": "3241",
-                "keywords": "2016,高雄市,三民區,鼎中里"
+                "keywords": "2016,高雄市,三民區,鼎中里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -406,7 +560,29 @@
                 "code": "64000050-011",
                 "population": "2146",
                 "population_electors": "1617",
-                "keywords": "2016,高雄市,三民區,本武里"
+                "keywords": "2016,高雄市,三民區,本武里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -455,7 +631,29 @@
                 "code": "64000050-009",
                 "population": "8183",
                 "population_electors": "6646",
-                "keywords": "2016,高雄市,三民區,本和里"
+                "keywords": "2016,高雄市,三民區,本和里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -524,7 +722,29 @@
                 "code": "64000050-001",
                 "population": "4617",
                 "population_electors": "3787",
-                "keywords": "2016,高雄市,三民區,鼎金里"
+                "keywords": "2016,高雄市,三民區,鼎金里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -569,7 +789,29 @@
                 "code": "64000050-012",
                 "population": "6579",
                 "population_electors": "4993",
-                "keywords": "2016,高雄市,三民區,本元里"
+                "keywords": "2016,高雄市,三民區,本元里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -622,7 +864,29 @@
                 "code": "64000050-007",
                 "population": "24516",
                 "population_electors": "18527",
-                "keywords": "2016,高雄市,三民區,鼎泰里"
+                "keywords": "2016,高雄市,三民區,鼎泰里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -671,7 +935,29 @@
                 "code": "64000050-013",
                 "population": "5882",
                 "population_electors": "4242",
-                "keywords": "2016,高雄市,三民區,本安里"
+                "keywords": "2016,高雄市,三民區,本安里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -724,7 +1010,29 @@
                 "code": "64000050-018",
                 "population": "4558",
                 "population_electors": "3727",
-                "keywords": "2016,高雄市,三民區,寶泰里"
+                "keywords": "2016,高雄市,三民區,寶泰里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -769,7 +1077,29 @@
                 "code": "64000050-021",
                 "population": "3850",
                 "population_electors": "2990",
-                "keywords": "2016,高雄市,三民區,寶華里"
+                "keywords": "2016,高雄市,三民區,寶華里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -814,7 +1144,29 @@
                 "code": "64000050-022",
                 "population": "9953",
                 "population_electors": "7312",
-                "keywords": "2016,高雄市,三民區,寶國里"
+                "keywords": "2016,高雄市,三民區,寶國里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -867,7 +1219,29 @@
                 "code": "64000050-030",
                 "population": "10229",
                 "population_electors": "7635",
-                "keywords": "2016,高雄市,三民區,寶玉里"
+                "keywords": "2016,高雄市,三民區,寶玉里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -916,7 +1290,29 @@
                 "code": "64000050-029",
                 "population": "7205",
                 "population_electors": "6187",
-                "keywords": "2016,高雄市,三民區,寶珠里"
+                "keywords": "2016,高雄市,三民區,寶珠里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -957,7 +1353,29 @@
                 "code": "64000050-032",
                 "population": "3543",
                 "population_electors": "2976",
-                "keywords": "2016,高雄市,三民區,灣愛里"
+                "keywords": "2016,高雄市,三民區,灣愛里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1010,7 +1428,29 @@
                 "code": "64000050-014",
                 "population": "5974",
                 "population_electors": "4399",
-                "keywords": "2016,高雄市,三民區,本上里"
+                "keywords": "2016,高雄市,三民區,本上里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1059,7 +1499,29 @@
                 "code": "64000050-015",
                 "population": "9329",
                 "population_electors": "6948",
-                "keywords": "2016,高雄市,三民區,本揚里"
+                "keywords": "2016,高雄市,三民區,本揚里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1108,7 +1570,29 @@
                 "code": "64000050-020",
                 "population": "3692",
                 "population_electors": "2925",
-                "keywords": "2016,高雄市,三民區,寶中里"
+                "keywords": "2016,高雄市,三民區,寶中里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1153,7 +1637,29 @@
                 "code": "64000050-016",
                 "population": "4149",
                 "population_electors": "3487",
-                "keywords": "2016,高雄市,三民區,寶獅里"
+                "keywords": "2016,高雄市,三民區,寶獅里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1194,7 +1700,29 @@
                 "code": "64000050-028",
                 "population": "5112",
                 "population_electors": "4012",
-                "keywords": "2016,高雄市,三民區,寶龍里"
+                "keywords": "2016,高雄市,三民區,寶龍里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1243,7 +1771,29 @@
                 "code": "64000050-031",
                 "population": "4303",
                 "population_electors": "3565",
-                "keywords": "2016,高雄市,三民區,灣子里"
+                "keywords": "2016,高雄市,三民區,灣子里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1292,7 +1842,29 @@
                 "code": "64000050-017",
                 "population": "5721",
                 "population_electors": "4731",
-                "keywords": "2016,高雄市,三民區,寶德里"
+                "keywords": "2016,高雄市,三民區,寶德里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1341,7 +1913,29 @@
                 "code": "64000050-027",
                 "population": "8034",
                 "population_electors": "6599",
-                "keywords": "2016,高雄市,三民區,寶安里"
+                "keywords": "2016,高雄市,三民區,寶安里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1386,7 +1980,29 @@
                 "code": "64000050-023",
                 "population": "3745",
                 "population_electors": "2969",
-                "keywords": "2016,高雄市,三民區,寶民里"
+                "keywords": "2016,高雄市,三民區,寶民里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1435,7 +2051,29 @@
                 "code": "64000050-026",
                 "population": "5634",
                 "population_electors": "4688",
-                "keywords": "2016,高雄市,三民區,寶盛里"
+                "keywords": "2016,高雄市,三民區,寶盛里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1484,7 +2122,29 @@
                 "code": "64000050-025",
                 "population": "6041",
                 "population_electors": "4577",
-                "keywords": "2016,高雄市,三民區,寶業里"
+                "keywords": "2016,高雄市,三民區,寶業里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1529,7 +2189,29 @@
                 "code": "64000050-024",
                 "population": "3282",
                 "population_electors": "2549",
-                "keywords": "2016,高雄市,三民區,寶慶里"
+                "keywords": "2016,高雄市,三民區,寶慶里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1574,7 +2256,29 @@
                 "code": "64000050-019",
                 "population": "7370",
                 "population_electors": "6135",
-                "keywords": "2016,高雄市,三民區,寶興里"
+                "keywords": "2016,高雄市,三民區,寶興里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1615,7 +2319,29 @@
                 "code": "64000050-037",
                 "population": "4138",
                 "population_electors": "3521",
-                "keywords": "2016,高雄市,三民區,灣復里"
+                "keywords": "2016,高雄市,三民區,灣復里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1660,7 +2386,29 @@
                 "code": "64000050-034",
                 "population": "2998",
                 "population_electors": "2586",
-                "keywords": "2016,高雄市,三民區,灣華里"
+                "keywords": "2016,高雄市,三民區,灣華里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1701,7 +2449,29 @@
                 "code": "64000050-035",
                 "population": "2184",
                 "population_electors": "1898",
-                "keywords": "2016,高雄市,三民區,灣勝里"
+                "keywords": "2016,高雄市,三民區,灣勝里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1750,7 +2520,29 @@
                 "code": "64000050-045",
                 "population": "5442",
                 "population_electors": "4372",
-                "keywords": "2016,高雄市,三民區,安發里"
+                "keywords": "2016,高雄市,三民區,安發里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1795,7 +2587,29 @@
                 "code": "64000050-044",
                 "population": "5680",
                 "population_electors": "4565",
-                "keywords": "2016,高雄市,三民區,安吉里"
+                "keywords": "2016,高雄市,三民區,安吉里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1848,7 +2662,29 @@
                 "code": "64000050-040",
                 "population": "2265",
                 "population_electors": "1781",
-                "keywords": "2016,高雄市,三民區,灣興里"
+                "keywords": "2016,高雄市,三民區,灣興里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1897,7 +2733,29 @@
                 "code": "64000050-038",
                 "population": "14257",
                 "population_electors": "10824",
-                "keywords": "2016,高雄市,三民區,正興里"
+                "keywords": "2016,高雄市,三民區,正興里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1942,7 +2800,29 @@
                 "code": "64000050-033",
                 "population": "5997",
                 "population_electors": "5130",
-                "keywords": "2016,高雄市,三民區,灣中里"
+                "keywords": "2016,高雄市,三民區,灣中里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1987,7 +2867,29 @@
                 "code": "64000050-043",
                 "population": "2191",
                 "population_electors": "1862",
-                "keywords": "2016,高雄市,三民區,安寧里"
+                "keywords": "2016,高雄市,三民區,安寧里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2032,7 +2934,29 @@
                 "code": "64000050-042",
                 "population": "3440",
                 "population_electors": "2870",
-                "keywords": "2016,高雄市,三民區,安康里"
+                "keywords": "2016,高雄市,三民區,安康里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2077,7 +3001,29 @@
                 "code": "64000050-036",
                 "population": "3578",
                 "population_electors": "3088",
-                "keywords": "2016,高雄市,三民區,灣利里"
+                "keywords": "2016,高雄市,三民區,灣利里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2126,7 +3072,29 @@
                 "code": "64000050-041",
                 "population": "2646",
                 "population_electors": "2125",
-                "keywords": "2016,高雄市,三民區,灣成里"
+                "keywords": "2016,高雄市,三民區,灣成里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2171,32 +3139,30 @@
                 "code": "64000050-039",
                 "population": "4657",
                 "population_electors": "3703",
-                "keywords": "2016,高雄市,三民區,正順里"
+                "keywords": "2016,高雄市,三民區,正順里",
+                "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8a18-4a45-af62-025cacb5b862",
+                        "stage": "2",
+                        "name": "李昆澤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
+                        "stage": "1",
+                        "name": "楊翰奇",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
+                        "stage": "1",
+                        "name": "黃柏霖",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086642-d6e4-4641-a71d-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第06選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-8a18-4a45-af62-025cacb5b862",
-                "stage": "2",
-                "name": "李昆澤",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "555b4dd1-92fc-4790-9bc3-5a316ab936af",
-                "stage": "1",
-                "name": "楊翰奇",
-                "party": "和平鴿聯盟黨"
-            },
-            {
-                "id": "555b4e7b-2608-4072-aaa9-5a2e6ab936af",
-                "stage": "1",
-                "name": "黃柏霖",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

@@ -263,7 +263,53 @@
                 "code": "10003040",
                 "population": "156818",
                 "population_electors": "119307",
-                "keywords": "2016,桃園市,楊梅區"
+                "keywords": "2016,桃園市,楊梅區",
+                "election_id": "55086679-5f0c-4c5b-acf0-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8380-4cc5-9bdb-025cacb5b862",
+                        "stage": "1",
+                        "name": "廖正井",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce3a9-6724-427b-86f0-08496ab936af",
+                        "stage": "0",
+                        "name": "郭榮宗",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce3c1-c24c-42d7-861f-08496ab936af",
+                        "stage": "1",
+                        "name": "張康儀",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce3db-fc98-4b96-b463-084b6ab936af",
+                        "stage": "1",
+                        "name": "黃維春",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce3fa-4278-4d5a-bc0d-084b6ab936af",
+                        "stage": "1",
+                        "name": "吳振槖",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "550ce420-fbdc-4cef-9703-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳賴素美",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b5f435-1874-4aaa-bdbc-7c046ab936af",
+                        "stage": "1",
+                        "name": "陳佩俞",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -692,7 +738,53 @@
                 "code": "10003060",
                 "population": "84191",
                 "population_electors": "64537",
-                "keywords": "2016,桃園市,大園區"
+                "keywords": "2016,桃園市,大園區",
+                "election_id": "55086679-5f0c-4c5b-acf0-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8380-4cc5-9bdb-025cacb5b862",
+                        "stage": "1",
+                        "name": "廖正井",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce3a9-6724-427b-86f0-08496ab936af",
+                        "stage": "0",
+                        "name": "郭榮宗",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce3c1-c24c-42d7-861f-08496ab936af",
+                        "stage": "1",
+                        "name": "張康儀",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce3db-fc98-4b96-b463-084b6ab936af",
+                        "stage": "1",
+                        "name": "黃維春",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce3fa-4278-4d5a-bc0d-084b6ab936af",
+                        "stage": "1",
+                        "name": "吳振槖",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "550ce420-fbdc-4cef-9703-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳賴素美",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b5f435-1874-4aaa-bdbc-7c046ab936af",
+                        "stage": "1",
+                        "name": "陳佩俞",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1061,7 +1153,53 @@
                 "code": "10003110",
                 "population": "48036",
                 "population_electors": "38245",
-                "keywords": "2016,桃園市,新屋區"
+                "keywords": "2016,桃園市,新屋區",
+                "election_id": "55086679-5f0c-4c5b-acf0-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8380-4cc5-9bdb-025cacb5b862",
+                        "stage": "1",
+                        "name": "廖正井",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce3a9-6724-427b-86f0-08496ab936af",
+                        "stage": "0",
+                        "name": "郭榮宗",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce3c1-c24c-42d7-861f-08496ab936af",
+                        "stage": "1",
+                        "name": "張康儀",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce3db-fc98-4b96-b463-084b6ab936af",
+                        "stage": "1",
+                        "name": "黃維春",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce3fa-4278-4d5a-bc0d-084b6ab936af",
+                        "stage": "1",
+                        "name": "吳振槖",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "550ce420-fbdc-4cef-9703-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳賴素美",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b5f435-1874-4aaa-bdbc-7c046ab936af",
+                        "stage": "1",
+                        "name": "陳佩俞",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1358,56 +1496,54 @@
                 "code": "10003120",
                 "population": "63491",
                 "population_electors": "48663",
-                "keywords": "2016,桃園市,觀音區"
+                "keywords": "2016,桃園市,觀音區",
+                "election_id": "55086679-5f0c-4c5b-acf0-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第02選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-8380-4cc5-9bdb-025cacb5b862",
+                        "stage": "1",
+                        "name": "廖正井",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce3a9-6724-427b-86f0-08496ab936af",
+                        "stage": "0",
+                        "name": "郭榮宗",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce3c1-c24c-42d7-861f-08496ab936af",
+                        "stage": "1",
+                        "name": "張康儀",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550ce3db-fc98-4b96-b463-084b6ab936af",
+                        "stage": "1",
+                        "name": "黃維春",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce3fa-4278-4d5a-bc0d-084b6ab936af",
+                        "stage": "1",
+                        "name": "吳振槖",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "550ce420-fbdc-4cef-9703-126d6ab936af",
+                        "stage": "2",
+                        "name": "陳賴素美",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55b5f435-1874-4aaa-bdbc-7c046ab936af",
+                        "stage": "1",
+                        "name": "陳佩俞",
+                        "party": "樹黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086679-5f0c-4c5b-acf0-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 桃園市 > 第02選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-8380-4cc5-9bdb-025cacb5b862",
-                "stage": "1",
-                "name": "廖正井",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce3a9-6724-427b-86f0-08496ab936af",
-                "stage": "0",
-                "name": "郭榮宗",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce3c1-c24c-42d7-861f-08496ab936af",
-                "stage": "1",
-                "name": "張康儀",
-                "party": "時代力量"
-            },
-            {
-                "id": "550ce3db-fc98-4b96-b463-084b6ab936af",
-                "stage": "1",
-                "name": "黃維春",
-                "party": "無"
-            },
-            {
-                "id": "550ce3fa-4278-4d5a-bc0d-084b6ab936af",
-                "stage": "1",
-                "name": "吳振槖",
-                "party": "台灣獨立黨"
-            },
-            {
-                "id": "550ce420-fbdc-4cef-9703-126d6ab936af",
-                "stage": "2",
-                "name": "陳賴素美",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55b5f435-1874-4aaa-bdbc-7c046ab936af",
-                "stage": "1",
-                "name": "陳佩俞",
-                "party": "樹黨"
-            }
-        ]
-    }
+    ]
 }

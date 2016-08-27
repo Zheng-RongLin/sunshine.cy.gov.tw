@@ -143,7 +143,29 @@
                 "code": "64000130",
                 "population": "70455",
                 "population_electors": "55892",
-                "keywords": "2016,高雄市,林園區"
+                "keywords": "2016,高雄市,林園區",
+                "election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b9ec-4db1-8508-025cacb5b862",
+                        "stage": "2",
+                        "name": "林岱樺",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c62c8e-a51c-4ee1-8775-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "郭倫豪",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565942c6-6c70-4816-8fda-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "林俊揚",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -392,7 +414,29 @@
                 "code": "64000140",
                 "population": "111054",
                 "population_electors": "91054",
-                "keywords": "2016,高雄市,大寮區"
+                "keywords": "2016,高雄市,大寮區",
+                "election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b9ec-4db1-8508-025cacb5b862",
+                        "stage": "2",
+                        "name": "林岱樺",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c62c8e-a51c-4ee1-8775-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "郭倫豪",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565942c6-6c70-4816-8fda-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "林俊揚",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -653,7 +697,29 @@
                 "code": "64000170",
                 "population": "80610",
                 "population_electors": "64446",
-                "keywords": "2016,高雄市,仁武區"
+                "keywords": "2016,高雄市,仁武區",
+                "election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b9ec-4db1-8508-025cacb5b862",
+                        "stage": "2",
+                        "name": "林岱樺",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c62c8e-a51c-4ee1-8775-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "郭倫豪",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565942c6-6c70-4816-8fda-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "林俊揚",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -858,32 +924,30 @@
                 "code": "64000180",
                 "population": "43647",
                 "population_electors": "36603",
-                "keywords": "2016,高雄市,鳥松區"
+                "keywords": "2016,高雄市,鳥松區",
+                "election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第04選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b9ec-4db1-8508-025cacb5b862",
+                        "stage": "2",
+                        "name": "林岱樺",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "55c62c8e-a51c-4ee1-8775-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "郭倫豪",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565942c6-6c70-4816-8fda-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "林俊揚",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086639-b968-414d-b79a-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第04選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-b9ec-4db1-8508-025cacb5b862",
-                "stage": "2",
-                "name": "林岱樺",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "55c62c8e-a51c-4ee1-8775-6e0c6ab936af",
-                "stage": "1",
-                "name": "郭倫豪",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "565942c6-6c70-4816-8fda-2a3b6ab936af",
-                "stage": "1",
-                "name": "林俊揚",
-                "party": "中華統一促進黨"
-            }
-        ]
-    }
+    ]
 }

@@ -7769,38 +7769,36 @@
                 "code": "10016",
                 "population": "101482",
                 "population_electors": "82814",
-                "keywords": "2016,澎湖縣"
+                "keywords": "2016,澎湖縣",
+                "election_id": "5508677e-0984-4ddb-9f47-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 澎湖縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-142c-4e19-9e15-025cacb5b862",
+                        "stage": "2",
+                        "name": "楊曜",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "559c7266-1998-4c91-a61f-5f426ab936af",
+                        "stage": "1",
+                        "name": "冼義哲",
+                        "party": "樹黨"
+                    },
+                    {
+                        "id": "55b3b191-d230-4236-93d3-304c6ab936af",
+                        "stage": "1",
+                        "name": "陳雙全",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "565870a4-6a14-4e14-826b-094e6ab936af",
+                        "stage": "1",
+                        "name": "黃漢東",
+                        "party": "台灣工黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508677e-0984-4ddb-9f47-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 澎湖縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-142c-4e19-9e15-025cacb5b862",
-                "stage": "2",
-                "name": "楊曜",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "559c7266-1998-4c91-a61f-5f426ab936af",
-                "stage": "1",
-                "name": "冼義哲",
-                "party": "樹黨"
-            },
-            {
-                "id": "55b3b191-d230-4236-93d3-304c6ab936af",
-                "stage": "1",
-                "name": "陳雙全",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "565870a4-6a14-4e14-826b-094e6ab936af",
-                "stage": "1",
-                "name": "黃漢東",
-                "party": "台灣工黨"
-            }
-        ]
-    }
+    ]
 }

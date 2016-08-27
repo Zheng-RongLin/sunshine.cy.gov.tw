@@ -711,38 +711,36 @@
                 "code": "10017",
                 "population": "373597",
                 "population_electors": "304786",
-                "keywords": "2016,基隆市"
+                "keywords": "2016,基隆市",
+                "election_id": "55086791-6560-42c7-9763-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 基隆市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "55180f74-3818-41ef-863f-5d0e6ab936af",
+                        "stage": "1",
+                        "name": "楊石城",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "555ab9a1-3a0c-4bf5-ba9a-5a316ab936af",
+                        "stage": "1",
+                        "name": "劉文雄",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "555ab9e3-036c-4548-8d3a-5e226ab936af",
+                        "stage": "2",
+                        "name": "蔡適應",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "559f6cdb-dea0-4b24-be8d-4f766ab936af",
+                        "stage": "1",
+                        "name": "郝龍斌",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086791-6560-42c7-9763-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 基隆市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "55180f74-3818-41ef-863f-5d0e6ab936af",
-                "stage": "1",
-                "name": "楊石城",
-                "party": "民國黨"
-            },
-            {
-                "id": "555ab9a1-3a0c-4bf5-ba9a-5a316ab936af",
-                "stage": "1",
-                "name": "劉文雄",
-                "party": "親民黨"
-            },
-            {
-                "id": "555ab9e3-036c-4548-8d3a-5e226ab936af",
-                "stage": "2",
-                "name": "蔡適應",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "559f6cdb-dea0-4b24-be8d-4f766ab936af",
-                "stage": "1",
-                "name": "郝龍斌",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

@@ -55,7 +55,65 @@
                 "code": "65000010-009",
                 "population": "4637",
                 "population_electors": "3770",
-                "keywords": "2016,新北市,板橋區,香社里"
+                "keywords": "2016,新北市,板橋區,香社里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -100,7 +158,65 @@
                 "code": "65000010-013",
                 "population": "2854",
                 "population_electors": "2358",
-                "keywords": "2016,新北市,板橋區,光華里"
+                "keywords": "2016,新北市,板橋區,光華里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -141,7 +257,65 @@
                 "code": "65000010-001",
                 "population": "1674",
                 "population_electors": "1356",
-                "keywords": "2016,新北市,板橋區,留侯里"
+                "keywords": "2016,新北市,板橋區,留侯里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -186,7 +360,65 @@
                 "code": "65000010-007",
                 "population": "3402",
                 "population_electors": "2848",
-                "keywords": "2016,新北市,板橋區,新興里"
+                "keywords": "2016,新北市,板橋區,新興里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -235,7 +467,65 @@
                 "code": "65000010-006",
                 "population": "5799",
                 "population_electors": "4754",
-                "keywords": "2016,新北市,板橋區,湳興里"
+                "keywords": "2016,新北市,板橋區,湳興里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -276,7 +566,65 @@
                 "code": "65000010-012",
                 "population": "2994",
                 "population_electors": "2440",
-                "keywords": "2016,新北市,板橋區,自立里"
+                "keywords": "2016,新北市,板橋區,自立里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -333,7 +681,65 @@
                 "code": "65000010-010",
                 "population": "4628",
                 "population_electors": "3762",
-                "keywords": "2016,新北市,板橋區,中正里"
+                "keywords": "2016,新北市,板橋區,中正里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -378,7 +784,65 @@
                 "code": "65000010-005",
                 "population": "1812",
                 "population_electors": "1462",
-                "keywords": "2016,新北市,板橋區,挹秀里"
+                "keywords": "2016,新北市,板橋區,挹秀里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -427,7 +891,65 @@
                 "code": "65000010-004",
                 "population": "1224",
                 "population_electors": "938",
-                "keywords": "2016,新北市,板橋區,黃石里"
+                "keywords": "2016,新北市,板橋區,黃石里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -468,7 +990,65 @@
                 "code": "65000010-014",
                 "population": "3955",
                 "population_electors": "3326",
-                "keywords": "2016,新北市,板橋區,國光里"
+                "keywords": "2016,新北市,板橋區,國光里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -509,7 +1089,65 @@
                 "code": "65000010-011",
                 "population": "5424",
                 "population_electors": "4582",
-                "keywords": "2016,新北市,板橋區,自強里"
+                "keywords": "2016,新北市,板橋區,自強里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -550,7 +1188,65 @@
                 "code": "65000010-002",
                 "population": "1582",
                 "population_electors": "1255",
-                "keywords": "2016,新北市,板橋區,流芳里"
+                "keywords": "2016,新北市,板橋區,流芳里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -603,7 +1299,65 @@
                 "code": "65000010-008",
                 "population": "8961",
                 "population_electors": "7784",
-                "keywords": "2016,新北市,板橋區,社後里"
+                "keywords": "2016,新北市,板橋區,社後里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -644,7 +1398,65 @@
                 "code": "65000010-015",
                 "population": "3070",
                 "population_electors": "2426",
-                "keywords": "2016,新北市,板橋區,港尾里"
+                "keywords": "2016,新北市,板橋區,港尾里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -685,7 +1497,65 @@
                 "code": "65000010-003",
                 "population": "852",
                 "population_electors": "655",
-                "keywords": "2016,新北市,板橋區,赤松里"
+                "keywords": "2016,新北市,板橋區,赤松里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -730,7 +1600,65 @@
                 "code": "65000010-017",
                 "population": "5200",
                 "population_electors": "4262",
-                "keywords": "2016,新北市,板橋區,港德里"
+                "keywords": "2016,新北市,板橋區,港德里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -771,7 +1699,65 @@
                 "code": "65000010-025",
                 "population": "2552",
                 "population_electors": "2008",
-                "keywords": "2016,新北市,板橋區,百壽里"
+                "keywords": "2016,新北市,板橋區,百壽里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -820,7 +1806,65 @@
                 "code": "65000010-021",
                 "population": "4259",
                 "population_electors": "3342",
-                "keywords": "2016,新北市,板橋區,公舘里"
+                "keywords": "2016,新北市,板橋區,公舘里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -865,7 +1909,65 @@
                 "code": "65000010-024",
                 "population": "4198",
                 "population_electors": "3452",
-                "keywords": "2016,新北市,板橋區,忠誠里"
+                "keywords": "2016,新北市,板橋區,忠誠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -906,7 +2008,65 @@
                 "code": "65000010-030",
                 "population": "5704",
                 "population_electors": "4648",
-                "keywords": "2016,新北市,板橋區,純翠里"
+                "keywords": "2016,新北市,板橋區,純翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -967,7 +2127,65 @@
                 "code": "65000010-031",
                 "population": "6268",
                 "population_electors": "5096",
-                "keywords": "2016,新北市,板橋區,溪頭里"
+                "keywords": "2016,新北市,板橋區,溪頭里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1020,7 +2238,65 @@
                 "code": "65000010-022",
                 "population": "4723",
                 "population_electors": "3681",
-                "keywords": "2016,新北市,板橋區,新民里"
+                "keywords": "2016,新北市,板橋區,新民里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1061,7 +2337,65 @@
                 "code": "65000010-032",
                 "population": "3804",
                 "population_electors": "3115",
-                "keywords": "2016,新北市,板橋區,聯翠里"
+                "keywords": "2016,新北市,板橋區,聯翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1110,7 +2444,65 @@
                 "code": "65000010-029",
                 "population": "5073",
                 "population_electors": "4168",
-                "keywords": "2016,新北市,板橋區,江翠里"
+                "keywords": "2016,新北市,板橋區,江翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1155,7 +2547,65 @@
                 "code": "65000010-027",
                 "population": "2268",
                 "population_electors": "1908",
-                "keywords": "2016,新北市,板橋區,新埔里"
+                "keywords": "2016,新北市,板橋區,新埔里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1196,7 +2646,65 @@
                 "code": "65000010-018",
                 "population": "2780",
                 "population_electors": "2332",
-                "keywords": "2016,新北市,板橋區,民權里"
+                "keywords": "2016,新北市,板橋區,民權里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1237,7 +2745,65 @@
                 "code": "65000010-016",
                 "population": "4238",
                 "population_electors": "3446",
-                "keywords": "2016,新北市,板橋區,金華里"
+                "keywords": "2016,新北市,板橋區,金華里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1286,7 +2852,65 @@
                 "code": "65000010-026",
                 "population": "3268",
                 "population_electors": "2630",
-                "keywords": "2016,新北市,板橋區,介壽里"
+                "keywords": "2016,新北市,板橋區,介壽里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1331,7 +2955,65 @@
                 "code": "65000010-023",
                 "population": "4333",
                 "population_electors": "3485",
-                "keywords": "2016,新北市,板橋區,幸福里"
+                "keywords": "2016,新北市,板橋區,幸福里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1376,7 +3058,65 @@
                 "code": "65000010-028",
                 "population": "7567",
                 "population_electors": "5707",
-                "keywords": "2016,新北市,板橋區,華江里"
+                "keywords": "2016,新北市,板橋區,華江里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1417,7 +3157,65 @@
                 "code": "65000010-020",
                 "population": "4591",
                 "population_electors": "3685",
-                "keywords": "2016,新北市,板橋區,漢生里"
+                "keywords": "2016,新北市,板橋區,漢生里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1462,7 +3260,65 @@
                 "code": "65000010-033",
                 "population": "5040",
                 "population_electors": "4122",
-                "keywords": "2016,新北市,板橋區,宏翠里"
+                "keywords": "2016,新北市,板橋區,宏翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1503,7 +3359,65 @@
                 "code": "65000010-019",
                 "population": "3866",
                 "population_electors": "3198",
-                "keywords": "2016,新北市,板橋區,建國里"
+                "keywords": "2016,新北市,板橋區,建國里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1544,7 +3458,65 @@
                 "code": "65000010-037",
                 "population": "7656",
                 "population_electors": "5923",
-                "keywords": "2016,新北市,板橋區,德翠里"
+                "keywords": "2016,新北市,板橋區,德翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1589,7 +3561,65 @@
                 "code": "65000010-038",
                 "population": "3228",
                 "population_electors": "2666",
-                "keywords": "2016,新北市,板橋區,滿翠里"
+                "keywords": "2016,新北市,板橋區,滿翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1630,7 +3660,65 @@
                 "code": "65000010-034",
                 "population": "3099",
                 "population_electors": "2586",
-                "keywords": "2016,新北市,板橋區,仁翠里"
+                "keywords": "2016,新北市,板橋區,仁翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1687,7 +3775,65 @@
                 "code": "65000010-041",
                 "population": "4185",
                 "population_electors": "3396",
-                "keywords": "2016,新北市,板橋區,柏翠里"
+                "keywords": "2016,新北市,板橋區,柏翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1744,7 +3890,65 @@
                 "code": "65000010-044",
                 "population": "10863",
                 "population_electors": "8177",
-                "keywords": "2016,新北市,板橋區,忠翠里"
+                "keywords": "2016,新北市,板橋區,忠翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1789,7 +3993,65 @@
                 "code": "65000010-036",
                 "population": "3951",
                 "population_electors": "3227",
-                "keywords": "2016,新北市,板橋區,吉翠里"
+                "keywords": "2016,新北市,板橋區,吉翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1834,7 +4096,65 @@
                 "code": "65000010-039",
                 "population": "5172",
                 "population_electors": "4275",
-                "keywords": "2016,新北市,板橋區,明翠里"
+                "keywords": "2016,新北市,板橋區,明翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1883,7 +4203,65 @@
                 "code": "65000010-048",
                 "population": "6319",
                 "population_electors": "5158",
-                "keywords": "2016,新北市,板橋區,懷翠里"
+                "keywords": "2016,新北市,板橋區,懷翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1936,7 +4314,65 @@
                 "code": "65000010-050",
                 "population": "6468",
                 "population_electors": "5383",
-                "keywords": "2016,新北市,板橋區,港嘴里"
+                "keywords": "2016,新北市,板橋區,港嘴里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1981,7 +4417,65 @@
                 "code": "65000010-042",
                 "population": "5272",
                 "population_electors": "4301",
-                "keywords": "2016,新北市,板橋區,龍翠里"
+                "keywords": "2016,新北市,板橋區,龍翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2026,7 +4520,65 @@
                 "code": "65000010-045",
                 "population": "2703",
                 "population_electors": "2234",
-                "keywords": "2016,新北市,板橋區,嵐翠里"
+                "keywords": "2016,新北市,板橋區,嵐翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2067,7 +4619,65 @@
                 "code": "65000010-046",
                 "population": "4185",
                 "population_electors": "3486",
-                "keywords": "2016,新北市,板橋區,文翠里"
+                "keywords": "2016,新北市,板橋區,文翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2116,7 +4726,65 @@
                 "code": "65000010-049",
                 "population": "1432",
                 "population_electors": "1235",
-                "keywords": "2016,新北市,板橋區,福翠里"
+                "keywords": "2016,新北市,板橋區,福翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2161,7 +4829,65 @@
                 "code": "65000010-043",
                 "population": "3922",
                 "population_electors": "3077",
-                "keywords": "2016,新北市,板橋區,華翠里"
+                "keywords": "2016,新北市,板橋區,華翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2206,7 +4932,65 @@
                 "code": "65000010-047",
                 "population": "3195",
                 "population_electors": "2639",
-                "keywords": "2016,新北市,板橋區,青翠里"
+                "keywords": "2016,新北市,板橋區,青翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2251,7 +5035,65 @@
                 "code": "65000010-035",
                 "population": "8261",
                 "population_electors": "6637",
-                "keywords": "2016,新北市,板橋區,新翠里"
+                "keywords": "2016,新北市,板橋區,新翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2296,7 +5138,65 @@
                 "code": "65000010-040",
                 "population": "3624",
                 "population_electors": "2964",
-                "keywords": "2016,新北市,板橋區,松翠里"
+                "keywords": "2016,新北市,板橋區,松翠里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2337,7 +5237,65 @@
                 "code": "65000010-062",
                 "population": "3734",
                 "population_electors": "2963",
-                "keywords": "2016,新北市,板橋區,永安里"
+                "keywords": "2016,新北市,板橋區,永安里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2386,7 +5344,65 @@
                 "code": "65000010-061",
                 "population": "4509",
                 "population_electors": "3490",
-                "keywords": "2016,新北市,板橋區,埤墘里"
+                "keywords": "2016,新北市,板橋區,埤墘里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2443,7 +5459,65 @@
                 "code": "65000010-101",
                 "population": "2718",
                 "population_electors": "2262",
-                "keywords": "2016,新北市,板橋區,香雅里"
+                "keywords": "2016,新北市,板橋區,香雅里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2484,7 +5558,65 @@
                 "code": "65000010-103",
                 "population": "3258",
                 "population_electors": "2632",
-                "keywords": "2016,新北市,板橋區,文德里"
+                "keywords": "2016,新北市,板橋區,文德里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2533,7 +5665,65 @@
                 "code": "65000010-105",
                 "population": "3853",
                 "population_electors": "3133",
-                "keywords": "2016,新北市,板橋區,新海里"
+                "keywords": "2016,新北市,板橋區,新海里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2578,7 +5768,65 @@
                 "code": "65000010-106",
                 "population": "3202",
                 "population_electors": "2524",
-                "keywords": "2016,新北市,板橋區,莒光里"
+                "keywords": "2016,新北市,板橋區,莒光里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2619,7 +5867,65 @@
                 "code": "65000010-102",
                 "population": "4480",
                 "population_electors": "3767",
-                "keywords": "2016,新北市,板橋區,新生里"
+                "keywords": "2016,新北市,板橋區,新生里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2668,7 +5974,65 @@
                 "code": "65000010-104",
                 "population": "3405",
                 "population_electors": "2764",
-                "keywords": "2016,新北市,板橋區,文化里"
+                "keywords": "2016,新北市,板橋區,文化里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2713,7 +6077,65 @@
                 "code": "65000010-116",
                 "population": "3005",
                 "population_electors": "2506",
-                "keywords": "2016,新北市,板橋區,陽明里"
+                "keywords": "2016,新北市,板橋區,陽明里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2758,7 +6180,65 @@
                 "code": "65000010-119",
                 "population": "4089",
                 "population_electors": "3331",
-                "keywords": "2016,新北市,板橋區,文聖里"
+                "keywords": "2016,新北市,板橋區,文聖里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2799,7 +6279,65 @@
                 "code": "65000010-115",
                 "population": "2240",
                 "population_electors": "1794",
-                "keywords": "2016,新北市,板橋區,民安里"
+                "keywords": "2016,新北市,板橋區,民安里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2844,7 +6382,65 @@
                 "code": "65000010-114",
                 "population": "2710",
                 "population_electors": "2265",
-                "keywords": "2016,新北市,板橋區,光榮里"
+                "keywords": "2016,新北市,板橋區,光榮里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2889,7 +6485,65 @@
                 "code": "65000010-121",
                 "population": "4448",
                 "population_electors": "3325",
-                "keywords": "2016,新北市,板橋區,莊敬里"
+                "keywords": "2016,新北市,板橋區,莊敬里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2930,7 +6584,65 @@
                 "code": "65000010-118",
                 "population": "2413",
                 "population_electors": "1965",
-                "keywords": "2016,新北市,板橋區,松柏里"
+                "keywords": "2016,新北市,板橋區,松柏里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -2975,68 +6687,66 @@
                 "code": "65000010-117",
                 "population": "3608",
                 "population_electors": "2981",
-                "keywords": "2016,新北市,板橋區,朝陽里"
+                "keywords": "2016,新北市,板橋區,朝陽里",
+                "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce32e-4614-4f25-926e-084b6ab936af",
+                        "stage": "1",
+                        "name": "莊豐銘",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550ce34b-5730-4386-811a-08496ab936af",
+                        "stage": "2",
+                        "name": "張宏陸",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da417-b778-482d-895c-126d6ab936af",
+                        "stage": "1",
+                        "name": "姚玉霜",
+                        "party": "台灣工黨"
+                    },
+                    {
+                        "id": "550da42c-264c-4e71-b951-1b416ab936af",
+                        "stage": "1",
+                        "name": "康仁俊",
+                        "party": "親民黨"
+                    },
+                    {
+                        "id": "551813db-8cbc-42d9-a811-12916ab936af",
+                        "stage": "1",
+                        "name": "林國春",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃鈞民",
+                        "party": "軍公教聯盟黨"
+                    },
+                    {
+                        "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
+                        "stage": "1",
+                        "name": "游信義",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "561365aa-9628-4402-908a-642d6ab936af",
+                        "stage": "1",
+                        "name": "李貴寶",
+                        "party": "民國黨"
+                    },
+                    {
+                        "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
+                        "stage": "1",
+                        "name": "李建明",
+                        "party": "樹黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508657f-3cdc-45ef-bf71-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 新北市 > 第06選區[區域]",
-        "candidates": [
-            {
-                "id": "550ce32e-4614-4f25-926e-084b6ab936af",
-                "stage": "1",
-                "name": "莊豐銘",
-                "party": "無"
-            },
-            {
-                "id": "550ce34b-5730-4386-811a-08496ab936af",
-                "stage": "2",
-                "name": "張宏陸",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550da417-b778-482d-895c-126d6ab936af",
-                "stage": "1",
-                "name": "姚玉霜",
-                "party": "台灣工黨"
-            },
-            {
-                "id": "550da42c-264c-4e71-b951-1b416ab936af",
-                "stage": "1",
-                "name": "康仁俊",
-                "party": "親民黨"
-            },
-            {
-                "id": "551813db-8cbc-42d9-a811-12916ab936af",
-                "stage": "1",
-                "name": "林國春",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55b79337-26a8-41d0-b6be-318f6ab936af",
-                "stage": "1",
-                "name": "黃鈞民",
-                "party": "軍公教聯盟黨"
-            },
-            {
-                "id": "560024e7-18a4-4a7d-9af1-461f6ab936af",
-                "stage": "1",
-                "name": "游信義",
-                "party": "信心希望聯盟"
-            },
-            {
-                "id": "561365aa-9628-4402-908a-642d6ab936af",
-                "stage": "1",
-                "name": "李貴寶",
-                "party": "民國黨"
-            },
-            {
-                "id": "5625cc42-cfe4-43cb-bc2a-7c136ab936af",
-                "stage": "1",
-                "name": "李建明",
-                "party": "樹黨"
-            }
-        ]
-    }
+    ]
 }

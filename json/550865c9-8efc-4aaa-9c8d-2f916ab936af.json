@@ -135,7 +135,35 @@
                 "code": "66000050",
                 "population": "147321",
                 "population_electors": "118298",
-                "keywords": "2016,臺中市,北區"
+                "keywords": "2016,臺中市,北區",
+                "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-82b4-4913-87ce-025cacb5b862",
+                        "stage": "2",
+                        "name": "盧秀燕",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550da05f-2d78-42a5-804a-084b6ab936af",
+                        "stage": "1",
+                        "name": "苗豐隆",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c60965-bf94-405e-8c01-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "劉國隆",
+                        "party": "台灣團結聯盟"
+                    },
+                    {
+                        "id": "560024c0-0254-4ad3-9c32-46a36ab936af",
+                        "stage": "1",
+                        "name": "簡孟軒",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -460,38 +488,36 @@
                 "code": "66000080",
                 "population": "258701",
                 "population_electors": "200209",
-                "keywords": "2016,臺中市,北屯區"
+                "keywords": "2016,臺中市,北屯區",
+                "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-82b4-4913-87ce-025cacb5b862",
+                        "stage": "2",
+                        "name": "盧秀燕",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550da05f-2d78-42a5-804a-084b6ab936af",
+                        "stage": "1",
+                        "name": "苗豐隆",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55c60965-bf94-405e-8c01-6e0c6ab936af",
+                        "stage": "1",
+                        "name": "劉國隆",
+                        "party": "台灣團結聯盟"
+                    },
+                    {
+                        "id": "560024c0-0254-4ad3-9c32-46a36ab936af",
+                        "stage": "1",
+                        "name": "簡孟軒",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第05選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-82b4-4913-87ce-025cacb5b862",
-                "stage": "2",
-                "name": "盧秀燕",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550da05f-2d78-42a5-804a-084b6ab936af",
-                "stage": "1",
-                "name": "苗豐隆",
-                "party": "無"
-            },
-            {
-                "id": "55c60965-bf94-405e-8c01-6e0c6ab936af",
-                "stage": "1",
-                "name": "劉國隆",
-                "party": "台灣團結聯盟"
-            },
-            {
-                "id": "560024c0-0254-4ad3-9c32-46a36ab936af",
-                "stage": "1",
-                "name": "簡孟軒",
-                "party": "信心希望聯盟"
-            }
-        ]
-    }
+    ]
 }

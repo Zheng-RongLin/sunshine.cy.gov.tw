@@ -231,7 +231,29 @@
                 "code": "66000090",
                 "population": "166354",
                 "population_electors": "128296",
-                "keywords": "2016,臺中市,豐原區"
+                "keywords": "2016,臺中市,豐原區",
+                "election_id": "550865d5-00d0-4767-8c2b-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b2d4-4fbe-96e7-025cacb5b862",
+                        "stage": "2",
+                        "name": "江啟臣",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5540edf6-c5bc-4b07-b360-71216ab936af",
+                        "stage": "1",
+                        "name": "謝志忠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5655768a-e094-4992-9a97-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王政棋",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -564,7 +586,29 @@
                 "code": "66000100",
                 "population": "51585",
                 "population_electors": "41986",
-                "keywords": "2016,臺中市,東勢區"
+                "keywords": "2016,臺中市,東勢區",
+                "election_id": "550865d5-00d0-4767-8c2b-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b2d4-4fbe-96e7-025cacb5b862",
+                        "stage": "2",
+                        "name": "江啟臣",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5540edf6-c5bc-4b07-b360-71216ab936af",
+                        "stage": "1",
+                        "name": "謝志忠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5655768a-e094-4992-9a97-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王政棋",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1001,7 +1045,29 @@
                 "code": "66000190",
                 "population": "25247",
                 "population_electors": "20146",
-                "keywords": "2016,臺中市,新社區"
+                "keywords": "2016,臺中市,新社區",
+                "election_id": "550865d5-00d0-4767-8c2b-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b2d4-4fbe-96e7-025cacb5b862",
+                        "stage": "2",
+                        "name": "江啟臣",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5540edf6-c5bc-4b07-b360-71216ab936af",
+                        "stage": "1",
+                        "name": "謝志忠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5655768a-e094-4992-9a97-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王政棋",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -1194,7 +1260,29 @@
                 "code": "66000200",
                 "population": "15443",
                 "population_electors": "12429",
-                "keywords": "2016,臺中市,石岡區"
+                "keywords": "2016,臺中市,石岡區",
+                "election_id": "550865d5-00d0-4767-8c2b-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b2d4-4fbe-96e7-025cacb5b862",
+                        "stage": "2",
+                        "name": "江啟臣",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5540edf6-c5bc-4b07-b360-71216ab936af",
+                        "stage": "1",
+                        "name": "謝志忠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5655768a-e094-4992-9a97-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王政棋",
+                        "party": "無"
+                    }
+                ]
             }
         },
         {
@@ -2283,32 +2371,30 @@
                 "code": "66000290",
                 "population": "10810",
                 "population_electors": "8867",
-                "keywords": "2016,臺中市,和平區"
+                "keywords": "2016,臺中市,和平區",
+                "election_id": "550865d5-00d0-4767-8c2b-35296ab936af",
+                "election": "2016-01 > 立法委員 > 臺中市 > 第08選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-b2d4-4fbe-96e7-025cacb5b862",
+                        "stage": "2",
+                        "name": "江啟臣",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5540edf6-c5bc-4b07-b360-71216ab936af",
+                        "stage": "1",
+                        "name": "謝志忠",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "5655768a-e094-4992-9a97-2a3b6ab936af",
+                        "stage": "1",
+                        "name": "王政棋",
+                        "party": "無"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865d5-00d0-4767-8c2b-35296ab936af",
-        "election": "2016-01 > 立法委員 > 臺中市 > 第08選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-b2d4-4fbe-96e7-025cacb5b862",
-                "stage": "2",
-                "name": "江啟臣",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "5540edf6-c5bc-4b07-b360-71216ab936af",
-                "stage": "1",
-                "name": "謝志忠",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "5655768a-e094-4992-9a97-2a3b6ab936af",
-                "stage": "1",
-                "name": "王政棋",
-                "party": "無"
-            }
-        ]
-    }
+    ]
 }

@@ -43,7 +43,53 @@
                 "code": "63000050-020",
                 "population": "8215",
                 "population_electors": "6043",
-                "keywords": "2016,臺北市,中正區,龍福里"
+                "keywords": "2016,臺北市,中正區,龍福里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -92,7 +138,53 @@
                 "code": "63000050-024",
                 "population": "3610",
                 "population_electors": "2667",
-                "keywords": "2016,臺北市,中正區,黎明里"
+                "keywords": "2016,臺北市,中正區,黎明里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -141,7 +233,53 @@
                 "code": "63000050-026",
                 "population": "4981",
                 "population_electors": "3858",
-                "keywords": "2016,臺北市,中正區,幸福里"
+                "keywords": "2016,臺北市,中正區,幸福里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -186,7 +324,53 @@
                 "code": "63000050-014",
                 "population": "6967",
                 "population_electors": "5895",
-                "keywords": "2016,臺北市,中正區,忠勤里"
+                "keywords": "2016,臺北市,中正區,忠勤里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -231,7 +415,53 @@
                 "code": "63000050-011",
                 "population": "6722",
                 "population_electors": "5309",
-                "keywords": "2016,臺北市,中正區,永功里"
+                "keywords": "2016,臺北市,中正區,永功里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -284,7 +514,53 @@
                 "code": "63000050-022",
                 "population": "1737",
                 "population_electors": "1177",
-                "keywords": "2016,臺北市,中正區,建國里"
+                "keywords": "2016,臺北市,中正區,建國里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -325,7 +601,53 @@
                 "code": "63000050-021",
                 "population": "10280",
                 "population_electors": "7020",
-                "keywords": "2016,臺北市,中正區,新營里"
+                "keywords": "2016,臺北市,中正區,新營里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -378,7 +700,53 @@
                 "code": "63000050-019",
                 "population": "11106",
                 "population_electors": "7939",
-                "keywords": "2016,臺北市,中正區,南福里"
+                "keywords": "2016,臺北市,中正區,南福里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -427,7 +795,53 @@
                 "code": "63000050-017",
                 "population": "3050",
                 "population_electors": "2227",
-                "keywords": "2016,臺北市,中正區,南門里"
+                "keywords": "2016,臺北市,中正區,南門里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -476,7 +890,53 @@
                 "code": "63000050-025",
                 "population": "3356",
                 "population_electors": "2813",
-                "keywords": "2016,臺北市,中正區,梅花里"
+                "keywords": "2016,臺北市,中正區,梅花里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -521,7 +981,53 @@
                 "code": "63000050-018",
                 "population": "3998",
                 "population_electors": "2789",
-                "keywords": "2016,臺北市,中正區,龍光里"
+                "keywords": "2016,臺北市,中正區,龍光里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -570,7 +1076,53 @@
                 "code": "63000050-023",
                 "population": "4226",
                 "population_electors": "3158",
-                "keywords": "2016,臺北市,中正區,光復里"
+                "keywords": "2016,臺北市,中正區,光復里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -615,7 +1167,53 @@
                 "code": "63000050-016",
                 "population": "3700",
                 "population_electors": "2654",
-                "keywords": "2016,臺北市,中正區,愛國里"
+                "keywords": "2016,臺北市,中正區,愛國里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -660,7 +1258,53 @@
                 "code": "63000050-012",
                 "population": "5238",
                 "population_electors": "4500",
-                "keywords": "2016,臺北市,中正區,永昌里"
+                "keywords": "2016,臺北市,中正區,永昌里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -705,7 +1349,53 @@
                 "code": "63000050-015",
                 "population": "4895",
                 "population_electors": "3421",
-                "keywords": "2016,臺北市,中正區,廈安里"
+                "keywords": "2016,臺北市,中正區,廈安里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -746,7 +1436,53 @@
                 "code": "63000050-013",
                 "population": "4596",
                 "population_electors": "3183",
-                "keywords": "2016,臺北市,中正區,龍興里"
+                "keywords": "2016,臺北市,中正區,龍興里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -791,7 +1527,53 @@
                 "code": "63000050-031",
                 "population": "8837",
                 "population_electors": "6944",
-                "keywords": "2016,臺北市,中正區,三愛里"
+                "keywords": "2016,臺北市,中正區,三愛里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -836,7 +1618,53 @@
                 "code": "63000050-029",
                 "population": "5764",
                 "population_electors": "4610",
-                "keywords": "2016,臺北市,中正區,文北里"
+                "keywords": "2016,臺北市,中正區,文北里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -881,7 +1709,53 @@
                 "code": "63000050-027",
                 "population": "4663",
                 "population_electors": "3873",
-                "keywords": "2016,臺北市,中正區,幸市里"
+                "keywords": "2016,臺北市,中正區,幸市里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -930,7 +1804,53 @@
                 "code": "63000050-028",
                 "population": "4524",
                 "population_electors": "3459",
-                "keywords": "2016,臺北市,中正區,東門里"
+                "keywords": "2016,臺北市,中正區,東門里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -975,7 +1895,53 @@
                 "code": "63000050-030",
                 "population": "8513",
                 "population_electors": "6172",
-                "keywords": "2016,臺北市,中正區,文祥里"
+                "keywords": "2016,臺北市,中正區,文祥里",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         },
         {
@@ -1060,56 +2026,54 @@
                 "code": "63000070",
                 "population": "194229",
                 "population_electors": "161877",
-                "keywords": "2016,臺北市,萬華區"
+                "keywords": "2016,臺北市,萬華區",
+                "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a020-4b05-ac53-025cacb5b862",
+                        "stage": "1",
+                        "name": "林郁方",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
+                        "stage": "2",
+                        "name": "林昶佐",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "551010a2-7c40-485d-99c2-0c586ab936af",
+                        "stage": "1",
+                        "name": "洪顯政",
+                        "party": "大愛憲改聯盟"
+                    },
+                    {
+                        "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
+                        "stage": "1",
+                        "name": "龔偉綸",
+                        "party": "無"
+                    },
+                    {
+                        "id": "554ad473-d614-4549-8810-709d6ab936af",
+                        "stage": "1",
+                        "name": "李家幸",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
+                        "stage": "1",
+                        "name": "黃福卿",
+                        "party": "無"
+                    },
+                    {
+                        "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
+                        "stage": "1",
+                        "name": "尤瑞敏",
+                        "party": "樹黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508652b-cb04-46ec-91d6-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第05選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-a020-4b05-ac53-025cacb5b862",
-                "stage": "1",
-                "name": "林郁方",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550d9cdc-0e08-43d1-bafc-084b6ab936af",
-                "stage": "2",
-                "name": "林昶佐",
-                "party": "時代力量"
-            },
-            {
-                "id": "551010a2-7c40-485d-99c2-0c586ab936af",
-                "stage": "1",
-                "name": "洪顯政",
-                "party": "大愛憲改聯盟"
-            },
-            {
-                "id": "55180c0e-3bb4-4939-a3a1-17a06ab936af",
-                "stage": "1",
-                "name": "龔偉綸",
-                "party": "無"
-            },
-            {
-                "id": "554ad473-d614-4549-8810-709d6ab936af",
-                "stage": "1",
-                "name": "李家幸",
-                "party": "台灣獨立黨"
-            },
-            {
-                "id": "554ad5e5-c038-43fa-9908-709d6ab936af",
-                "stage": "1",
-                "name": "黃福卿",
-                "party": "無"
-            },
-            {
-                "id": "555c5656-f3a8-402a-ac9b-7d4e6ab936af",
-                "stage": "1",
-                "name": "尤瑞敏",
-                "party": "樹黨"
-            }
-        ]
-    }
+    ]
 }

@@ -315,7 +315,35 @@
                 "code": "65000110",
                 "population": "194879",
                 "population_electors": "160224",
-                "keywords": "2016,新北市,汐止區"
+                "keywords": "2016,新北市,汐止區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -824,7 +852,35 @@
                 "code": "65000120",
                 "population": "41372",
                 "population_electors": "34507",
-                "keywords": "2016,新北市,瑞芳區"
+                "keywords": "2016,新北市,瑞芳區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -1125,7 +1181,35 @@
                 "code": "65000240",
                 "population": "4986",
                 "population_electors": "4498",
-                "keywords": "2016,新北市,平溪區"
+                "keywords": "2016,新北市,平溪區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -1514,7 +1598,35 @@
                 "code": "65000250",
                 "population": "9423",
                 "population_electors": "8128",
-                "keywords": "2016,新北市,雙溪區"
+                "keywords": "2016,新北市,雙溪區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -2011,7 +2123,35 @@
                 "code": "65000260",
                 "population": "13142",
                 "population_electors": "11327",
-                "keywords": "2016,新北市,貢寮區"
+                "keywords": "2016,新北市,貢寮區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -2276,7 +2416,35 @@
                 "code": "65000270",
                 "population": "22361",
                 "population_electors": "18080",
-                "keywords": "2016,新北市,金山區"
+                "keywords": "2016,新北市,金山區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         },
         {
@@ -2653,38 +2821,36 @@
                 "code": "65000280",
                 "population": "22645",
                 "population_electors": "18620",
-                "keywords": "2016,新北市,萬里區"
+                "keywords": "2016,新北市,萬里區",
+                "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
+                        "stage": "1",
+                        "name": "李慶華",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "55116316-4fe4-4531-af59-148d6ab936af",
+                        "stage": "1",
+                        "name": "鐘國誌",
+                        "party": "和平鴿聯盟黨"
+                    },
+                    {
+                        "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
+                        "stage": "2",
+                        "name": "黃國昌",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "560024fd-cf1c-491f-be40-461f6ab936af",
+                        "stage": "1",
+                        "name": "陳永順",
+                        "party": "信心希望聯盟"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508659d-b768-4da9-bcad-28956ab936af",
-        "election": "2016-01 > 立法委員 > 新北市 > 第12選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-d8bc-44e2-b536-025cacb5b862",
-                "stage": "1",
-                "name": "李慶華",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "55116316-4fe4-4531-af59-148d6ab936af",
-                "stage": "1",
-                "name": "鐘國誌",
-                "party": "和平鴿聯盟黨"
-            },
-            {
-                "id": "553fb88a-fa84-4572-88e3-698f6ab936af",
-                "stage": "2",
-                "name": "黃國昌",
-                "party": "時代力量"
-            },
-            {
-                "id": "560024fd-cf1c-491f-be40-461f6ab936af",
-                "stage": "1",
-                "name": "陳永順",
-                "party": "信心希望聯盟"
-            }
-        ]
-    }
+    ]
 }

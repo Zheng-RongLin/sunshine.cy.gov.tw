@@ -483,7 +483,29 @@
                 "code": "65000090",
                 "population": "111163",
                 "population_electors": "84844",
-                "keywords": "2016,新北市,三峽區"
+                "keywords": "2016,新北市,三峽區",
+                "election_id": "55086591-a3f4-4055-a37e-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第10選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9ab0-43da-81fc-025cacb5b862",
+                        "stage": "1",
+                        "name": "盧嘉辰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce388-ca78-4655-8c58-084b6ab936af",
+                        "stage": "2",
+                        "name": "吳琪銘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da482-c174-4cd3-a2d3-084b6ab936af",
+                        "stage": "1",
+                        "name": "黃魯光",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         },
         {
@@ -684,32 +706,30 @@
                 "code": "65000130",
                 "population": "239056",
                 "population_electors": "190063",
-                "keywords": "2016,新北市,土城區"
+                "keywords": "2016,新北市,土城區",
+                "election_id": "55086591-a3f4-4055-a37e-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第10選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-9ab0-43da-81fc-025cacb5b862",
+                        "stage": "1",
+                        "name": "盧嘉辰",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce388-ca78-4655-8c58-084b6ab936af",
+                        "stage": "2",
+                        "name": "吳琪銘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550da482-c174-4cd3-a2d3-084b6ab936af",
+                        "stage": "1",
+                        "name": "黃魯光",
+                        "party": "自由台灣黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086591-a3f4-4055-a37e-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 新北市 > 第10選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-9ab0-43da-81fc-025cacb5b862",
-                "stage": "1",
-                "name": "盧嘉辰",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce388-ca78-4655-8c58-084b6ab936af",
-                "stage": "2",
-                "name": "吳琪銘",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550da482-c174-4cd3-a2d3-084b6ab936af",
-                "stage": "1",
-                "name": "黃魯光",
-                "party": "自由台灣黨"
-            }
-        ]
-    }
+    ]
 }

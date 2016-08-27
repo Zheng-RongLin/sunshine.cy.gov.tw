@@ -47,7 +47,41 @@
                 "code": "63000110-027",
                 "population": "4578",
                 "population_electors": "3761",
-                "keywords": "2016,臺北市,士林區,德行里"
+                "keywords": "2016,臺北市,士林區,德行里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -96,7 +130,41 @@
                 "code": "63000110-028",
                 "population": "5964",
                 "population_electors": "4886",
-                "keywords": "2016,臺北市,士林區,德華里"
+                "keywords": "2016,臺北市,士林區,德華里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -141,7 +209,41 @@
                 "code": "63000110-030",
                 "population": "5988",
                 "population_electors": "4913",
-                "keywords": "2016,臺北市,士林區,忠誠里"
+                "keywords": "2016,臺北市,士林區,忠誠里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -186,7 +288,41 @@
                 "code": "63000110-036",
                 "population": "6717",
                 "population_electors": "5283",
-                "keywords": "2016,臺北市,士林區,天福里"
+                "keywords": "2016,臺北市,士林區,天福里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -231,7 +367,41 @@
                 "code": "63000110-040",
                 "population": "7414",
                 "population_electors": "5899",
-                "keywords": "2016,臺北市,士林區,天山里"
+                "keywords": "2016,臺北市,士林區,天山里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -276,7 +446,41 @@
                 "code": "63000110-038",
                 "population": "5318",
                 "population_electors": "4212",
-                "keywords": "2016,臺北市,士林區,天壽里"
+                "keywords": "2016,臺北市,士林區,天壽里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -373,7 +577,41 @@
                 "code": "63000110-042",
                 "population": "7131",
                 "population_electors": "5648",
-                "keywords": "2016,臺北市,士林區,天母里"
+                "keywords": "2016,臺北市,士林區,天母里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -430,7 +668,41 @@
                 "code": "63000110-039",
                 "population": "8111",
                 "population_electors": "6389",
-                "keywords": "2016,臺北市,士林區,天和里"
+                "keywords": "2016,臺北市,士林區,天和里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -475,7 +747,41 @@
                 "code": "63000110-041",
                 "population": "9358",
                 "population_electors": "7317",
-                "keywords": "2016,臺北市,士林區,天玉里"
+                "keywords": "2016,臺北市,士林區,天玉里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -532,7 +838,41 @@
                 "code": "63000110-033",
                 "population": "6149",
                 "population_electors": "5052",
-                "keywords": "2016,臺北市,士林區,三玉里"
+                "keywords": "2016,臺北市,士林區,三玉里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -585,7 +925,41 @@
                 "code": "63000110-035",
                 "population": "6860",
                 "population_electors": "5588",
-                "keywords": "2016,臺北市,士林區,蘭興里"
+                "keywords": "2016,臺北市,士林區,蘭興里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -626,7 +1000,41 @@
                 "code": "63000110-037",
                 "population": "5507",
                 "population_electors": "4459",
-                "keywords": "2016,臺北市,士林區,天祿里"
+                "keywords": "2016,臺北市,士林區,天祿里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -671,7 +1079,41 @@
                 "code": "63000110-034",
                 "population": "9106",
                 "population_electors": "7499",
-                "keywords": "2016,臺北市,士林區,蘭雅里"
+                "keywords": "2016,臺北市,士林區,蘭雅里",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         },
         {
@@ -916,44 +1358,42 @@
                 "code": "63000120",
                 "population": "256763",
                 "population_electors": "205644",
-                "keywords": "2016,臺北市,北投區"
+                "keywords": "2016,臺北市,北投區",
+                "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
+                "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
+                        "stage": "1",
+                        "name": "丁守中",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
+                        "stage": "1",
+                        "name": "黃清原",
+                        "party": "台灣獨立黨"
+                    },
+                    {
+                        "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
+                        "stage": "1",
+                        "name": "吳忠錚",
+                        "party": "健保免費連線"
+                    },
+                    {
+                        "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
+                        "stage": "2",
+                        "name": "吳思瑤",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
+                        "stage": "1",
+                        "name": "王靜亞",
+                        "party": "民國黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086515-7ac8-4ef6-9e8a-23aa6ab936af",
-        "election": "2016-01 > 立法委員 > 臺北市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-2b3c-4e09-abfb-025cacb5b862",
-                "stage": "1",
-                "name": "丁守中",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "554ad4aa-ec78-439f-9c49-3c576ab936af",
-                "stage": "1",
-                "name": "黃清原",
-                "party": "台灣獨立黨"
-            },
-            {
-                "id": "554ad5a9-856c-45d6-86c1-71216ab936af",
-                "stage": "1",
-                "name": "吳忠錚",
-                "party": "健保免費連線"
-            },
-            {
-                "id": "554ad5c6-7ebc-4a7b-8edd-3c576ab936af",
-                "stage": "2",
-                "name": "吳思瑤",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "56136393-6bb0-4a9b-b9c5-64216ab936af",
-                "stage": "1",
-                "name": "王靜亞",
-                "party": "民國黨"
-            }
-        ]
-    }
+    ]
 }

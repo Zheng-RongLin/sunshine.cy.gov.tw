@@ -83,7 +83,41 @@
                 "code": "64000060",
                 "population": "52624",
                 "population_electors": "44179",
-                "keywords": "2016,高雄市,新興區"
+                "keywords": "2016,高雄市,新興區",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -152,7 +186,41 @@
                 "code": "64000070",
                 "population": "27869",
                 "population_electors": "24024",
-                "keywords": "2016,高雄市,前金區"
+                "keywords": "2016,高雄市,前金區",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -321,7 +389,41 @@
                 "code": "64000080",
                 "population": "176033",
                 "population_electors": "146130",
-                "keywords": "2016,高雄市,苓雅區"
+                "keywords": "2016,高雄市,苓雅區",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -370,7 +472,41 @@
                 "code": "64000090-043",
                 "population": "2545",
                 "population_electors": "2086",
-                "keywords": "2016,高雄市,前鎮區,竹北里"
+                "keywords": "2016,高雄市,前鎮區,竹北里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -419,7 +555,41 @@
                 "code": "64000090-039",
                 "population": "3251",
                 "population_electors": "2758",
-                "keywords": "2016,高雄市,前鎮區,復國里"
+                "keywords": "2016,高雄市,前鎮區,復國里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -468,7 +638,41 @@
                 "code": "64000090-041",
                 "population": "2601",
                 "population_electors": "2218",
-                "keywords": "2016,高雄市,前鎮區,竹東里"
+                "keywords": "2016,高雄市,前鎮區,竹東里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -513,7 +717,41 @@
                 "code": "64000090-044",
                 "population": "4867",
                 "population_electors": "3959",
-                "keywords": "2016,高雄市,前鎮區,竹西里"
+                "keywords": "2016,高雄市,前鎮區,竹西里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -582,7 +820,41 @@
                 "code": "64000090-042",
                 "population": "8412",
                 "population_electors": "6351",
-                "keywords": "2016,高雄市,前鎮區,竹南里"
+                "keywords": "2016,高雄市,前鎮區,竹南里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -627,7 +899,41 @@
                 "code": "64000090-045",
                 "population": "3917",
                 "population_electors": "3239",
-                "keywords": "2016,高雄市,前鎮區,竹中里"
+                "keywords": "2016,高雄市,前鎮區,竹中里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -676,7 +982,41 @@
                 "code": "64000090-040",
                 "population": "3195",
                 "population_electors": "2664",
-                "keywords": "2016,高雄市,前鎮區,竹內里"
+                "keywords": "2016,高雄市,前鎮區,竹內里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         },
         {
@@ -721,44 +1061,42 @@
                 "code": "64000090-037",
                 "population": "6277",
                 "population_electors": "5018",
-                "keywords": "2016,高雄市,前鎮區,興東里"
+                "keywords": "2016,高雄市,前鎮區,興東里",
+                "election_id": "55086646-73b0-4839-860d-2f916ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
+                        "stage": "2",
+                        "name": "趙天麟",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
+                        "stage": "1",
+                        "name": "莊啟旺",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56594363-d78c-4163-ac29-197f6ab936af",
+                        "stage": "1",
+                        "name": "林景元",
+                        "party": "無"
+                    },
+                    {
+                        "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
+                        "stage": "1",
+                        "name": "陳惠敏",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "565943da-d6a0-491d-bfc6-19786ab936af",
+                        "stage": "1",
+                        "name": "陳素莉",
+                        "party": "和平鴿聯盟黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086646-73b0-4839-860d-2f916ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第07選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-16f8-4bb8-9ce8-025cacb5b862",
-                "stage": "2",
-                "name": "趙天麟",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "555b4ec8-c2f8-456c-a94b-5a316ab936af",
-                "stage": "1",
-                "name": "莊啟旺",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56594363-d78c-4163-ac29-197f6ab936af",
-                "stage": "1",
-                "name": "林景元",
-                "party": "無"
-            },
-            {
-                "id": "565943c3-2df4-426b-9e0e-197f6ab936af",
-                "stage": "1",
-                "name": "陳惠敏",
-                "party": "時代力量"
-            },
-            {
-                "id": "565943da-d6a0-491d-bfc6-19786ab936af",
-                "stage": "1",
-                "name": "陳素莉",
-                "party": "和平鴿聯盟黨"
-            }
-        ]
-    }
+    ]
 }

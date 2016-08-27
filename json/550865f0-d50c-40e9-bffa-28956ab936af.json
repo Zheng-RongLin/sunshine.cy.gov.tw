@@ -343,7 +343,35 @@
                 "code": "67000010",
                 "population": "78267",
                 "population_electors": "61964",
-                "keywords": "2016,臺南市,新營區"
+                "keywords": "2016,臺南市,新營區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -704,7 +732,35 @@
                 "code": "67000020",
                 "population": "26348",
                 "population_electors": "21797",
-                "keywords": "2016,臺南市,鹽水區"
+                "keywords": "2016,臺南市,鹽水區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -1213,7 +1269,35 @@
                 "code": "67000030",
                 "population": "29858",
                 "population_electors": "25155",
-                "keywords": "2016,臺南市,白河區"
+                "keywords": "2016,臺南市,白河區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -1514,7 +1598,35 @@
                 "code": "67000040",
                 "population": "21861",
                 "population_electors": "18392",
-                "keywords": "2016,臺南市,柳營區"
+                "keywords": "2016,臺南市,柳營區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -1819,7 +1931,35 @@
                 "code": "67000050",
                 "population": "24633",
                 "population_electors": "20998",
-                "keywords": "2016,臺南市,後壁區"
+                "keywords": "2016,臺南市,後壁區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -2300,7 +2440,35 @@
                 "code": "67000060",
                 "population": "21963",
                 "population_electors": "18579",
-                "keywords": "2016,臺南市,東山區"
+                "keywords": "2016,臺南市,東山區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -2565,7 +2733,35 @@
                 "code": "67000080",
                 "population": "25167",
                 "population_electors": "21024",
-                "keywords": "2016,臺南市,下營區"
+                "keywords": "2016,臺南市,下營區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -3006,7 +3202,35 @@
                 "code": "67000090",
                 "population": "22895",
                 "population_electors": "18636",
-                "keywords": "2016,臺南市,六甲區"
+                "keywords": "2016,臺南市,六甲區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -3347,7 +3571,35 @@
                 "code": "67000100",
                 "population": "21754",
                 "population_electors": "18104",
-                "keywords": "2016,臺南市,官田區"
+                "keywords": "2016,臺南市,官田區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -3680,7 +3932,35 @@
                 "code": "67000130",
                 "population": "26951",
                 "population_electors": "22456",
-                "keywords": "2016,臺南市,學甲區"
+                "keywords": "2016,臺南市,學甲區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -3933,7 +4213,35 @@
                 "code": "67000160",
                 "population": "20597",
                 "population_electors": "17838",
-                "keywords": "2016,臺南市,將軍區"
+                "keywords": "2016,臺南市,將軍區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         },
         {
@@ -4206,38 +4514,36 @@
                 "code": "67000170",
                 "population": "11721",
                 "population_electors": "10079",
-                "keywords": "2016,臺南市,北門區"
+                "keywords": "2016,臺南市,北門區",
+                "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
+                "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
+                        "stage": "2",
+                        "name": "葉宜津",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
+                        "stage": "1",
+                        "name": "林德旺",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
+                        "stage": "1",
+                        "name": "黃瑞坤",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "56371535-7c24-431c-bedc-64506ab936af",
+                        "stage": "1",
+                        "name": "陳柏志",
+                        "party": "中華統一促進黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "550865f0-d50c-40e9-bffa-28956ab936af",
-        "election": "2016-01 > 立法委員 > 臺南市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-a1c0-469d-83d5-025cacb5b862",
-                "stage": "2",
-                "name": "葉宜津",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce657-2d00-419d-b9fa-084b6ab936af",
-                "stage": "1",
-                "name": "林德旺",
-                "party": "無"
-            },
-            {
-                "id": "55b7b4e4-fb4c-4e6d-aca9-318f6ab936af",
-                "stage": "1",
-                "name": "黃瑞坤",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "56371535-7c24-431c-bedc-64506ab936af",
-                "stage": "1",
-                "name": "陳柏志",
-                "party": "中華統一促進黨"
-            }
-        ]
-    }
+    ]
 }

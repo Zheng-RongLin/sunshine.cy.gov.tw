@@ -67,7 +67,29 @@
                 "code": "10003010-005",
                 "population": "9571",
                 "population_electors": "6796",
-                "keywords": "2016,桃園市,桃園區,忠義里"
+                "keywords": "2016,桃園市,桃園區,忠義里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -132,7 +154,29 @@
                 "code": "10003010-006",
                 "population": "9827",
                 "population_electors": "7590",
-                "keywords": "2016,桃園市,桃園區,會稽里"
+                "keywords": "2016,桃園市,桃園區,會稽里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -217,7 +261,29 @@
                 "code": "10003010-010",
                 "population": "5402",
                 "population_electors": "4162",
-                "keywords": "2016,桃園市,桃園區,汴洲里"
+                "keywords": "2016,桃園市,桃園區,汴洲里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -278,7 +344,29 @@
                 "code": "10003010-015",
                 "population": "1181",
                 "population_electors": "991",
-                "keywords": "2016,桃園市,桃園區,萬壽里"
+                "keywords": "2016,桃園市,桃園區,萬壽里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -339,7 +427,29 @@
                 "code": "10003010-038",
                 "population": "5670",
                 "population_electors": "4401",
-                "keywords": "2016,桃園市,桃園區,青溪里"
+                "keywords": "2016,桃園市,桃園區,青溪里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -396,7 +506,29 @@
                 "code": "10003010-046",
                 "population": "11530",
                 "population_electors": "8819",
-                "keywords": "2016,桃園市,桃園區,大興里"
+                "keywords": "2016,桃園市,桃園區,大興里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -445,7 +577,29 @@
                 "code": "10003010-045",
                 "population": "4951",
                 "population_electors": "3743",
-                "keywords": "2016,桃園市,桃園區,三民里"
+                "keywords": "2016,桃園市,桃園區,三民里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -510,7 +664,29 @@
                 "code": "10003010-047",
                 "population": "6849",
                 "population_electors": "5298",
-                "keywords": "2016,桃園市,桃園區,春日里"
+                "keywords": "2016,桃園市,桃園區,春日里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -555,7 +731,29 @@
                 "code": "10003010-058",
                 "population": "9362",
                 "population_electors": "6999",
-                "keywords": "2016,桃園市,桃園區,寶山里"
+                "keywords": "2016,桃園市,桃園區,寶山里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -604,7 +802,29 @@
                 "code": "10003010-057",
                 "population": "5657",
                 "population_electors": "4122",
-                "keywords": "2016,桃園市,桃園區,大有里"
+                "keywords": "2016,桃園市,桃園區,大有里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -669,7 +889,29 @@
                 "code": "10003010-076",
                 "population": "4241",
                 "population_electors": "3145",
-                "keywords": "2016,桃園市,桃園區,三元里"
+                "keywords": "2016,桃園市,桃園區,三元里",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1098,7 +1340,29 @@
                 "code": "10003050",
                 "population": "150969",
                 "population_electors": "110800",
-                "keywords": "2016,桃園市,蘆竹區"
+                "keywords": "2016,桃園市,蘆竹區",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -1511,32 +1775,30 @@
                 "code": "10003070",
                 "population": "141565",
                 "population_electors": "110567",
-                "keywords": "2016,桃園市,龜山區"
+                "keywords": "2016,桃園市,龜山區",
+                "election_id": "55086674-8224-431b-be41-35296ab936af",
+                "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
+                        "stage": "1",
+                        "name": "陳根德",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
+                        "stage": "1",
+                        "name": "王寶萱",
+                        "party": "綠黨社會民主黨聯盟"
+                    },
+                    {
+                        "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
+                        "stage": "2",
+                        "name": "鄭運鵬",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086674-8224-431b-be41-35296ab936af",
-        "election": "2016-01 > 立法委員 > 桃園市 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-ff38-4f05-a01c-025cacb5b862",
-                "stage": "1",
-                "name": "陳根德",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "5558aa6d-848c-4256-98c0-1f286ab936af",
-                "stage": "1",
-                "name": "王寶萱",
-                "party": "綠黨社會民主黨聯盟"
-            },
-            {
-                "id": "55b5f297-faf8-48f4-abd3-30506ab936af",
-                "stage": "2",
-                "name": "鄭運鵬",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }

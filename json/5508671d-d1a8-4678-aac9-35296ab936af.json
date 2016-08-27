@@ -319,7 +319,29 @@
                 "code": "10010010",
                 "population": "37054",
                 "population_electors": "28503",
-                "keywords": "2016,嘉義縣,太保市"
+                "keywords": "2016,嘉義縣,太保市",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -660,7 +682,29 @@
                 "code": "10010020",
                 "population": "43256",
                 "population_electors": "33834",
-                "keywords": "2016,嘉義縣,朴子市"
+                "keywords": "2016,嘉義縣,朴子市",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1177,7 +1221,29 @@
                 "code": "10010030",
                 "population": "28519",
                 "population_electors": "24176",
-                "keywords": "2016,嘉義縣,布袋鎮"
+                "keywords": "2016,嘉義縣,布袋鎮",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -1494,7 +1560,29 @@
                 "code": "10010080",
                 "population": "24714",
                 "population_electors": "21338",
-                "keywords": "2016,嘉義縣,六腳鄉"
+                "keywords": "2016,嘉義縣,六腳鄉",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2071,7 +2159,29 @@
                 "code": "10010090",
                 "population": "26346",
                 "population_electors": "22380",
-                "keywords": "2016,嘉義縣,東石鄉"
+                "keywords": "2016,嘉義縣,東石鄉",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2364,7 +2474,29 @@
                 "code": "10010100",
                 "population": "19648",
                 "population_electors": "17033",
-                "keywords": "2016,嘉義縣,義竹鄉"
+                "keywords": "2016,嘉義縣,義竹鄉",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -2689,7 +2821,29 @@
                 "code": "10010110",
                 "population": "16459",
                 "population_electors": "14094",
-                "keywords": "2016,嘉義縣,鹿草鄉"
+                "keywords": "2016,嘉義縣,鹿草鄉",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         },
         {
@@ -3046,32 +3200,30 @@
                 "code": "10010120",
                 "population": "50856",
                 "population_electors": "42494",
-                "keywords": "2016,嘉義縣,水上鄉"
+                "keywords": "2016,嘉義縣,水上鄉",
+                "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
+                "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
+                        "stage": "2",
+                        "name": "蔡易餘",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
+                        "stage": "1",
+                        "name": "邱崑龍",
+                        "party": "無"
+                    },
+                    {
+                        "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
+                        "stage": "1",
+                        "name": "林江釧",
+                        "party": "中國國民黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508671d-d1a8-4678-aac9-35296ab936af",
-        "election": "2016-01 > 立法委員 > 嘉義縣 > 第01選區[區域]",
-        "candidates": [
-            {
-                "id": "550ce5e2-43cc-4dc0-9714-126d6ab936af",
-                "stage": "2",
-                "name": "蔡易餘",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "550ce5fc-9e88-4d42-8838-126d6ab936af",
-                "stage": "1",
-                "name": "邱崑龍",
-                "party": "無"
-            },
-            {
-                "id": "55d40615-8dd8-45ec-9c78-69ea6ab936af",
-                "stage": "1",
-                "name": "林江釧",
-                "party": "中國國民黨"
-            }
-        ]
-    }
+    ]
 }

@@ -235,7 +235,41 @@
                 "code": "64000030",
                 "population": "195589",
                 "population_electors": "149633",
-                "keywords": "2016,高雄市,左營區"
+                "keywords": "2016,高雄市,左營區",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f4f0-40dc-a315-025cacb5b862",
+                        "stage": "1",
+                        "name": "張顯耀",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce725-c5ec-43bc-bb09-126d6ab936af",
+                        "stage": "1",
+                        "name": "柳淑芳",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550da514-14e0-4b27-ba00-1b7f6ab936af",
+                        "stage": "2",
+                        "name": "劉世芳",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56002433-5f50-43ca-8c30-469c6ab936af",
+                        "stage": "1",
+                        "name": "梁蓓禎",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "5659429a-1e98-4343-ab07-197f6ab936af",
+                        "stage": "1",
+                        "name": "莊明憲",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         },
         {
@@ -560,44 +594,42 @@
                 "code": "64000040",
                 "population": "178320",
                 "population_electors": "139264",
-                "keywords": "2016,高雄市,楠梓區"
+                "keywords": "2016,高雄市,楠梓區",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 高雄市 > 第03選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-f4f0-40dc-a315-025cacb5b862",
+                        "stage": "1",
+                        "name": "張顯耀",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce725-c5ec-43bc-bb09-126d6ab936af",
+                        "stage": "1",
+                        "name": "柳淑芳",
+                        "party": "無"
+                    },
+                    {
+                        "id": "550da514-14e0-4b27-ba00-1b7f6ab936af",
+                        "stage": "2",
+                        "name": "劉世芳",
+                        "party": "民主進步黨"
+                    },
+                    {
+                        "id": "56002433-5f50-43ca-8c30-469c6ab936af",
+                        "stage": "1",
+                        "name": "梁蓓禎",
+                        "party": "信心希望聯盟"
+                    },
+                    {
+                        "id": "5659429a-1e98-4343-ab07-197f6ab936af",
+                        "stage": "1",
+                        "name": "莊明憲",
+                        "party": "大愛憲改聯盟"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "55086635-833c-4733-88d2-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 高雄市 > 第03選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-f4f0-40dc-a315-025cacb5b862",
-                "stage": "1",
-                "name": "張顯耀",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce725-c5ec-43bc-bb09-126d6ab936af",
-                "stage": "1",
-                "name": "柳淑芳",
-                "party": "無"
-            },
-            {
-                "id": "550da514-14e0-4b27-ba00-1b7f6ab936af",
-                "stage": "2",
-                "name": "劉世芳",
-                "party": "民主進步黨"
-            },
-            {
-                "id": "56002433-5f50-43ca-8c30-469c6ab936af",
-                "stage": "1",
-                "name": "梁蓓禎",
-                "party": "信心希望聯盟"
-            },
-            {
-                "id": "5659429a-1e98-4343-ab07-197f6ab936af",
-                "stage": "1",
-                "name": "莊明憲",
-                "party": "大愛憲改聯盟"
-            }
-        ]
-    }
+    ]
 }

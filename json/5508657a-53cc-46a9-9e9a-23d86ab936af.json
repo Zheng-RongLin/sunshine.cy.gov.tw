@@ -79,7 +79,29 @@
                 "code": "65000050-015",
                 "population": "11061",
                 "population_electors": "8371",
-                "keywords": "2016,新北市,新莊區,西盛里"
+                "keywords": "2016,新北市,新莊區,西盛里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -132,7 +154,29 @@
                 "code": "65000050-038",
                 "population": "7736",
                 "population_electors": "5751",
-                "keywords": "2016,新北市,新莊區,光華里"
+                "keywords": "2016,新北市,新莊區,光華里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -173,7 +217,29 @@
                 "code": "65000050-035",
                 "population": "3258",
                 "population_electors": "2687",
-                "keywords": "2016,新北市,新莊區,民本里"
+                "keywords": "2016,新北市,新莊區,民本里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -218,7 +284,29 @@
                 "code": "65000050-044",
                 "population": "4923",
                 "population_electors": "3641",
-                "keywords": "2016,新北市,新莊區,光明里"
+                "keywords": "2016,新北市,新莊區,光明里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -263,7 +351,29 @@
                 "code": "65000050-032",
                 "population": "6322",
                 "population_electors": "4814",
-                "keywords": "2016,新北市,新莊區,民安里"
+                "keywords": "2016,新北市,新莊區,民安里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -308,7 +418,29 @@
                 "code": "65000050-041",
                 "population": "4846",
                 "population_electors": "3553",
-                "keywords": "2016,新北市,新莊區,光榮里"
+                "keywords": "2016,新北市,新莊區,光榮里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -353,7 +485,29 @@
                 "code": "65000050-083",
                 "population": "4787",
                 "population_electors": "3448",
-                "keywords": "2016,新北市,新莊區,光正里"
+                "keywords": "2016,新北市,新莊區,光正里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -398,7 +552,29 @@
                 "code": "65000050-082",
                 "population": "4299",
                 "population_electors": "3304",
-                "keywords": "2016,新北市,新莊區,民有里"
+                "keywords": "2016,新北市,新莊區,民有里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -443,7 +619,29 @@
                 "code": "65000050-084",
                 "population": "3017",
                 "population_electors": "2330",
-                "keywords": "2016,新北市,新莊區,光和里"
+                "keywords": "2016,新北市,新莊區,光和里",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -656,7 +854,29 @@
                 "code": "65000070",
                 "population": "183767",
                 "population_electors": "142929",
-                "keywords": "2016,新北市,樹林區"
+                "keywords": "2016,新北市,樹林區",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         },
         {
@@ -841,32 +1061,30 @@
                 "code": "65000080",
                 "population": "88886",
                 "population_electors": "68684",
-                "keywords": "2016,新北市,鶯歌區"
+                "keywords": "2016,新北市,鶯歌區",
+                "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
+                "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
+                "candidates": [
+                    {
+                        "id": "550c640c-cb78-40fa-836c-025cacb5b862",
+                        "stage": "1",
+                        "name": "黃志雄",
+                        "party": "中國國民黨"
+                    },
+                    {
+                        "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
+                        "stage": "1",
+                        "name": "郭柏瑜",
+                        "party": "時代力量"
+                    },
+                    {
+                        "id": "550da35b-afac-443b-bd75-0af26ab936af",
+                        "stage": "2",
+                        "name": "蘇巧慧",
+                        "party": "民主進步黨"
+                    }
+                ]
             }
         }
-    ],
-    "properties": {
-        "election_id": "5508657a-53cc-46a9-9e9a-23d86ab936af",
-        "election": "2016-01 > 立法委員 > 新北市 > 第05選區[區域]",
-        "candidates": [
-            {
-                "id": "550c640c-cb78-40fa-836c-025cacb5b862",
-                "stage": "1",
-                "name": "黃志雄",
-                "party": "中國國民黨"
-            },
-            {
-                "id": "550ce2f5-5004-44c9-b180-126d6ab936af",
-                "stage": "1",
-                "name": "郭柏瑜",
-                "party": "時代力量"
-            },
-            {
-                "id": "550da35b-afac-443b-bd75-0af26ab936af",
-                "stage": "2",
-                "name": "蘇巧慧",
-                "party": "民主進步黨"
-            }
-        ]
-    }
+    ]
 }
