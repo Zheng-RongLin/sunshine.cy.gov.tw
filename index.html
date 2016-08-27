@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>台灣用電地圖</title>
+        <title>2016立法委員政治獻金地圖</title>
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
         <meta charset="utf-8">
-        <meta property="og:title" content="台灣用電地圖">
-        <meta property="og:description" content="台灣用電地圖依據經濟地理圖資供應中心公佈資料繪製，地理分區為經濟三級發布區">
+        <meta property="og:title" content="2016立法委員政治獻金地圖">
+        <meta property="og:description" content="2016立法委員政治獻金地圖">
         <meta property="og:type" content="website">
         <meta property="og:image" content="http://kiang.github.io/taipower/og_image.png">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -47,25 +47,12 @@
             }(document, "script", "facebook-jssdk"));
         </script>
         <div class="container">
-            <h1>台灣用電地圖(2013)</h1>
             <div class="row">
                 <p class="hidden-sm hidden-xs">&nbsp;</p>
                 <div id="map-canvas" class="col-md-12"></div>
                 <div id="detail" class="col-md-12">
                     <div class="col-md-8 col-sm-12 col-xs-12">
                         <h3 id="title"></h3>
-                        <div>單位：千度
-                            <span class="colorBox" style="background-color: #FFFFFF;"></span>&nbsp;無資料
-                            <span class="colorBox" style="background-color: #FFFF66;"></span>&nbsp;1000
-                            <span class="colorBox" style="background-color: #FFFF00;"></span>&nbsp;2000
-                            <br class="hidden-md hidden-lg">
-                            <span class="colorBox" style="background-color: #FFBF00;"></span>&nbsp;3000
-                            <span class="colorBox" style="background-color: #FF9F00;"></span>&nbsp;4000
-                            <span class="colorBox" style="background-color: #FF3F00;"></span>&nbsp;5000
-                            <br class="hidden-md hidden-lg">
-                            <span class="colorBox" style="background-color: #FF0000;"></span>&nbsp;6000
-                            <span class="colorBox" style="background-color: #CC0000;"></span>&nbsp;>6000
-                        </div>
                         <div style="float: right;">快速定位
                             <div class="btn-group">
                                 <a href="#" class="btn btn-default" onclick="map.setCenter({lat: 25.053699, lng: 121.507837});
@@ -101,20 +88,6 @@
                         <div class="clearfix"></div>
                         <hr>
                         <h2 id="content" class="text-muted">在地圖上滑動或點選以顯示數據</h2>
-                        <div class="btn-group btn-group-justified">
-                            <a class="btn btn-primary btn-lg" id="playButton1" href="#">
-                                <span class="glyphicon glyphicon-play" style="display: none"></span>&nbsp;1~2月
-                            </a>
-                            <a class="btn btn-primary btn-lg" id="playButton2" href="#">
-                                <span class="glyphicon glyphicon-play" style="display: none"></span>&nbsp;3~4月
-                            </a>
-                            <a class="btn btn-primary btn-lg" id="playButton3" href="#">
-                                <span class="glyphicon glyphicon-play" style="display: none"></span>&nbsp;5~6月
-                            </a>
-                            <a class="btn btn-primary btn-lg" id="playButton4" href="#">
-                                <span class="glyphicon glyphicon-play" style="display: none"></span>&nbsp;7~8月
-                            </a>
-                        </div>
                         <div id="areaDetail"></div>
                     </div>
                     <div class="col-md-4 col-sm-12 col-xs-12">
@@ -128,7 +101,7 @@
             <div style="text-align: center;">
                 <hr />
                 <a target="_blank" href="https://github.com/kiang/taipower">網站原始碼</a> |
-                <a target="_blank" href="http://egis.moea.gov.tw/MoeaEGPortal/">資料來源</a>
+                <a target="_blank" href="http://k.olc.tw/elections/">資料來源</a>
             </div>
         </div>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
