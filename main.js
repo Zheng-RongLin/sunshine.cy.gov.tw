@@ -22,36 +22,33 @@ function initialize() {
         var electionId = event.feature.getProperty('election_id');
         var title = event.feature.getProperty('election');
         var content = '<div class="clearfix"></div><hr /><h2>' + title + '</h2>';
-        var chartCategories = [], incomes = [], outcomes = [];
+        var chartCategories = [], incomes = [], expenses = [];
         content += '<table class="table table-boarded"><thead><tr>';
         for (i = 4; i <= 20; i++) {
             content += '<th>' + header[i] + '</th>';
         }
         content += '</tr></thead><tbody>';
         for (k in candidates) {
-            var income = outcome = 0;
+            var income = expense = 0;
             content += '<tr>';
-            for (i = 4; i <= 20; i++) {
+            content += '<td><a href="http://k.olc.tw/elections/candidates/view/' + candidates[k].id + '" target="_blank">' + candidates[k].name + '</a></td>';
+            for (i = 5; i <= 20; i++) {
                 if (areas[electionId][candidates[k].id]) {
                     content += '<td>' + areas[electionId][candidates[k].id][i] + '</td>';
                     if (i > 4 && i < 11) {
                         income += parseInt(areas[electionId][candidates[k].id][i]);
                     } else if (i > 10) {
-                        outcome += parseInt(areas[electionId][candidates[k].id][i]);
+                        expense += parseInt(areas[electionId][candidates[k].id][i]);
                     }
                 } else {
-                    if (i === 4) {
-                        content += '<td>' + candidates[k].name + '</td>';
-                    } else {
-                        content += '<td> - </td>';
-                    }
+                    content += '<td> - </td>';
                 }
             }
             content += '</tr>';
             if (areas[electionId][candidates[k].id]) {
                 chartCategories.push(candidates[k].name);
                 incomes.push(income);
-                outcomes.push(outcome);
+                expenses.push(expense);
             }
         }
         content += '</tbody></table>';
@@ -116,7 +113,7 @@ function initialize() {
                 }, {
                     name: '支出',
                     color: 'rgba(186,60,61,.9)',
-                    data: outcomes,
+                    data: expenses,
                     tooltip: {
                         valuePrefix: '$'
                     },
