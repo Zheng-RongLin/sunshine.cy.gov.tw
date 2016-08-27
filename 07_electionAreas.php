@@ -48,11 +48,6 @@ while ($line = fgetcsv($fh, 2048)) {
                 'party' => $record['Candidate']['party'],
             );
         }
-        $geoJson->properties = array(
-            'election_id' => $line[0],
-            'election' => $line[1],
-            'candidates' => $candidates,
-        );
         $areas = json_decode(file_get_contents('http://localhost/~kiang/elections/areas/election/' . $line[0]), true);
         $areaCount = 0;
         foreach ($areas AS $area) {
@@ -63,6 +58,9 @@ while ($line = fgetcsv($fh, 2048)) {
                 ++$areaCount;
             }
             unset($area['Area']['polygons']);
+            $area['Area']['election_id'] = $line[0];
+            $area['Area']['election'] = $line[1];
+            $area['Area']['candidates'] = $candidates;
             $f->properties = $area['Area'];
             $geoJson->features[] = $f;
         }
