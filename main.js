@@ -21,7 +21,7 @@ function initialize() {
         var candidates = event.feature.getProperty('candidates');
         var electionId = event.feature.getProperty('election_id');
         var title = event.feature.getProperty('election');
-        var content = '<div class="clearfix"></div><hr /><h2>' + title + '</h2>';
+        var content = '<div class="clearfix"></div><hr /><h2><a href="http://k.olc.tw/elections/candidates/index/' + electionId + '" target="_blank">' + title + '</a></h2>';
         var chartCategories = [], incomes = [], expenses = [];
         content += '<table class="table table-boarded"><thead><tr>';
         for (i = 4; i <= 20; i++) {
