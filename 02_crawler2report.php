@@ -5,6 +5,7 @@ class Crawler {
     public $totalFetched = false;
     public $totalPages = 10;
     public $tmpPath = '';
+    public $pool = array();
 
     public function main() {
         $this->tmpPath = __DIR__ . '/tmp/reports';
@@ -14,12 +15,16 @@ class Crawler {
         $fp = fopen(__DIR__ . '/reports.csv', 'w');
         $results = array();
         for ($i = 1; $i <= $this->totalPages; $i ++) {
-            foreach ($this->getData($i) as $result) {
+          $results = $this->getData($i);
+            foreach ($results as $result) {
+              if(!isset($this->pool[$result->file])) {
+                $this->pool[$result->file] = true;
                 fputcsv($fp, array(
                     $result->name,
                     $result->account_name,
                     $result->file,
                 ));
+              }
             }
         }
     }
