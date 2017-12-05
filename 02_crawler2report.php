@@ -23,6 +23,11 @@ class Crawler {
                     $result->name,
                     $result->account_name,
                     $result->file,
+                    $result->file1,
+                    $result->file2,
+                    $result->file3,
+                    $result->file4,
+                    $result->file5,
                 ));
               }
             }
@@ -30,6 +35,7 @@ class Crawler {
     }
 
     public function getData($page) {
+      error_log("page {$page}");
         $params = array(
             'xdUrl' => '/wSite/PoliticAccount/PAQuery.jsp',
             'doQuery' => '1',
@@ -58,6 +64,7 @@ class Crawler {
             curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
             file_put_contents($cachedFile, curl_exec($curl));
         }
+
         $ret = file_get_contents($cachedFile);
 
         if (false === $this->totalFetched) {
@@ -67,31 +74,59 @@ class Crawler {
             $this->totalFetched = true;
         }
 
-        $doc = new DOMDocument;
-        @$doc->loadHTML($ret);
-
-        $table_doms = $doc->getElementsByTagName('table');
-        foreach ($table_doms as $table_dom) {
-            if ($table_dom->getAttribute('summary') == '資料表格') {
-                break;
-            }
-        }
-
         $results = array();
-        if(!empty($table_dom)) {
-          foreach ($table_dom->getElementsByTagName('tr') as $tr_dom) {
-              $td_doms = $tr_dom->getElementsByTagName('td');
-              $td_dom = $td_doms->item(0);
-              if (!$td_dom) {
-                  continue;
-              }
-              $result = new StdClass;
-              $result->name = $td_doms->item(0)->nodeValue;
-              $result->account_name = $td_doms->item(1)->nodeValue;
-              $result->file = 'http://sunshine.cy.gov.tw' . $td_doms->item(2)->childNodes->item(0)->attributes->item(0)->nodeValue;
 
-              $results[] = $result;
+        $pos = strpos($ret, '<td class="number">');
+        $posEnd = strpos($ret, '</table>', $pos);
+        $key = '/GipOpenWeb/wSite/public/';
+
+        $lines = explode('<tr>', substr($ret, $pos, $posEnd - $pos));
+        foreach($lines AS $line) {
+          $cols = explode('</td>', $line);
+
+          $result = new StdClass;
+          $result->name = trim(strip_tags($cols[0]));
+          $result->account_name = trim(strip_tags($cols[1]));
+          $pos = strpos($cols[2], $key);
+          $posEnd = strpos($cols[2], '"', $pos);
+          $result->file = 'http://sunshine.cy.gov.tw' . substr($cols[2], $pos, $posEnd - $pos);
+
+          if(isset($cols[3])) {
+            $pos = strpos($cols[3], $key);
+            $posEnd = strpos($cols[3], '"', $pos);
+            $result->file1 = 'http://sunshine.cy.gov.tw' . substr($cols[3], $pos, $posEnd - $pos);
+          } else {
+            $result->file1 = '';
           }
+          if(isset($cols[4])) {
+            $pos = strpos($cols[4], $key);
+            $posEnd = strpos($cols[4], '"', $pos);
+            $result->file2 = 'http://sunshine.cy.gov.tw' . substr($cols[4], $pos, $posEnd - $pos);
+          } else {
+            $result->file2 = '';
+          }
+          if(isset($cols[5])) {
+            $pos = strpos($cols[5], $key);
+            $posEnd = strpos($cols[5], '"', $pos);
+            $result->file3 = 'http://sunshine.cy.gov.tw' . substr($cols[5], $pos, $posEnd - $pos);
+          } else {
+            $result->file3 = '';
+          }
+          if(isset($cols[6])) {
+            $pos = strpos($cols[6], $key);
+            $posEnd = strpos($cols[6], '"', $pos);
+            $result->file4 = 'http://sunshine.cy.gov.tw' . substr($cols[6], $pos, $posEnd - $pos);
+          } else {
+            $result->file4 = '';
+          }
+          if(isset($cols[7])) {
+            $pos = strpos($cols[7], $key);
+            $posEnd = strpos($cols[7], '"', $pos);
+            $result->file5 = 'http://sunshine.cy.gov.tw' . substr($cols[7], $pos, $posEnd - $pos);
+          } else {
+            $result->file5 = '';
+          }
+          $results[] = $result;
         }
 
         return $results;
