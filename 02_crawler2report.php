@@ -93,36 +93,56 @@ class Crawler {
 
           if(isset($cols[3])) {
             $pos = strpos($cols[3], $key);
-            $posEnd = strpos($cols[3], '"', $pos);
-            $result->file1 = 'http://sunshine.cy.gov.tw' . substr($cols[3], $pos, $posEnd - $pos);
+            if(false !== $pos) {
+              $posEnd = strpos($cols[3], '"', $pos);
+              $result->file1 = 'http://sunshine.cy.gov.tw' . substr($cols[3], $pos, $posEnd - $pos);
+            } else {
+              $result->file1 = '';
+            }
           } else {
             $result->file1 = '';
           }
           if(isset($cols[4])) {
             $pos = strpos($cols[4], $key);
-            $posEnd = strpos($cols[4], '"', $pos);
-            $result->file2 = 'http://sunshine.cy.gov.tw' . substr($cols[4], $pos, $posEnd - $pos);
+            if(false !== $pos) {
+              $posEnd = strpos($cols[4], '"', $pos);
+              $result->file2 = 'http://sunshine.cy.gov.tw' . substr($cols[4], $pos, $posEnd - $pos);
+            } else {
+              $result->file2 = '';
+            }
           } else {
             $result->file2 = '';
           }
           if(isset($cols[5])) {
             $pos = strpos($cols[5], $key);
-            $posEnd = strpos($cols[5], '"', $pos);
-            $result->file3 = 'http://sunshine.cy.gov.tw' . substr($cols[5], $pos, $posEnd - $pos);
+            if(false !== $pos) {
+              $posEnd = strpos($cols[5], '"', $pos);
+              $result->file3 = 'http://sunshine.cy.gov.tw' . substr($cols[5], $pos, $posEnd - $pos);
+            } else {
+              $result->file3 = '';
+            }
           } else {
             $result->file3 = '';
           }
           if(isset($cols[6])) {
             $pos = strpos($cols[6], $key);
-            $posEnd = strpos($cols[6], '"', $pos);
-            $result->file4 = 'http://sunshine.cy.gov.tw' . substr($cols[6], $pos, $posEnd - $pos);
+            if(false !== $pos) {
+              $posEnd = strpos($cols[6], '"', $pos);
+              $result->file4 = 'http://sunshine.cy.gov.tw' . substr($cols[6], $pos, $posEnd - $pos);
+            } else {
+              $result->file4 = '';
+            }
           } else {
             $result->file4 = '';
           }
           if(isset($cols[7])) {
             $pos = strpos($cols[7], $key);
-            $posEnd = strpos($cols[7], '"', $pos);
-            $result->file5 = 'http://sunshine.cy.gov.tw' . substr($cols[7], $pos, $posEnd - $pos);
+            if(false !== $pos) {
+              $posEnd = strpos($cols[7], '"', $pos);
+              $result->file5 = 'http://sunshine.cy.gov.tw' . substr($cols[7], $pos, $posEnd - $pos);
+            } else {
+              $result->file5 = '';
+            }
           } else {
             $result->file5 = '';
           }

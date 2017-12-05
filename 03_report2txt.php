@@ -12,6 +12,17 @@ while ($line = fgetcsv($fh, 2048)) {
     $reportFile = "{$reportPath}/{$line[1]}.{$pathinfo['extension']}";
     $txtFile = "{$txtPath}/{$line[1]}.txt";
 
+    for($i = 3; $i < 8; $i++) {
+      if(!empty($line[$i])) {
+        $p = pathinfo($line[$i]);
+        $iCount = $i - 2;
+        $targetFile = "{$reportPath}/{$line[1]}-{$iCount}.{$p['extension']}";
+        if (!file_exists($targetFile) || filesize($targetFile) === 0) {
+          file_put_contents($targetFile, file_get_contents($line[$i]));
+        }
+      }
+    }
+
     echo "processing {$txtFile}\n";
     if (!file_exists($reportFile) || filesize($reportFile) === 0) {
         file_put_contents($reportFile, file_get_contents($line[2]));
