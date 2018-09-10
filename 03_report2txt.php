@@ -10,7 +10,7 @@ while ($line = fgetcsv($fh, 2048)) {
     $pathinfo = pathinfo($line[2]);
     $line[1] = str_replace(array('(', ')'), array('_', '_'), $line[1]);
     $reportFile = "{$reportPath}/{$line[1]}.{$pathinfo['extension']}";
-    $txtFile = "{$txtPath}/{$line[1]}.txt";
+    $txtFile = "{$txtPath}/{$line[1]}.csv";
 
     for($i = 3; $i < 8; $i++) {
       if(!empty($line[$i])) {
@@ -35,17 +35,14 @@ while ($line = fgetcsv($fh, 2048)) {
         unlink($reportFile);
         continue;
     }
-    if (!file_exists($txtFile) || filesize($txtFile) === 0) {
-        exec("abiword --to=txt {$reportFile} -o {$txtFile}");
-    }
-    if (filesize($txtFile) === 0) {
-      $line[] = $reportFile;
-        $errors[] = array(
-            'convert error',
-            implode('|', $line),
-        );
-        continue;
+    if($pathinfo['extension'] === 'doc') {
+      //convert to pdf first
+      exec("/usr/bin/soffice --headless --convert-to pdf {$reportFile}");
+      foreach(glob('*.pdf') AS $reportFile) {
+        exec("/usr/bin/java -jar /home/kiang/programs/tabula-java/tabula-1.0.2-jar-with-dependencies.jar -l {$reportFile} > {$txtFile}");
+        unlink($reportFile);
+      }
+    } else {
+      exec("/usr/bin/java -jar /home/kiang/programs/tabula-java/tabula-1.0.2-jar-with-dependencies.jar -l {$reportFile} > {$txtFile}");
     }
 }
-
-print_r($errors);
